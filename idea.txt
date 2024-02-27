@@ -1,0 +1,66 @@
+Player’s Resistance
+	Attack Awareness
+	Defence
+	Form
+	Tenacity
+	Team work
+	Acceleration
+
+Player’s Speed
+	Response
+	Explosive power
+	Dribble Speed
+	Top Speed
+
+Player’s Physical
+	Body Balance
+	Stamina
+	Jumping
+	Kicking Power
+	Injury Tolerance
+
+Player’s Technique
+	Attack
+	Defence
+	Header Accuracy
+	Dribble Accuracy
+	Short Pass Accuracy
+	Short Pass Speed
+	Long Pass Accuracy
+	Long Pass Speed
+	Shot Accuracy
+	Place Kicking
+	Swerve
+	Ball Control
+	Goal Keeping Skills
+	Weak Foot Accuracy
+	Weak Foot Frequency
+Player's Info
+	Age
+	Potential
+	Date Start of play	
+	Date End of play: null if still play
+	Position
+	
+
+-----------------------------------------------------------------
+1. Các số liệu thể hiện hiệu suất và khả năng thi đấu thực tế
+2. Các yếu tố quyết định mức giá của một cầu thủ???
+
+Hồi quy tuyến tính được sử dụng để mô hình hóa nhật 
+ký phí chuyển nhượng như một hàm của tập hợp các đặc
+điểm của cầu thủ (ví dụ: tuổi, chiều cao, vị trí thi đấu), 
+kinh nghiệm thi đấu (ví dụ: số phút thi đấu, số lần ra sân quốc tế),
+số liệu hiệu suất (ví dụ: bàn thắng được ghi) và cấp độ 
+của các câu lạc bộ tham gia vào thỏa thuận (ví dụ: bộ phận đã chơi)
+
+3. khả năng và chất lượng của cầu thủ, xếp hạng từ nguồn sofifa.com
+4. dữ liệu định giá trên transfermarkt.com
+5. giá trị đông tiền từng thời điểm ?
+
+
+
+
+
+
+

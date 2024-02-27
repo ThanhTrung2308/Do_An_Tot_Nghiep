@@ -1,0 +1,956 @@
+các siêu tham số chưa điều chỉnh: 
+param_space_xgb = {
+    'regressor__subsample': Real(0.5, 0.9, 'uniform'),
+    'regressor__max_depth': Integer(3, 10, 'uniform'),
+    'regressor__learning_rate': Real(0.01, 0.1, 'uniform'),
+    'regressor__gamma': Real(1.0, 2.0, 'uniform'),
+    'regressor__colsample_bytree': Real(0.5, 1.0, 'uniform'),
+    'regressor__n_estimators': Integer(100, 500, 'uniform'),
+    'regressor__min_child_weight': Integer(1, 10, 'uniform'),
+    'regressor__colsample_bylevel': Real(0.5, 1.0, 'uniform'),
+    'regressor__reg_alpha': Real(0.0, 0.1, 'uniform'),
+    'regressor__colsample_bynode': Real(0.5, 1.0, 'uniform'),
+}
+-------------------------------------Results------------------------------------------------
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.5608529000920467
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.5941553925217088
+regressor__gamma: 1.0441031273308474
+regressor__learning_rate: 0.03361033274845073
+regressor__max_depth: 3
+regressor__min_child_weight: 1
+regressor__n_estimators: 499
+regressor__reg_alpha: 0.028119499250414605
+regressor__subsample: 0.9
+
+Metrics for XGBoost:
+Mean Squared Error: 0.49827017266234636
+R-squared: 0.5714858815202537
+Mean Absolute Error: 0.5660574672674181
+Median Absolute Error: 0.4749584302948424
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.597302631622564
+regressor__colsample_bynode: 0.6501630959411696
+regressor__colsample_bytree: 0.6631676718329566
+regressor__gamma: 1.6878403784119635
+regressor__learning_rate: 0.07182981389068323
+regressor__max_depth: 3
+regressor__min_child_weight: 1
+regressor__n_estimators: 578
+regressor__reg_alpha: 0.052879754803429636
+regressor__subsample: 0.7787671268831309
+
+Metrics for XGBoost:
+Mean Squared Error: 0.49067990796375166
+R-squared: 0.5780135361237139
+Mean Absolute Error: 0.5649441001220856
+Median Absolute Error: 0.4633740911754298
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.5
+regressor__colsample_bynode: 0.5
+regressor__colsample_bytree: 0.5
+regressor__gamma: 2.0
+regressor__learning_rate: 0.08343686802258056
+regressor__max_depth: 3
+regressor__min_child_weight: 1
+regressor__n_estimators: 528
+regressor__reg_alpha: 0.0
+regressor__subsample: 0.8
+
+Metrics for XGBoost:
+Mean Squared Error: 0.5064601528661362
+R-squared: 0.5644424694519744
+Mean Absolute Error: 0.5752935681401824
+Median Absolute Error: 0.4757123706891928
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.5
+regressor__gamma: 2.0
+regressor__learning_rate: 0.04635725644047119
+regressor__max_depth: 3
+regressor__min_child_weight: 1
+regressor__n_estimators: 341
+regressor__reg_alpha: 0.1
+regressor__subsample: 0.8
+
+Metrics for XGBoost:
+Mean Squared Error: 0.5010501406217307
+R-squared: 0.5690950991999867
+Mean Absolute Error: 0.5686944175396343
+Median Absolute Error: 0.46885584373521016
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.5
+regressor__gamma: 1.0
+regressor__learning_rate: 0.03388205555171937
+regressor__max_depth: 3
+regressor__min_child_weight: 1
+regressor__n_estimators: 340
+regressor__reg_alpha: 0.1
+regressor__subsample: 0.8
+
+Metrics for XGBoost:
+Mean Squared Error: 0.499670769134349
+R-squared: 0.5702813635790347
+Mean Absolute Error: 0.5666847005150963
+Median Absolute Error: 0.45995473843253
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.9662120933457088
+regressor__colsample_bynode: 0.8954194134649305
+regressor__colsample_bytree: 0.77480580310864
+regressor__gamma: 1.0688343565356329
+regressor__learning_rate: 0.013630459866198132
+regressor__max_depth: 5
+regressor__min_child_weight: 5
+regressor__n_estimators: 667
+regressor__reg_alpha: 0.022332911946544215
+regressor__subsample: 0.6406304827777909
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15674859824639412
+R-squared: 0.5601487262488299
+Mean Absolute Error: 0.29675956502419343
+Median Absolute Error: 0.23116347573877027
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 0.9690239950131665
+regressor__colsample_bytree: 0.7502638203279383
+regressor__gamma: 1.0
+regressor__learning_rate: 0.022654863495497023
+regressor__max_depth: 3
+regressor__min_child_weight: 1
+regressor__n_estimators: 700
+regressor__reg_alpha: 0.1
+regressor__subsample: 0.5
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15528200488786162
+R-squared: 0.5642641248172531
+Mean Absolute Error: 0.29360602912345
+Median Absolute Error: 0.22524872070324017
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 0.6704384342519789
+regressor__colsample_bytree: 0.7483128902225218
+regressor__gamma: 1.0
+regressor__learning_rate: 0.0598290449458544
+regressor__max_depth: 3
+regressor__min_child_weight: 6
+regressor__n_estimators: 485
+regressor__reg_alpha: 0.07883153159188604
+regressor__subsample: 0.6469724902994229
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15450105552878457
+R-squared: 0.5664555419920672
+Mean Absolute Error: 0.2931013279567019
+Median Absolute Error: 0.22202779855797442
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.7590657303330137
+regressor__gamma: 1.0
+regressor__learning_rate: 0.027555215520396387
+regressor__max_depth: 3
+regressor__min_child_weight: 6
+regressor__n_estimators: 700
+regressor__reg_alpha: 0.1
+regressor__subsample: 0.5
+
+Metrics for XGBoost:
+Mean Squared Error: 0.16641530164016258
+R-squared: 0.6096042913142949
+Mean Absolute Error: 0.3165899596944692
+Median Absolute Error: 0.2602837846139587
+
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.5
+regressor__gamma: 1.0
+regressor__learning_rate: 0.04830545699303889
+regressor__max_depth: 3
+regressor__min_child_weight: 1
+regressor__n_estimators: 350
+regressor__reg_alpha: 0.1
+regressor__subsample: 0.5
+
+Metrics for XGBoost:
+Mean Squared Error: 0.14940200499662293
+R-squared: 0.6411202753832479
+Mean Absolute Error: 0.2951898501786229
+Median Absolute Error: 0.2356890842624464
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.5
+regressor__gamma: 1.0
+regressor__learning_rate: 0.014598129642907947
+regressor__max_depth: 5
+regressor__min_child_weight: 10
+regressor__n_estimators: 700
+regressor__reg_alpha: 0.0
+regressor__subsample: 0.7851655021341274
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15106922476335471
+R-squared: 0.6371154337429108
+Mean Absolute Error: 0.29703515641741296
+Median Absolute Error: 0.2334323318140744
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.9086534354874143
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.6555332041740949
+regressor__gamma: 1.0
+regressor__learning_rate: 0.1
+regressor__max_depth: 4
+regressor__min_child_weight: 1
+regressor__n_estimators: 100
+regressor__reg_alpha: 0.0
+regressor__subsample: 0.6136958118562693
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15162786143566953
+R-squared: 0.6357735282234656
+Mean Absolute Error: 0.29582440707669905
+Median Absolute Error: 0.23259158287255766
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.6789605193461924
+regressor__gamma: 1.0
+regressor__learning_rate: 0.05753615477387748
+regressor__max_depth: 4
+regressor__min_child_weight: 1
+regressor__n_estimators: 435
+regressor__reg_alpha: 0.1
+regressor__subsample: 0.9052391946587754
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15320667103233387
+R-squared: 0.6319810573440687
+Mean Absolute Error: 0.2990952070515566
+Median Absolute Error: 0.23486964465030277
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 0.9591915889164225
+regressor__colsample_bytree: 1.0
+regressor__gamma: 1.0
+regressor__learning_rate: 0.020393283145620274
+regressor__max_depth: 3
+regressor__min_child_weight: 10
+regressor__n_estimators: 700
+regressor__reg_alpha: 0.0
+regressor__subsample: 0.7662939561500085
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15201319634018232
+R-squared: 0.6348479122357825
+Mean Absolute Error: 0.29741886268358236
+Median Absolute Error: 0.2300499990265738
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.9710629203897521
+regressor__colsample_bynode: 0.9875752220392762
+regressor__colsample_bytree: 0.6623827116478855
+regressor__gamma: 1.0387346409299627
+regressor__learning_rate: 0.021374073721270755
+regressor__max_depth: 4
+regressor__min_child_weight: 4
+regressor__n_estimators: 365
+regressor__reg_alpha: 0.019339354024230777
+regressor__subsample: 0.8115987996298397
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15346229941027728
+R-squared: 0.6313670104182418
+Mean Absolute Error: 0.3000764884212768
+Median Absolute Error: 0.23432291578057196
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.7309736960546517
+regressor__colsample_bynode: 0.9777908761007209
+regressor__colsample_bytree: 0.9989197144913562
+regressor__gamma: 1.1710343254998452
+regressor__learning_rate: 0.023689920703326525
+regressor__max_depth: 4
+regressor__min_child_weight: 2
+regressor__n_estimators: 659
+regressor__reg_alpha: 0.0029935654420909182
+regressor__subsample: 0.6382195209948286
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15315098777711683
+R-squared: 0.6321148145269024
+Mean Absolute Error: 0.2981991275069275
+Median Absolute Error: 0.2355761975937305
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.5
+regressor__colsample_bynode: 0.9629716346142932
+regressor__colsample_bytree: 1.0
+regressor__gamma: 1.0
+regressor__learning_rate: 0.06356484140081653
+regressor__max_depth: 3
+regressor__min_child_weight: 10
+regressor__n_estimators: 700
+regressor__reg_alpha: 0.07831346102765212
+regressor__subsample: 0.726171241089377
+
+Metrics for XGBoost:
+Mean Squared Error: 0.1523360055295185
+R-squared: 0.6340724897575143
+Mean Absolute Error: 0.29716524080809564
+Median Absolute Error: 0.23468574943349213
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.5
+regressor__gamma: 1.0
+regressor__learning_rate: 0.046253672849270275
+regressor__max_depth: 3
+regressor__min_child_weight: 1
+regressor__n_estimators: 485
+regressor__reg_alpha: 0.031098941240224626
+regressor__subsample: 0.5
+
+Metrics for XGBoost:
+Mean Squared Error: 0.14854033282979323
+R-squared: 0.6431901048339888
+Mean Absolute Error: 0.2942238320416545
+Median Absolute Error: 0.23728540592995886
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.9328839114928749
+regressor__colsample_bynode: 0.5824647431737365
+regressor__colsample_bytree: 0.8409108021502294
+regressor__gamma: 1.0073383092702368
+regressor__learning_rate: 0.09096762069717092
+regressor__max_depth: 4
+regressor__min_child_weight: 10
+regressor__n_estimators: 373
+regressor__reg_alpha: 0.06190778580611953
+regressor__subsample: 0.6846808209157275
+
+Metrics for XGBoost:
+Mean Squared Error: 0.14907660986398902
+R-squared: 0.6419019095761351
+Mean Absolute Error: 0.2938627756663314
+Median Absolute Error: 0.23633474678122746
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.7748281251151552
+regressor__gamma: 1.0402346603106292
+regressor__learning_rate: 0.05675582861817459
+regressor__max_depth: 6
+regressor__min_child_weight: 10
+regressor__n_estimators: 700
+regressor__reg_alpha: 0.08243455948158068
+regressor__subsample: 0.9228371514491962
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15490233669334852
+R-squared: 0.6279078855986107
+Mean Absolute Error: 0.30272048045954153
+Median Absolute Error: 0.23566157363540607
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.8925529843994617
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.6659464866930263
+regressor__gamma: 1.0
+regressor__learning_rate: 0.029291861043394436
+regressor__max_depth: 4
+regressor__min_child_weight: 7
+regressor__n_estimators: 619
+regressor__reg_alpha: 0.099503586185818
+regressor__subsample: 0.5
+
+Metrics for XGBoost:
+Mean Squared Error: 0.14863342343599978
+R-squared: 0.6429664911607951
+Mean Absolute Error: 0.29482252139551923
+Median Absolute Error: 0.23326249402613317
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 0.6030669648339293
+regressor__colsample_bytree: 0.8965684537381609
+regressor__gamma: 1.0
+regressor__learning_rate: 0.08850803545060074
+regressor__max_depth: 4
+regressor__min_child_weight: 8
+regressor__n_estimators: 623
+regressor__reg_alpha: 0.0
+regressor__subsample: 0.6905164462975744
+
+Metrics for XGBoost:
+Mean Squared Error: 0.14957240671563463
+R-squared: 0.640710952081365
+Mean Absolute Error: 0.29289446679869
+Median Absolute Error: 0.21866419297766915
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.6249507870094949
+regressor__gamma: 1.0
+regressor__learning_rate: 0.03423975946162728
+regressor__max_depth: 4
+regressor__min_child_weight: 1
+regressor__n_estimators: 278
+regressor__reg_alpha: 0.0
+regressor__subsample: 0.5831507009315398
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15289679488546165
+R-squared: 0.6327254132598901
+Mean Absolute Error: 0.2996630974582243
+Median Absolute Error: 0.23601796125862165
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.8724737485096623
+regressor__colsample_bynode: 0.6304312737711717
+regressor__colsample_bytree: 0.999400647354972
+regressor__gamma: 1.003022442864596
+regressor__learning_rate: 0.03943753372861117
+regressor__max_depth: 9
+regressor__min_child_weight: 7
+regressor__n_estimators: 672
+regressor__reg_alpha: 0.09898309389518078
+regressor__subsample: 0.7533778331575737
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15582821012882986
+R-squared: 0.6256838377783488
+Mean Absolute Error: 0.30272072658505234
+Median Absolute Error: 0.2372873811889665
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.9837938613339547
+regressor__colsample_bynode: 0.9473329312621648
+regressor__colsample_bytree: 0.550579589645729
+regressor__gamma: 1.006937681783714
+regressor__learning_rate: 0.07124266552466457
+regressor__max_depth: 4
+regressor__min_child_weight: 3
+regressor__n_estimators: 608
+regressor__reg_alpha: 0.04109356850718522
+regressor__subsample: 0.6063537837421661
+
+Metrics for XGBoost:
+Mean Squared Error: 0.14959264672583908
+R-squared: 0.6406623333945637
+Mean Absolute Error: 0.2927147581568825
+Median Absolute Error: 0.22735256676325807
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.837694249918376
+regressor__colsample_bynode: 0.7919499357101911
+regressor__colsample_bytree: 0.9971481571429196
+regressor__gamma: 1.0036304669787899
+regressor__learning_rate: 0.019409224125993208
+regressor__max_depth: 4
+regressor__min_child_weight: 10
+regressor__n_estimators: 504
+regressor__reg_alpha: 0.07482141599256836
+regressor__subsample: 0.8141059057903343
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15394073097125538
+R-squared: 0.6302177662239912
+Mean Absolute Error: 0.30058041903349836
+Median Absolute Error: 0.236581538005004065
+
+Best Hyperparameters (Random Search - XGBoost with Cross-Validation):
+{'regressor__subsample': 0.888888888888889, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 294, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.025510204081632654, 'regressor__gamma': 2.0, 'regressor__colsample_bytree': 0.8}
+
+Metrics for XGBoost with Cross-Validation (Test Set):
+Mean Squared Error: 0.15994304682913046
+R-squared: 0.615799556360036
+Mean Absolute Error: 0.3075371227558322
+Median Absolute Error: 0.24479805467894067
+
+Cross-Validation Scores:
+[-0.17307143 -0.15234366 -0.1975547  -0.18224221 -0.17471227 -0.16916717
+ -0.1613191  -0.14312905 -0.15885361 -0.1484298 ]
+1663    0.218254
+480     1.040018
+1685    0.193438
+507     0.995958
+2150    0.000000
+          ...   
+1680    0.198451
+3445   -0.363668
+3723   -0.399386
+1035    0.549108
+2036    0.024098
+Name: fee, Length: 788, dtype: float64
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.5
+regressor__gamma: 1.0
+regressor__learning_rate: 0.03872818803165951
+regressor__max_depth: 6
+regressor__min_child_weight: 10
+regressor__n_estimators: 364
+regressor__reg_alpha: 0.1
+regressor__subsample: 0.6733505833282555
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15292800340751658
+R-squared: 0.6326504470249924
+Mean Absolute Error: 0.2986161133155212
+Median Absolute Error: 0.24023330576011423
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 0.8614217619537289
+regressor__colsample_bytree: 0.550172315935011
+regressor__gamma: 1.0
+regressor__learning_rate: 0.04069820442405997
+regressor__max_depth: 5
+regressor__min_child_weight: 4
+regressor__n_estimators: 563
+regressor__reg_alpha: 0.09932663749477605
+regressor__subsample: 0.7290519645979269
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15204947792092055
+R-squared: 0.6347607599669473
+Mean Absolute Error: 0.2973314113006982
+Median Absolute Error: 0.23288030187511904
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.5
+regressor__gamma: 1.0
+regressor__learning_rate: 0.031105831757892874
+regressor__max_depth: 3
+regressor__min_child_weight: 10
+regressor__n_estimators: 700
+regressor__reg_alpha: 0.0046865820980274
+regressor__subsample: 0.5383593198768188
+
+Metrics for XGBoost:
+Mean Squared Error: 0.14907600673542457
+R-squared: 0.6419033583559768
+Mean Absolute Error: 0.29346940627499485
+Median Absolute Error: 0.23150371439044307
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.9332384142693242
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.5
+regressor__gamma: 1.0
+regressor__learning_rate: 0.02175834345815729
+regressor__max_depth: 3
+regressor__min_child_weight: 10
+regressor__n_estimators: 661
+regressor__reg_alpha: 0.0
+regressor__subsample: 0.5
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15079981538660767
+R-squared: 0.6377625841137398
+Mean Absolute Error: 0.2960988243371635
+Median Absolute Error: 0.23334535616397323
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.5
+regressor__gamma: 1.0
+regressor__learning_rate: 0.05697174513488503
+regressor__max_depth: 3
+regressor__min_child_weight: 1
+regressor__n_estimators: 553
+regressor__reg_alpha: 0.1
+regressor__subsample: 0.5
+
+Metrics for XGBoost:
+Mean Squared Error: 0.14810332844191473
+R-squared: 0.6442398364917512
+Mean Absolute Error: 0.29351116182478665
+Median Absolute Error: 0.23217812148702235
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.8654928323705252
+regressor__colsample_bynode: 0.9728579765329189
+regressor__colsample_bytree: 0.8115613529382002
+regressor__gamma: 1.009354782725361
+regressor__learning_rate: 0.011583003728680468
+regressor__max_depth: 5
+regressor__min_child_weight: 9
+regressor__n_estimators: 568
+regressor__reg_alpha: 0.04339697216394195
+regressor__subsample: 0.6186455484790246
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15280066275948817
+R-squared: 0.6329563329915027
+Mean Absolute Error: 0.29895360095844575
+Median Absolute Error: 0.23530288634186547
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 0.8800000217838372
+regressor__colsample_bytree: 0.7588066392751427
+regressor__gamma: 1.0
+regressor__learning_rate: 0.01
+regressor__max_depth: 4
+regressor__min_child_weight: 10
+regressor__n_estimators: 621
+regressor__reg_alpha: 0.05929848443782994
+regressor__subsample: 0.7883389197593749
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15357682421788932
+R-squared: 0.6310919094822234
+Mean Absolute Error: 0.29981154813539856
+Median Absolute Error: 0.23528200693667722
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.8547565891673984
+regressor__gamma: 1.0
+regressor__learning_rate: 0.05528963365052045
+regressor__max_depth: 3
+regressor__min_child_weight: 6
+regressor__n_estimators: 499
+regressor__reg_alpha: 0.03783413783544938
+regressor__subsample: 0.5
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15174189700127752
+R-squared: 0.6354996024994912
+Mean Absolute Error: 0.2950640130632471
+Median Absolute Error: 0.22822064836587377
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.9955908983988693
+regressor__colsample_bynode: 0.9328459005610168
+regressor__colsample_bytree: 0.8439554861517089
+regressor__gamma: 1.0534389874397752
+regressor__learning_rate: 0.05718145102725136
+regressor__max_depth: 5
+regressor__min_child_weight: 9
+regressor__n_estimators: 516
+regressor__reg_alpha: 0.028406979480943423
+regressor__subsample: 0.9097219706124594
+
+Metrics for XGBoost:
+Mean Squared Error: 0.1560895036155965
+R-squared: 0.6250561826503129
+Mean Absolute Error: 0.3038104578190559
+Median Absolute Error: 0.23976604626530776
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.6642760294793331
+regressor__gamma: 1.0
+regressor__learning_rate: 0.1
+regressor__max_depth: 5
+regressor__min_child_weight: 4
+regressor__n_estimators: 480
+regressor__reg_alpha: 0.0
+regressor__subsample: 0.8648427770506787
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15513545779994978
+R-squared: 0.6273479035652954
+Mean Absolute Error: 0.3001321643296388
+Median Absolute Error: 0.23735482698472882
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.5
+regressor__gamma: 1.0
+regressor__learning_rate: 0.048670011969940905
+regressor__max_depth: 3
+regressor__min_child_weight: 1
+regressor__n_estimators: 586
+regressor__reg_alpha: 0.1
+regressor__subsample: 0.5
+
+Metrics for XGBoost:
+Mean Squared Error: 0.1486972229389625
+R-squared: 0.6428132378757774
+Mean Absolute Error: 0.2937740748549973
+Median Absolute Error: 0.23234439657551276
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.9902602949463251
+regressor__colsample_bynode: 0.8038416412284917
+regressor__colsample_bytree: 0.6531650361299911
+regressor__gamma: 1.0921821399644316
+regressor__learning_rate: 0.012291648176385088
+regressor__max_depth: 5
+regressor__min_child_weight: 9
+regressor__n_estimators: 679
+regressor__reg_alpha: 0.037054299506086526
+regressor__subsample: 0.6687240317625142
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15251346531763554
+R-squared: 0.6336462122126352
+Mean Absolute Error: 0.29920266642982196
+Median Absolute Error: 0.23530367530540994
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.6060852037114431
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.9663360352652253
+regressor__gamma: 1.0
+regressor__learning_rate: 0.06372019427942699
+regressor__max_depth: 3
+regressor__min_child_weight: 9
+regressor__n_estimators: 361
+regressor__reg_alpha: 0.0376944671217049
+regressor__subsample: 0.5640919534539878
+
+Metrics for XGBoost:
+Mean Squared Error: 0.1511730856795631
+R-squared: 0.6368659486238313
+Mean Absolute Error: 0.2958270954408574
+Median Absolute Error: 0.23363898915627818
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.6205650954154832
+regressor__gamma: 1.0
+regressor__learning_rate: 0.0459878138145725
+regressor__max_depth: 3
+regressor__min_child_weight: 10
+regressor__n_estimators: 700
+regressor__reg_alpha: 0.004094016817417132
+regressor__subsample: 0.6413168696156524
+
+Metrics for XGBoost:
+Mean Squared Error: 0.14815608291346927
+R-squared: 0.6441131145630581
+Mean Absolute Error: 0.2929612532076623
+Median Absolute Error: 0.22454214901843242
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.8441996319766835
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.6345281910010013
+regressor__gamma: 1.0248940657945316
+regressor__learning_rate: 0.04837079368390522
+regressor__max_depth: 3
+regressor__min_child_weight: 8
+regressor__n_estimators: 618
+regressor__reg_alpha: 0.0020201081066271143
+regressor__subsample: 0.7976121631916442
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15289623897748578
+R-squared: 0.6327267486107865
+Mean Absolute Error: 0.29866415265284413
+Median Absolute Error: 0.2359756063259416
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.8659916159209893
+regressor__colsample_bynode: 0.8504054786041377
+regressor__colsample_bytree: 0.9153973766002941
+regressor__gamma: 1.0017545633380203
+regressor__learning_rate: 0.023582868646185674
+regressor__max_depth: 7
+regressor__min_child_weight: 5
+regressor__n_estimators: 535
+regressor__reg_alpha: 0.020133696995089097
+regressor__subsample: 0.5261522942143452
+
+Metrics for XGBoost:
+Mean Squared Error: 0.1541264859365814
+R-squared: 0.6297715627690649
+Mean Absolute Error: 0.30001751386683007
+Median Absolute Error: 0.2401314788509652
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.9329120359710406
+regressor__colsample_bynode: 0.9979447008473413
+regressor__colsample_bytree: 0.6621202730704029
+regressor__gamma: 1.0308349097230542
+regressor__learning_rate: 0.02928033500502957
+regressor__max_depth: 8
+regressor__min_child_weight: 6
+regressor__n_estimators: 605
+regressor__reg_alpha: 0.006111479629444774
+regressor__subsample: 0.5175406191527065
+
+Metrics for XGBoost:
+Mean Squared Error: 0.1519485774144838
+R-squared: 0.6350031338625621
+Mean Absolute Error: 0.2983967592762849
+Median Absolute Error: 0.2323514014252511
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.9044067427031977
+regressor__colsample_bynode: 0.7787363680418199
+regressor__colsample_bytree: 0.7189403570462125
+regressor__gamma: 1.1295213165269316
+regressor__learning_rate: 0.09512078522212761
+regressor__max_depth: 5
+regressor__min_child_weight: 6
+regressor__n_estimators: 694
+regressor__reg_alpha: 0.007064337347406781
+regressor__subsample: 0.5590491952931297
+
+Metrics for XGBoost:
+Mean Squared Error: 0.1515057250030614
+R-squared: 0.6360669131034147
+Mean Absolute Error: 0.2976600351488486
+Median Absolute Error: 0.2390474413918494
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.9954540677435224
+regressor__colsample_bynode: 0.920350194136301
+regressor__colsample_bytree: 0.7527145487135112
+regressor__gamma: 1.0695707008036386
+regressor__learning_rate: 0.03528866658307422
+regressor__max_depth: 4
+regressor__min_child_weight: 7
+regressor__n_estimators: 522
+regressor__reg_alpha: 0.024075222638837507
+regressor__subsample: 0.7771881875862553
+
+Metrics for XGBoost:
+Mean Squared Error: 0.1522685496055916
+R-squared: 0.6342345261599254
+Mean Absolute Error: 0.2984882986938899
+Median Absolute Error: 0.23400899688220897
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.563879548583542
+regressor__gamma: 1.0
+regressor__learning_rate: 0.022533361367623007
+regressor__max_depth: 3
+regressor__min_child_weight: 10
+regressor__n_estimators: 509
+regressor__reg_alpha: 0.1
+regressor__subsample: 0.673256240922169
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15031516307703405
+R-squared: 0.6389267712168418
+Mean Absolute Error: 0.2959598161511151
+Median Absolute Error: 0.23132044275784513
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.5
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.8788508240685682
+regressor__gamma: 1.0
+regressor__learning_rate: 0.020464270242040082
+regressor__max_depth: 3
+regressor__min_child_weight: 3
+regressor__n_estimators: 569
+regressor__reg_alpha: 0.0017730894726241478
+regressor__subsample: 0.6810957484815681
+
+Metrics for XGBoost:
+Mean Squared Error: 0.1516956397117758
+R-squared: 0.6356107174963634
+Mean Absolute Error: 0.2974150441901617
+Median Absolute Error: 0.23069806304841708
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.5
+regressor__gamma: 1.0
+regressor__learning_rate: 0.02344131494678936
+regressor__max_depth: 3
+regressor__min_child_weight: 1
+regressor__n_estimators: 555
+regressor__reg_alpha: 0.0
+regressor__subsample: 0.5
+
+Metrics for XGBoost:
+Mean Squared Error: 0.1493056567536206
+R-squared: 0.6413517142512655
+Mean Absolute Error: 0.295498994907277
+Median Absolute Error: 0.23650595325336948
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.9075333388510785
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.94807257385856
+regressor__gamma: 1.0
+regressor__learning_rate: 0.04042910702086597
+regressor__max_depth: 8
+regressor__min_child_weight: 10
+regressor__n_estimators: 700
+regressor__reg_alpha: 0.048856454787873135
+regressor__subsample: 0.8354159432287298
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15455607601928328
+R-squared: 0.6287396410717515
+Mean Absolute Error: 0.3020256133505653
+Median Absolute Error: 0.2327584716828616
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 0.5279696707768801
+regressor__colsample_bynode: 0.9929962895702669
+regressor__colsample_bytree: 0.7966508401950969
+regressor__gamma: 1.0839560069551244
+regressor__learning_rate: 0.01888219694287007
+regressor__max_depth: 9
+regressor__min_child_weight: 8
+regressor__n_estimators: 687
+regressor__reg_alpha: 0.05609643357805488
+regressor__subsample: 0.6878262681897078
+
+Metrics for XGBoost:
+Mean Squared Error: 0.15508613329336812
+R-squared: 0.6274663863483028
+Mean Absolute Error: 0.3024327490224171
+Median Absolute Error: 0.23777546450054426
+
+Best Hyperparameters (Bayesian Optimization - XGBoost):
+regressor__colsample_bylevel: 1.0
+regressor__colsample_bynode: 1.0
+regressor__colsample_bytree: 0.5
+regressor__gamma: 1.0
+regressor__learning_rate: 0.033961419872798
+regressor__max_depth: 3
+regressor__min_child_weight: 5
+regressor__n_estimators: 700
+regressor__reg_alpha: 0.0
+regressor__subsample: 0.5
+
+Metrics for XGBoost:
+Mean Squared Error: 0.14830269004364607
+R-squared: 0.6437609484291037
+Mean Absolute Error: 0.29367121261139334
+Median Absolute Error: 0.23514855320081593

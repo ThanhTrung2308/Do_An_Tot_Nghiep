@@ -1,0 +1,332 @@
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.5, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 305, 'regressor__max_depth': 7, 'regressor__learning_rate': 0.025595479226995357, 'regressor__gamma': 1.6666666666666667, 'regressor__colsample_bytree': 0.7777777777777778}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.4506212747701346
+R-squared: 0.6146274082139842
+Mean Absolute Error: 0.5346796585903677
+Median Absolute Error: 0.46149240356914856
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.4, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 310, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.0325, 'regressor__gamma': 1.3, 'regressor__colsample_bytree': 0.6}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.4495810717084677
+R-squared: 0.6111971192591336
+Mean Absolute Error: 0.5305337931902163
+Median Absolute Error: 0.4428676823983997
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.6, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 300, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.027500000000000004, 'regressor__gamma': 1.4, 'regressor__colsample_bytree': 0.75}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.43893323307965293
+R-squared: 0.6101667588611053
+Mean Absolute Error: 0.5283963344412184
+Median Absolute Error: 0.4574173780121775
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.6, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 300, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.027500000000000004, 'regressor__gamma': 1.4, 'regressor__colsample_bytree': 0.75}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.41821429832115947
+R-squared: 0.6150960580698912
+Mean Absolute Error: 0.5087268184402478
+Median Absolute Error: 0.4113493881382695
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.4, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 320, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.035, 'regressor__gamma': 1.4, 'regressor__colsample_bytree': 0.6}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.495308001002705
+R-squared: 0.5259666496846407
+Mean Absolute Error: 0.5484088556013449
+Median Absolute Error: 0.47732901164783126
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.7, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 300, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.045, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.825}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.6396752519615009
+R-squared: 0.48742042124756313
+Mean Absolute Error: 0.5660186907557736
+Median Absolute Error: 0.4565085462900136
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.475, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 330, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.04, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.675}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.44436151096586674
+R-squared: 0.6034895701202077
+Mean Absolute Error: 0.5254129375111672
+Median Absolute Error: 0.42887830686520534
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.7, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 300, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.045, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.825}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.6265281559501256
+R-squared: 0.5416946622510103
+Mean Absolute Error: 0.5619964377722368
+Median Absolute Error: 0.46775612949301504
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.7, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 300, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.045, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.825}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.45783357975290273
+R-squared: 0.5915876392178143
+Mean Absolute Error: 0.538351343149226
+Median Absolute Error: 0.46180035777586426
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.7, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 300, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.045, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.825}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.472897614864145
+R-squared: 0.5828607025140613
+Mean Absolute Error: 0.5358127713307272
+Median Absolute Error: 0.4395515746463019
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.7, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 300, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.045, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.825}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.4682557715594123
+R-squared: 0.575245909990151
+Mean Absolute Error: 0.5399455212028625
+Median Absolute Error: 0.45356690363598506
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.4, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 320, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.035, 'regressor__gamma': 1.4, 'regressor__colsample_bytree': 0.6}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.4537415867689352
+R-squared: 0.6005096357576886
+Mean Absolute Error: 0.5348553615753437
+Median Absolute Error: 0.45193934465863883
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.7, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 310, 'regressor__max_depth': 7, 'regressor__learning_rate': 0.035, 'regressor__gamma': 1.7, 'regressor__colsample_bytree': 0.675}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.5028804430334938
+R-squared: 0.5727931265463557
+Mean Absolute Error: 0.5595250663401438
+Median Absolute Error: 0.4597289681629677
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.7, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 300, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.045, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.825}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.48433901943982205
+R-squared: 0.5939466054249654
+Mean Absolute Error: 0.5413996646271727
+Median Absolute Error: 0.44984660107295404
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.475, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 330, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.04, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.675}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.49271169967574796
+R-squared: 0.5674512935267227
+Mean Absolute Error: 0.5644543493164949
+Median Absolute Error: 0.4887254629875759
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.475, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 330, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.04, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.675}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.465718228397449
+R-squared: 0.5660193967131211
+Mean Absolute Error: 0.5323528895587213
+Median Absolute Error: 0.4380107630498786
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.475, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 330, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.04, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.675}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.4601875058460322
+R-squared: 0.6030368678288659
+Mean Absolute Error: 0.5374880189006139
+Median Absolute Error: 0.44660380878060657
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.475, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 325, 'regressor__max_depth': 7, 'regressor__learning_rate': 0.04, 'regressor__gamma': 1.3, 'regressor__colsample_bytree': 0.6}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.45978022031844995
+R-squared: 0.5869972212733284
+Mean Absolute Error: 0.5404479769199989
+Median Absolute Error: 0.45407457943637475
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.7, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 300, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.045, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.825}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.46681624946020994
+R-squared: 0.5866549135401589
+Mean Absolute Error: 0.5487107823158743
+Median Absolute Error: 0.46590978598712063
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.7, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 310, 'regressor__max_depth': 7, 'regressor__learning_rate': 0.035, 'regressor__gamma': 1.7, 'regressor__colsample_bytree': 0.675}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.4865860311850697
+R-squared: 0.5559104155866585
+Mean Absolute Error: 0.5656882791805453
+Median Absolute Error: 0.4916534361111671
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.7, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 300, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.045, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.825}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.4672537999090158
+R-squared: 0.6168158780825104
+Mean Absolute Error: 0.5455239063394497
+Median Absolute Error: 0.45659395792524116
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.475, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 330, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.04, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.675}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.4557698123641379
+R-squared: 0.5882191881834961
+Mean Absolute Error: 0.5327791304715557
+Median Absolute Error: 0.456998422571651
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.475, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 330, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.04, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.675}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.6675252425542927
+R-squared: 0.4832282960737322
+Mean Absolute Error: 0.5932683603336947
+Median Absolute Error: 0.5204001145223094
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.7, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 310, 'regressor__max_depth': 7, 'regressor__learning_rate': 0.035, 'regressor__gamma': 1.7, 'regressor__colsample_bytree': 0.675}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.6361486793623341
+R-squared: 0.5068538026582247
+Mean Absolute Error: 0.5634632885416506
+Median Absolute Error: 0.4656251945312926
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.7, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 300, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.045, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.825}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.44622289582230357
+R-squared: 0.6126339911710235
+Mean Absolute Error: 0.5315513684396199
+Median Absolute Error: 0.444824396462022
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.475, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 330, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.04, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.675}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.6345796829890523
+R-squared: 0.49469773369609393
+Mean Absolute Error: 0.5619916963431429
+Median Absolute Error: 0.4407638023916709
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.4, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 330, 'regressor__max_depth': 6, 'regressor__learning_rate': 0.025, 'regressor__gamma': 1.5, 'regressor__colsample_bytree': 0.75}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.4863108820876811
+R-squared: 0.5594522458131005
+Mean Absolute Error: 0.5620437531323045
+Median Absolute Error: 0.48490692074798236
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.475, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 330, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.04, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.675}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.4515338816908282
+R-squared: 0.5942280525756505
+Mean Absolute Error: 0.5372799145647124
+Median Absolute Error: 0.4563960837919083
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.475, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 330, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.04, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.675}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.4767282802326843
+R-squared: 0.5920577859481413
+Mean Absolute Error: 0.5549953832970821
+Median Absolute Error: 0.4767251940474475
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.4, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 320, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.035, 'regressor__gamma': 1.4, 'regressor__colsample_bytree': 0.6}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.5108223746098115
+R-squared: 0.5672049509153496
+Mean Absolute Error: 0.5671373384979959
+Median Absolute Error: 0.48278286988299435
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.4, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 325, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.035, 'regressor__gamma': 1.3, 'regressor__colsample_bytree': 0.75}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.49660369820876393
+R-squared: 0.5785110443745398
+Mean Absolute Error: 0.5488596589143172
+Median Absolute Error: 0.4440155802492258
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.625, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 315, 'regressor__max_depth': 7, 'regressor__learning_rate': 0.03, 'regressor__gamma': 1.5, 'regressor__colsample_bytree': 0.9}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.4911558662022119
+R-squared: 0.5633645826786199
+Mean Absolute Error: 0.5643078514662104
+Median Absolute Error: 0.5032874968029262
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.475, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 330, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.04, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.675}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.6308048536611723
+R-squared: 0.5266161374213999
+Mean Absolute Error: 0.561264282678601
+Median Absolute Error: 0.4660053966596518
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.7, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 300, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.045, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.825}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.6260355104800708
+R-squared: 0.5115460193783717
+Mean Absolute Error: 0.5567381909695229
+Median Absolute Error: 0.43894972752815953
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.7, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 300, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.045, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.825}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.511096310006505
+R-squared: 0.5226258833994685
+Mean Absolute Error: 0.5632866240632343
+Median Absolute Error: 0.45528420525539914
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.7, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 300, 'regressor__max_depth': 5, 'regressor__learning_rate': 0.045, 'regressor__gamma': 1.6, 'regressor__colsample_bytree': 0.825}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.45442319820329236
+R-squared: 0.5882950946363834
+Mean Absolute Error: 0.5343314263607423
+Median Absolute Error: 0.46436428798929263
+
+Best Hyperparameters (Random Search - XGBoost):
+{'regressor__subsample': 0.7, 'regressor__objective': 'reg:squarederror', 'regressor__n_estimators': 310, 'regressor__max_depth': 7, 'regressor__learning_rate': 0.035, 'regressor__gamma': 1.7, 'regressor__colsample_bytree': 0.675}
+
+Metrics for XGBoost:
+Mean Squared Error: 0.4908453703775251
+R-squared: 0.5721531519534144
+Mean Absolute Error: 0.5471048141941367
+Median Absolute Error: 0.4517805632028491

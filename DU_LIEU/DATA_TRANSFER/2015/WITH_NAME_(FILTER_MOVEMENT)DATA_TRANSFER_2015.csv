@@ -1,0 +1,597 @@
+﻿club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status,normalized_name
+Hamburger SV,Aaron Hunt,28,Germany,Attacking Midfield,AM,,VfL Wolfsburg,Germany,3000000,in,summer,1 Bundesliga,2015,FALSE,,aaron hunt
+Everton FC,Aaron Lennon,28,England,Right Winger,RW,,Tottenham,England,6000000,in,summer,Premier League,2015,FALSE,,aaron lennon
+US Palermo,Abdelhamid El Kaoutari,25,Morocco,Centre-Back,CB,,Montpellier,France,2000000,in,summer,Serie A,2015,FALSE,,abdelhamid el kaoutari
+Club Brugge KV,Abdoulay Diaby,24,Mali,Right Winger,RW,1200000,LOSC Lille,France,2000000,in,summer,Jupiler Pro League,2015,FALSE,,abdoulay diaby
+Watford FC,Abdoulaye Doucouré,23,Mali,Central Midfield,CM,12000000,Stade Rennais,France,10600000,in,winter,Premier League,2015,FALSE,,abdoulaye doucoure
+Chelsea FC,Abdul Rahman Baba,21,Ghana,Left-Back,LB,1200000,FC Augsburg,Germany,26000000,in,summer,Premier League,2015,FALSE,,abdul rahman baba
+Watford FC,Adalberto Peñaranda,18,Venezuela,Left Winger,LW,,Udinese Calcio,Italy,10600000,in,winter,Premier League,2015,FALSE,,adalberto penaranda
+Sunderland AFC,Adam Matthews,23,Wales,Right-Back,RB,,Celtic,Scotland,2800000,in,summer,Premier League,2015,FALSE,,adam matthews
+AS Monaco,Adama Traoré,20,Mali,Attacking Midfield,AM,3000000,LOSC Lille,France,14000000,in,summer,Ligue 1,2015,FALSE,,adama traore
+Aston Villa,Adama Traoré,19,Spain,Right Winger,RW,10000000,Barcelona B,Spain,10000000,in,summer,Premier League,2015,FALSE,,adama traore
+Valencia CF,Aderllan Santos,26,Brazil,Centre-Back,CB,,SC Braga,Portugal,9500000,in,summer,Laliga,2015,FALSE,,aderllan santos
+Sevilla FC,Adil Rami,29,France,Centre-Back,CB,,AC Milan,Italy,2500000,in,summer,Laliga,2015,FALSE,,adil rami
+Bayer 04 Leverkusen,Admir Mehmedi,24,Switzerland,Second Striker,SS,,SC Freiburg,Germany,8000000,in,summer,1 Bundesliga,2015,FALSE,,admir mehmedi
+Málaga CF,Adnane Tighadouini,22,Morocco,Left Winger,LW,,NAC Breda,Netherlands,1200000,in,summer,Laliga,2015,FALSE,,adnane tighadouini
+Torino FC,Afriyie Acquah,23,Ghana,Central Midfield,CM,,TSG Hoffenheim,Germany,3100000,in,summer,Serie A,2015,FALSE,,afriyie acquah
+Juventus FC,Alberto Brignoli,23,Italy,Goalkeeper,GK,1800000,Ternana,Italy,2350000,in,summer,Serie A,2015,FALSE,,alberto brignoli
+SSC Napoli,Alberto Grassi,20,Italy,Defensive Midfield,DM,2000000,Atalanta BC,Italy,8000000,in,winter,Serie A,2015,FALSE,,alberto grassi
+Swansea City,Alberto Paloschi,26,Italy,Centre-Forward,CF,,Chievo Verona,Italy,8800000,in,winter,Premier League,2015,FALSE,,alberto paloschi
+FC Augsburg,Albian Ajeti,18,Switzerland,Centre-Forward,CF,1500000,FC Basel,Switzerland,1000000,in,winter,1 Bundesliga,2015,FALSE,,albian ajeti
+Hamburger SV,Albin Ekdal,25,Sweden,Defensive Midfield,DM,,Cagliari Calcio,Italy,4500000,in,summer,1 Bundesliga,2015,FALSE,,albin ekdal
+FC Barcelona,Aleix Vidal,25,Spain,Right Winger,RW,1000000,Sevilla FC,Spain,17000000,in,summer,Laliga,2015,FALSE,,aleix vidal
+SL Benfica,Alejandro Grimaldo,20,Spain,Left-Back,LB,25000000,Barcelona B,Spain,2100000,in,winter,Liga Portugal,2015,FALSE,,alejandro grimaldo
+Newcastle United,Aleksandar Mitrovic,20,Serbia,Centre-Forward,CF,28000000,RSC Anderlecht,Belgium,18500000,in,summer,Premier League,2015,FALSE,,aleksandar mitrovic
+Zenit St. Petersburg,Aleksandr Kokorin,24,Russia,Second Striker,SS,1000000,Dinamo Moscow,Russia,2000000,in,winter,Premier Liga,2015,FALSE,,aleksandr kokorin
+FC Schalke 04,Alessandro Schöpf,21,Austria,Attacking Midfield,AM,1800000,1.FC Nuremberg,Germany,5000000,in,winter,1 Bundesliga,2015,FALSE,,alessandro schopf
+AC Milan,Alessio Romagnoli,20,Italy,Centre-Back,CB,18000000,AS Roma,Italy,25000000,in,summer,Serie A,2015,FALSE,,alessio romagnoli
+Crystal Palace,Alex McCarthy,25,England,Goalkeeper,GK,,QPR,England,4900000,in,summer,Premier League,2015,FALSE,,alex mccarthy
+Juventus FC,Alex Sandro,24,Brazil,Left-Back,LB,3000000,FC Porto,Portugal,28000000,in,summer,Serie A,2015,FALSE,,alex sandro
+AS Saint-Étienne,Alexander Søderlund,28,Norway,Centre-Forward,CF,,Rosenborg,Norway,2000000,in,winter,Ligue 1,2015,FALSE,,alexander soderlund
+Besiktas JK,Alexis Ruano,30,Spain,Centre-Back,CB,,Getafe,Spain,1100000,in,winter,Super Lig,2015,FALSE,,alexis ruano
+UC Sampdoria,Alfred Duncan,22,Ghana,Central Midfield,CM,4000000,Inter,Italy,2600000,in,summer,Serie A,2015,FALSE,,alfred duncan
+UD Las Palmas,Alfredo Ortuño,24,Spain,Centre-Forward,CF,,Granada CF,Spain,1000000,in,summer,Laliga,2015,FALSE,,alfredo ortuno
+Udinese Calcio,Ali Adnan,23,Iraq,Left-Back,LB,,C. Rizespor,Turkey,2200000,in,summer,Serie A,2015,FALSE,,ali adnan
+AZ Alkmaar,Alireza Jahanbakhsh,21,Iran,Right Winger,RW,4000000,NEC Nijmegen,Netherlands,1800000,in,summer,Eredivisie,2015,FALSE,,alireza jahanbakhsh
+SSC Napoli,Allan,24,Brazil,Defensive Midfield,DM,5500000,Udinese Calcio,Italy,11500000,in,summer,Serie A,2015,FALSE,,allan
+AS Monaco,Allan Saint-Maximin,18,France,Left Winger,LW,24000000,Saint-Étienne,France,5000000,in,summer,Ligue 1,2015,FALSE,,allan saint-maximin
+Trabzonspor,Alper Uludağ,24,Turkey,Left-Back,LB,,Kayserispor,Turkey,1000000,in,summer,Super Lig,2015,FALSE,,alper uludag
+Valencia CF,Álvaro Negredo,29,Spain,Centre-Forward,CF,1000000,Man City,England,28000000,in,summer,Laliga,2015,FALSE,,alvaro negredo
+Ajax Amsterdam,Amin Younes,21,Germany,Left Winger,LW,,Bor. M'gladbach,Germany,2500000,in,summer,Eredivisie,2015,FALSE,,amin younes
+FC Basel 1893,Andraz Sporar,21,Slovenia,Centre-Forward,CF,5000000,NK Olimpija,Slovenia,3800000,in,winter,Super League,2015,FALSE,,andraz sporar
+FC Porto,André André,25,Portugal,Central Midfield,CM,,Vit. Guimarães,Portugal,1500000,in,summer,Liga Portugal,2015,FALSE,,andre andre
+Valencia CF,André Gomes,21,Portugal,Central Midfield,CM,16000000,Benfica,Portugal,20000000,in,summer,Laliga,2015,FALSE,,andre gomes
+Torino FC,Andrea Belotti,21,Italy,Centre-Forward,CF,8000000,US Palermo,Italy,8400000,in,summer,Serie A,2015,FALSE,,andrea belotti
+AC Milan,Andrea Bertolacci,24,Italy,Central Midfield,CM,,AS Roma,Italy,21000000,in,summer,Serie A,2015,FALSE,,andrea bertolacci
+AS Roma,Andrea Bertolacci,24,Italy,Central Midfield,CM,,Genoa,Italy,8500000,in,summer,Serie A,2015,FALSE,,andrea bertolacci
+Atalanta BC,Andrea Petagna,20,Italy,Centre-Forward,CF,7500000,AC Milan,Italy,1000000,in,winter,Serie A,2015,FALSE,,andrea petagna
+Besiktas JK,Andreas Beck,28,Germany,Right-Back,RB,,TSG Hoffenheim,Germany,1750000,in,summer,Super Lig,2015,FALSE,,andreas beck
+PSV Eindhoven,Andrés Guardado,28,Mexico,Central Midfield,CM,1500000,Valencia,Spain,2800000,in,summer,Eredivisie,2015,FALSE,,andres guardado
+ACF Fiorentina,Andrés Schetino,21,Uruguay,Defensive Midfield,DM,,CA Fénix,Uruguay,3500000,in,winter,Serie A,2015,FALSE,,andres schetino
+Juventus FC,Andrés Tello,18,Colombia,Central Midfield,CM,,Envigado,Colombia,1600000,in,summer,Serie A,2015,FALSE,,andres tello
+Udinese Calcio,Andrija Balic,18,Croatia,Central Midfield,CM,,Hajduk Split,Croatia,3000000,in,winter,Serie A,2015,FALSE,,andrija balic
+Newcastle United,Andros Townsend,24,England,Right Winger,RW,1500000,Tottenham,England,15700000,in,winter,Premier League,2015,FALSE,,andros townsend
+SM Caen,Andy Delort,23,Algeria,Centre-Forward,CF,6000000,Wigan,England,2000000,in,summer,Ligue 1,2015,FALSE,,andy delort
+Paris Saint-Germain,Ángel Di María,27,Argentina,Right Winger,RW,8000000,Man Utd,England,63000000,in,summer,Ligue 1,2015,FALSE,,angel di maria
+Levante UD,Ángel Trujillo,27,Spain,Centre-Back,CB,,UD Almería,Spain,1000000,in,summer,Laliga,2015,FALSE,,angel trujillo
+GNK Dinamo Zagreb,Ángelo Henríquez,21,Chile,Centre-Forward,CF,,Man Utd,England,1670000,in,summer,Supersport Hnl,2015,FALSE,,angelo henriquez
+West Ham United,Angelo Ogbonna,27,Italy,Centre-Back,CB,,Juventus,Italy,11000000,in,summer,Premier League,2015,FALSE,,angelo ogbonna
+Manchester United,Anthony Martial,19,France,Centre-Forward,CF,15000000,Monaco,France,60000000,in,summer,Premier League,2015,FALSE,,anthony martial
+1.FC Köln,Anthony Modeste,27,France,Centre-Forward,CF,,TSG Hoffenheim,Germany,4500000,in,summer,1 Bundesliga,2015,FALSE,,anthony modeste
+Bologna FC 1909,Anthony Mounier,27,France,Left Winger,LW,,Montpellier,France,2000000,in,summer,Serie A,2015,FALSE,,anthony mounier
+SV Werder Bremen,Anthony Ujah,24,Nigeria,Centre-Forward,CF,,1.FC Köln,Germany,4500000,in,summer,1 Bundesliga,2015,FALSE,,anthony ujah
+Besiktas JK,Aras Özbiliz,25,Armenia,Right Winger,RW,,Spartak Moscow,Russia,1300000,in,winter,Super Lig,2015,FALSE,,aras ozbiliz
+SC Heerenveen,Arbër Zeneli,20,Kosovo,Left Winger,LW,3000000,Elfsborg,Sweden,1950000,in,winter,Eredivisie,2015,FALSE,,arber zeneli
+FC Barcelona,Arda Turan,28,Turkey,Left Winger,LW,,Atlético Madrid,Spain,34000000,in,summer,Laliga,2015,FALSE,,arda turan
+Ajax Amsterdam,Arkadiusz Milik,21,Poland,Centre-Forward,CF,8000000,B. Leverkusen,Germany,2800000,in,summer,Eredivisie,2015,FALSE,,arkadiusz milik
+SV Werder Bremen,Aron Jóhannsson,24,United States,Centre-Forward,CF,,AZ Alkmaar,Netherlands,4200000,in,summer,1 Bundesliga,2015,FALSE,,aron johannsson
+Bayern Munich,Arturo Vidal,28,Chile,Central Midfield,CM,,Juventus,Italy,39250000,in,summer,1 Bundesliga,2015,FALSE,,arturo vidal
+Real Sociedad,Asier Illarramendi,25,Spain,Defensive Midfield,DM,2000000,Real Madrid,Spain,16000000,in,summer,Laliga,2015,FALSE,,asier illarramendi
+Chelsea FC,Asmir Begovic,28,Bosnia Herzegovina,Goalkeeper,GK,,Stoke City,England,11000000,in,summer,Premier League,2015,FALSE,,asmir begovic
+Atlético de Madrid,Augusto Fernández,29,Argentina,Central Midfield,CM,,Celta de Vigo,Spain,4000000,in,winter,Laliga,2015,FALSE,,augusto fernandez
+Valencia CF,Aymen Abdennour,26,Tunisia,Centre-Back,CB,,Monaco,France,22000000,in,summer,Laliga,2015,FALSE,,aymen abdennour
+Bursaspor,Balázs Dzsudzsák,28,Hungary,Attacking Midfield,AM,,Dinamo Moscow,Russia,1600000,in,summer,Super Lig,2015,FALSE,,balazs dzsudzsak
+LOSC Lille,Baptiste Guillaume,20,Belgium,Centre-Forward,CF,1200000,Lens,France,4000000,in,summer,Ligue 1,2015,FALSE,,baptiste guillaume
+Manchester United,Bastian Schweinsteiger,30,Germany,Central Midfield,CM,,Bayern Munich,Germany,9000000,in,summer,Premier League,2015,FALSE,,bastian schweinsteiger
+Norwich City,Ben Godfrey,18,England,Centre-Back,CB,13000000,York City,England,2950000,in,winter,Premier League,2015,FALSE,,ben godfrey
+AZ Alkmaar,Ben Rienstra,25,Netherlands,Central Midfield,CM,,PEC Zwolle,Netherlands,1500000,in,summer,Eredivisie,2015,FALSE,,ben rienstra
+AFC Bournemouth,Benik Afobe,22,DR Congo,Centre-Forward,CF,1200000,Wolves,England,13300000,in,winter,Premier League,2015,FALSE,,benik afobe
+FC Lorient,Benjamin Moukandjo,26,Cameroon,Centre-Forward,CF,,Stade Reims,France,1500000,in,summer,Ligue 1,2015,FALSE,,benjamin moukandjo
+Paris Saint-Germain,Benjamin Stambouli,24,France,Defensive Midfield,DM,1000000,Tottenham,England,8600000,in,summer,Ligue 1,2015,FALSE,,benjamin stambouli
+FC Copenhagen,Benjamin Verbic,21,Slovenia,Left Winger,LW,2500000,NK Celje,Slovenia,1200000,in,summer,Superliga,2015,FALSE,,benjamin verbic
+Atlético de Madrid,Bernard Mensah,20,Ghana,Attacking Midfield,AM,2400000,Vit. Guimarães,Portugal,6000000,in,summer,Laliga,2015,FALSE,,bernard mensah
+FC Basel 1893,Birkir Bjarnason,27,Iceland,Central Midfield,CM,,Pescara,Italy,2000000,in,summer,Super League,2015,FALSE,,birkir bjarnason
+AS Monaco,Boschilia,19,Brazil,Attacking Midfield,AM,1700000,São Paulo,Brazil,9000000,in,summer,Ligue 1,2015,FALSE,,boschilia
+Olympique Marseille,Bouna Sarr,23,Senegal,Right-Back,RB,2000000,FC Metz,France,2000000,in,summer,Ligue 1,2015,FALSE,,bouna sarr
+Olympiacos Piraeus,Brown Ideye,26,Nigeria,Centre-Forward,CF,,West Brom,England,5420000,in,summer,Super League 1,2015,FALSE,,brown ideye
+VfL Wolfsburg,Bruno Henrique,25,Brazil,Left Winger,LW,2500000,Goiás,Brazil,4500000,in,winter,1 Bundesliga,2015,FALSE,,bruno henrique
+Sporting CP,Bryan Ruiz,29,Costa Rica,Attacking Midfield,AM,,Fulham,England,1320000,in,summer,Liga Portugal,2015,FALSE,,bryan ruiz
+VfL Wolfsburg,Carlos Ascues,23,Peru,Centre-Back,CB,,FBC Melgar,Peru,1500000,in,summer,1 Bundesliga,2015,FALSE,,carlos ascues
+AC Milan,Carlos Bacca,28,Colombia,Centre-Forward,CF,,Sevilla FC,Spain,33300000,in,summer,Serie A,2015,FALSE,,carlos bacca
+Real Madrid,Casemiro,23,Brazil,Defensive Midfield,DM,40000000,FC Porto,Portugal,15000000,in,summer,Laliga,2015,FALSE,,casemiro
+FC Porto,Casemiro,23,Brazil,Defensive Midfield,DM,40000000,Real Madrid,Spain,7500000,in,summer,Liga Portugal,2015,FALSE,,casemiro
+Villarreal CF,Cédric Bakambu,24,DR Congo,Centre-Forward,CF,3400000,Bursaspor,Turkey,7500000,in,summer,Laliga,2015,FALSE,,cedric bakambu
+Southampton FC,Cédric Soares,23,Portugal,Right-Back,RB,3000000,Sporting CP,Portugal,7000000,in,summer,Premier League,2015,FALSE,,cedric soares
+Newcastle United,Chancel Mbemba,20,DR Congo,Centre-Back,CB,15000000,RSC Anderlecht,Belgium,12000000,in,summer,Premier League,2015,FALSE,,chancel mbemba
+Bayer 04 Leverkusen,Charles Aránguiz,26,Chile,Central Midfield,CM,3000000,Internacional,Brazil,13000000,in,summer,1 Bundesliga,2015,FALSE,,charles aranguiz
+Southampton FC,Charlie Austin,26,England,Centre-Forward,CF,,QPR,England,5200000,in,winter,Premier League,2015,FALSE,,charlie austin
+Hannover 96,Charlison Benschop,25,Curacao,Centre-Forward,CF,,F. Düsseldorf,Germany,1500000,in,summer,1 Bundesliga,2015,FALSE,,charlison benschop
+Bayer 04 Leverkusen,Chicharito,27,Mexico,Centre-Forward,CF,1000000,Man Utd,England,12000000,in,summer,1 Bundesliga,2015,FALSE,,chicharito
+Liverpool FC,Christian Benteke,24,Belgium,Centre-Forward,CF,2500000,Aston Villa,England,46500000,in,summer,Premier League,2015,FALSE,,christian benteke
+FK Rostov,Christian Noboa,30,Ecuador,Central Midfield,CM,1200000,PAOK Salonika,Greece,1500000,in,summer,Premier Liga,2015,FALSE,,christian noboa
+Red Bull Salzburg,Cican Stankovic,22,Austria,Goalkeeper,GK,1500000,Grödig,Austria,1250000,in,summer,Bundesliga,2015,FALSE,,cican stankovic
+Sevilla FC,Ciro Immobile,25,Italy,Centre-Forward,CF,15000000,Bor. Dortmund,Germany,11000000,in,winter,Laliga,2015,FALSE,,ciro immobile
+Celta de Vigo,Claudio Beauvue,27,Guadeloupe,Centre-Forward,CF,,Olympique Lyon,France,5000000,in,winter,Laliga,2015,FALSE,,claudio beauvue
+Olympique Lyon,Claudio Beauvue,27,Guadeloupe,Centre-Forward,CF,,Guingamp,France,6000000,in,summer,Ligue 1,2015,FALSE,,claudio beauvue
+Tottenham Hotspur,Clinton N'Jie,22,Cameroon,Right Winger,RW,1200000,Olympique Lyon,France,14100000,in,summer,Premier League,2015,FALSE,,clinton n'jie
+Crystal Palace,Connor Wickham,22,England,Centre-Forward,CF,,Sunderland,England,10000000,in,summer,Premier League,2015,FALSE,,connor wickham
+AS Monaco,Corentin Jean,19,France,Centre-Forward,CF,1000000,Troyes,France,4000000,in,summer,Ligue 1,2015,FALSE,,corentin jean
+Real Betis Balompié,Cristiano Piccini,22,Italy,Centre-Back,CB,,Fiorentina,Italy,1500000,in,summer,Laliga,2015,FALSE,,cristiano piccini
+Southampton FC,Cuco Martina,25,Curacao,Centre-Back,CB,,Twente FC,Netherlands,1500000,in,summer,Premier League,2015,FALSE,,cuco martina
+Trabzonspor,Dame N'Doye,30,Senegal,Centre-Forward,CF,,Hull City,England,3150000,in,summer,Super Lig,2015,FALSE,,dame n'doye
+Leicester City,Daniel Amartey,21,Ghana,Centre-Back,CB,12000000,FC Copenhagen,Denmark,6600000,in,winter,Premier League,2015,FALSE,,daniel amartey
+FC Basel 1893,Daniel Höegh,24,Denmark,Centre-Back,CB,,Odense BK,Denmark,1500000,in,summer,Super League,2015,FALSE,,daniel hoegh
+Celta de Vigo,Daniel Wass,26,Denmark,Central Midfield,CM,1500000,Évian,France,3000000,in,summer,Laliga,2015,FALSE,,daniel wass
+Torino FC,Daniele Baselli,23,Italy,Central Midfield,CM,,Atalanta BC,Italy,6000000,in,summer,Serie A,2015,FALSE,,daniele baselli
+Real Madrid,Danilo,23,Brazil,Centre-Back,CB,15000000,FC Porto,Portugal,31500000,in,summer,Laliga,2015,FALSE,,danilo
+Torino FC,Danilo Avelar,26,Brazil,Left-Back,LB,,Cagliari Calcio,Italy,2000000,in,summer,Serie A,2015,FALSE,,danilo avelar
+FC Porto,Danilo Pereira,23,Portugal,Defensive Midfield,DM,10000000,Marítimo,Portugal,4500000,in,summer,Liga Portugal,2015,FALSE,,danilo pereira
+Liverpool FC,Danny Ings,22,England,Centre-Forward,CF,12000000,Burnley,England,8300000,in,summer,Premier League,2015,FALSE,,danny ings
+VfL Wolfsburg,Dante,31,Brazil,Centre-Back,CB,,Bayern Munich,Germany,4500000,in,summer,1 Bundesliga,2015,FALSE,,dante
+FC Ingolstadt 04,Darío Lezcano,25,Paraguay,Centre-Forward,CF,,FC Luzern,Switzerland,2500000,in,winter,1 Bundesliga,2015,FALSE,,dario lezcano
+Standard Liège,Darwin Andrade,24,Colombia,Left-Back,LB,,Újpest FC,Hungary,2000000,in,summer,Jupiler Pro League,2015,FALSE,,darwin andrade
+Eintracht Frankfurt,David Abraham,28,Argentina,Centre-Back,CB,,TSG Hoffenheim,Germany,1500000,in,summer,1 Bundesliga,2015,FALSE,,david abraham
+Real Sociedad,David Concha,18,Spain,Right Winger,RW,,Racing,Spain,1000000,in,summer,Laliga,2015,FALSE,,david concha
+Kasimpasa,David Pavelka,24,Czech Republic,Central Midfield,CM,,Slovan Liberec,Czech Republic,1500000,in,winter,Super Lig,2015,FALSE,,david pavelka
+Inter Milan,Davide Santon,24,Italy,Left-Back,LB,,Newcastle,England,3700000,in,summer,Serie A,2015,FALSE,,davide santon
+Torino FC,Davide Zappacosta,23,Italy,Right Midfield,RM,7000000,Atalanta BC,Italy,4300000,in,summer,Serie A,2015,FALSE,,davide zappacosta
+PSV Eindhoven,Davy Pröpper,23,Netherlands,Central Midfield,CM,,Vitesse,Netherlands,4500000,in,summer,Eredivisie,2015,FALSE,,davy propper
+Red Bull Salzburg,Dayot Upamecano,16,France,Centre-Back,CB,60000000,VAFC U19,France,2200000,in,summer,Bundesliga,2015,FALSE,,dayot upamecano
+Celtic FC,Dedryck Boyata,24,Belgium,Centre-Back,CB,1000000,Man City,England,2000000,in,summer,Scottish Premiership,2015,FALSE,,dedryck boyata
+Celta de Vigo,Dejan Drazic,19,Serbia,Left Winger,LW,,OFK Beograd,Serbia,1200000,in,summer,Laliga,2015,FALSE,,dejan drazic
+Leicester City,Demarai Gray,19,Jamaica,Left Winger,LW,12000000,Birmingham,England,5100000,in,winter,Premier League,2015,FALSE,,demarai gray
+Villarreal CF,Denis Suárez,21,Spain,Attacking Midfield,AM,2500000,Barcelona,Spain,4000000,in,summer,Laliga,2015,FALSE,,denis suarez
+Besiktas JK,Denys Boyko,27,Ukraine,Goalkeeper,GK,,Dnipro,Ukraine,3300000,in,winter,Super Lig,2015,FALSE,,denys boyko
+Dynamo Kyiv,Derlis González,21,Paraguay,Second Striker,SS,3300000,FC Basel,Switzerland,9400000,in,summer,Premier Liga Ukr,2015,FALSE,,derlis gonzalez
+Levante UD,Deyverson,24,Brazil,Centre-Forward,CF,1000000,Belenenses,Portugal,1800000,in,summer,Laliga,2015,FALSE,,deyverson
+Genoa CFC,Diego Capel,27,Spain,Left Winger,LW,,Sporting CP,Portugal,1300000,in,summer,Serie A,2015,FALSE,,diego capel
+Red Bull Salzburg,Dimitri Oberlin,17,Switzerland,Centre-Forward,CF,,FC Zürich,Switzerland,2000000,in,summer,Bundesliga,2015,FALSE,,dimitri oberlin
+West Ham United,Dimitri Payet,28,France,Attacking Midfield,AM,1800000,Marseille,France,15000000,in,summer,Premier League,2015,FALSE,,dimitri payet
+US Sassuolo,Domenico Berardi,20,Italy,Right Winger,RW,20000000,Juventus,Italy,10000000,in,summer,Serie A,2015,FALSE,,domenico berardi
+FC Augsburg,Dominik Kohr,21,Germany,Defensive Midfield,DM,3500000,B. Leverkusen,Germany,1400000,in,summer,1 Bundesliga,2015,FALSE,,dominik kohr
+1.FC Köln,Dominique Heintz,21,Germany,Centre-Back,CB,1200000,1.FC K'lautern,Germany,1500000,in,summer,1 Bundesliga,2015,FALSE,,dominique heintz
+Trabzonspor,Douglas,27,Netherlands,Centre-Back,CB,,Dinamo Moscow,Russia,1500000,in,summer,Super Lig,2015,FALSE,,douglas
+Bayern Munich,Douglas Costa,24,Brazil,Right Winger,RW,1500000,Shakhtar D.,Ukraine,30000000,in,summer,1 Bundesliga,2015,FALSE,,douglas costa
+SS Lazio,Dusan Basta,30,Serbia,Right-Back,RB,,Udinese Calcio,Italy,10500000,in,summer,Serie A,2015,FALSE,,dusan basta
+Swansea City,Éder,27,Portugal,Centre-Forward,CF,,SC Braga,Portugal,6700000,in,summer,Premier League,2015,FALSE,,eder
+US Palermo,Edoardo Goldaniga,21,Italy,Centre-Back,CB,,Juventus,Italy,1500000,in,summer,Serie A,2015,FALSE,,edoardo goldaniga
+TSG 1899 Hoffenheim,Eduardo Vargas,25,Chile,Centre-Forward,CF,1500000,SSC Napoli,Italy,6000000,in,summer,1 Bundesliga,2015,FALSE,,eduardo vargas
+FC Ingolstadt 04,Elias Kachunga,23,DR Congo,Centre-Forward,CF,,SC Paderborn,Germany,1500000,in,summer,1 Bundesliga,2015,FALSE,,elias kachunga
+SSC Napoli,Elseid Hysaj,21,Albania,Right-Back,RB,5000000,FC Empoli,Italy,5000000,in,summer,Serie A,2015,FALSE,,elseid hysaj
+1.FSV Mainz 05,Emil Berggreen,22,Denmark,Centre-Forward,CF,,E. Braunschweig,Germany,2500000,in,winter,1 Bundesliga,2015,FALSE,,emil berggreen
+Rubin Kazan,Emil Bergström,22,Sweden,Centre-Back,CB,,Djurgården,Sweden,1100000,in,winter,Premier Liga,2015,FALSE,,emil bergstrom
+Udinese Calcio,Emil Hallfredsson,31,Iceland,Central Midfield,CM,,Hellas Verona,Italy,1000000,in,winter,Serie A,2015,FALSE,,emil hallfredsson
+FC Nantes,Emiliano Sala,24,Argentina,Centre-Forward,CF,,G. Bordeaux,France,1000000,in,summer,Ligue 1,2015,FALSE,,emiliano sala
+Manchester City,Enes Ünal,18,Turkey,Centre-Forward,CF,25000000,Bursaspor,Turkey,4400000,in,summer,Premier League,2015,FALSE,,enes unal
+LOSC Lille,Eric Bauthéac,27,France,Right Winger,RW,,OGC Nice,France,2400000,in,summer,Ligue 1,2015,FALSE,,eric bautheac
+Feyenoord Rotterdam,Eric Botteghin,27,Brazil,Centre-Back,CB,,FC Groningen,Netherlands,2500000,in,summer,Eredivisie,2015,FALSE,,eric botteghin
+Juventus FC,Eric Lanini,21,Italy,Centre-Forward,CF,,US Palermo,Italy,2000000,in,summer,Serie A,2015,FALSE,,eric lanini
+Bologna FC 1909,Erick Pulgar,21,Chile,Defensive Midfield,DM,6000000,U. Católica,Chile,2280000,in,summer,Serie A,2015,FALSE,,erick pulgar
+KAA Gent,Erik Berg,26,Sweden,Centre-Back,CB,,Malmö FF,Sweden,1700000,in,summer,Jupiler Pro League,2015,FALSE,,erik berg
+FC Copenhagen,Erik Berg,27,Sweden,Centre-Back,CB,,KAA Gent,Belgium,1500000,in,winter,Superliga,2015,FALSE,,erik berg
+Celtic FC,Erik Sviatchenko,24,Denmark,Centre-Back,CB,1500000,FC Midtjylland,Denmark,2500000,in,winter,Scottish Premiership,2015,FALSE,,erik sviatchenko
+Hellas Verona,Eros Pisano,28,Italy,Right-Back,RB,,US Palermo,Italy,1000000,in,summer,Serie A,2015,FALSE,,eros pisano
+Chievo Verona,Ervin Zukanovic,28,Bosnia Herzegovina,Centre-Back,CB,,KAA Gent,Belgium,1000000,in,summer,Serie A,2015,FALSE,,ervin zukanovic
+UC Sampdoria,Ervin Zukanovic,28,Bosnia Herzegovina,Centre-Back,CB,,Chievo Verona,Italy,3280000,in,summer,Serie A,2015,FALSE,,ervin zukanovic
+Watford FC,Étienne Capoue,26,France,Defensive Midfield,DM,2000000,Tottenham,England,8900000,in,summer,Premier League,2015,FALSE,,etienne capoue
+Sporting CP,Ewerton,26,Brazil,Centre-Back,CB,,Anzhi,Russia,1500000,in,summer,Liga Portugal,2015,FALSE,,ewerton
+Lokomotiv Moskau,Ezekiel Henty,22,Nigeria,Centre-Forward,CF,,NK Olimpija,Slovenia,5000000,in,winter,Premier Liga,2015,FALSE,,ezekiel henty
+AS Roma,Ezequiel Ponce,18,Argentina,Centre-Forward,CF,3000000,Newell's,Argentina,4200000,in,summer,Serie A,2015,FALSE,,ezequiel ponce
+Manchester City,Fabian Delph,25,England,Central Midfield,CM,,Aston Villa,England,11500000,in,summer,Premier League,2015,FALSE,,fabian delph
+1.FSV Mainz 05,Fabian Frei,26,Switzerland,Defensive Midfield,DM,,FC Basel,Switzerland,3600000,in,summer,1 Bundesliga,2015,FALSE,,fabian frei
+TSG 1899 Hoffenheim,Fabian Schär,23,Switzerland,Centre-Back,CB,10000000,FC Basel,Switzerland,4000000,in,summer,1 Bundesliga,2015,FALSE,,fabian schar
+AS Monaco,Fabinho,21,Brazil,Defensive Midfield,DM,38000000,Rio Ave,Portugal,6000000,in,summer,Ligue 1,2015,FALSE,,fabinho
+Sunderland AFC,Fabio Borini,24,Italy,Left Winger,LW,2200000,Liverpool,England,10700000,in,summer,Premier League,2015,FALSE,,fabio borini
+AS Monaco,Farès Bahlouli,20,France,Attacking Midfield,AM,,Olympique Lyon,France,3500000,in,summer,Ligue 1,2015,FALSE,,fares bahlouli
+Málaga CF,Federico Ricca,21,Uruguay,Centre-Back,CB,1500000,Danubio FC,Uruguay,2500000,in,winter,Laliga,2015,FALSE,,federico ricca
+FC Copenhagen,Federico Santander,24,Paraguay,Centre-Forward,CF,,Guaraní,Paraguay,3100000,in,summer,Superliga,2015,FALSE,,federico santander
+Hellas Verona,Federico Viviani,23,Italy,Defensive Midfield,DM,,AS Roma,Italy,4000000,in,summer,Serie A,2015,FALSE,,federico viviani
+FK Rostov,Fedor Kudryashov,28,Russia,Centre-Back,CB,,Terek Grozny,Russia,2000000,in,winter,Premier Liga,2015,FALSE,,fedor kudryashov
+Inter Milan,Felipe Melo,32,Brazil,Centre-Back,CB,,Galatasaray,Turkey,4200000,in,summer,Serie A,2015,FALSE,,felipe melo
+TSG 1899 Hoffenheim,Felipe Pires,20,Brazil,Left Winger,LW,,RB Salzburg,Austria,1000000,in,summer,1 Bundesliga,2015,FALSE,,felipe pires
+Hannover 96,Felix Klaus,22,Germany,Right Winger,RW,,SC Freiburg,Germany,3000000,in,summer,1 Bundesliga,2015,FALSE,,felix klaus
+Fenerbahce,Fernandão,28,Brazil,Centre-Forward,CF,,Atlético-PR,Brazil,3400000,in,summer,Super Lig,2015,FALSE,,fernandao
+UC Sampdoria,Fernando,23,Brazil,Defensive Midfield,DM,2000000,Shakhtar D.,Ukraine,8000000,in,summer,Serie A,2015,FALSE,,fernando
+Hellas Verona,Filip Helander,22,Sweden,Centre-Back,CB,2000000,Malmö FF,Sweden,1000000,in,summer,Serie A,2015,FALSE,,filip helander
+1.FC Köln,Filip Mladenovic,24,Serbia,Left-Back,LB,,BATE Borisov,Belarus,1500000,in,winter,1 Bundesliga,2015,FALSE,,filip mladenovic
+Atlético de Madrid,Filipe Luís,29,Brazil,Left-Back,LB,,Chelsea,England,16000000,in,summer,Laliga,2015,FALSE,,filipe luis
+Bologna FC 1909,Filippo Falco,23,Italy,Right Winger,RW,,Lecce,Italy,1200000,in,winter,Serie A,2015,FALSE,,filippo falco
+1.FSV Mainz 05,Florian Niederlechner,24,Germany,Centre-Forward,CF,,Heidenheim,Germany,2000000,in,summer,1 Bundesliga,2015,FALSE,,florian niederlechner
+Newcastle United,Florian Thauvin,22,France,Right Winger,RW,3500000,Marseille,France,18350000,in,summer,Premier League,2015,FALSE,,florian thauvin
+Real Betis Balompié,Francisco Portillo,25,Spain,Right Winger,RW,1000000,Málaga CF,Spain,1000000,in,summer,Laliga,2015,FALSE,,francisco portillo
+VfL Wolfsburg,Francisco Rodríguez,19,Switzerland,Attacking Midfield,AM,,FC Zürich,Switzerland,1600000,in,summer,1 Bundesliga,2015,FALSE,,francisco rodriguez
+Atalanta BC,Franck Kessié,18,Cote d'Ivoire,Central Midfield,CM,20000000,Stella Club,Cote d'Ivoire,1500000,in,summer,Serie A,2015,FALSE,,franck kessie
+Swansea City,Franck Tabanou,26,France,Left-Back,LB,,Saint-Étienne,France,4900000,in,summer,Premier League,2015,FALSE,,franck tabanou
+FC Schalke 04,Franco Di Santo,26,Argentina,Centre-Forward,CF,,Werder Bremen,Germany,6000000,in,summer,1 Bundesliga,2015,FALSE,,franco di santo
+1.FC Köln,Frederik Sörensen,23,Denmark,Centre-Back,CB,,Juventus,Italy,1780000,in,summer,1 Bundesliga,2015,FALSE,,frederik sorensen
+Sevilla FC,Gaël Kakuta,24,DR Congo,Attacking Midfield,AM,1800000,Chelsea,England,6000000,in,summer,Laliga,2015,FALSE,,gael kakuta
+1.FSV Mainz 05,Gaëtan Bussmann,24,France,Left-Back,LB,,FC Metz,France,1000000,in,summer,1 Bundesliga,2015,FALSE,,gaetan bussmann
+Granada CF,Gaspar Iñíguez,21,Argentina,Central Midfield,CM,,Argentinos Jrs.,Argentina,1200000,in,summer,Laliga,2015,FALSE,,gaspar iniguez
+Udinese Calcio,Gaspar Iñíguez,21,Argentina,Central Midfield,CM,,Granada CF,Spain,1200000,in,winter,Serie A,2015,FALSE,,gaspar iniguez
+PSV Eindhoven,Gastón Pereiro,20,Uruguay,Attacking Midfield,AM,1500000,Nacional,Uruguay,7000000,in,summer,Eredivisie,2015,FALSE,,gaston pereiro
+Inter Milan,Geoffrey Kondogbia,22,Central African Republic,Defensive Midfield,DM,14000000,Monaco,France,36000000,in,summer,Serie A,2015,FALSE,,geoffrey kondogbia
+FC Sion,Geoffrey Mujangi Bia,26,Belgium,Right Winger,RW,,Standard Liège,Belgium,1200000,in,summer,Super League,2015,FALSE,,geoffrey mujangi bia
+Olympique Marseille,Georges-Kevin N'Koudou,20,Cameroon,Left Winger,LW,3300000,FC Nantes,France,1500000,in,summer,Ligue 1,2015,FALSE,,georges-kevin n'koudou
+Newcastle United,Georginio Wijnaldum,24,Netherlands,Central Midfield,CM,6000000,PSV Eindhoven,Netherlands,20000000,in,summer,Premier League,2015,FALSE,,georginio wijnaldum
+Everton FC,Gerard Deulofeu,21,Spain,Centre-Forward,CF,10000000,Barcelona,Spain,6000000,in,summer,Premier League,2015,FALSE,,gerard deulofeu
+RCD Espanyol Barcelona,Gerard Moreno,23,Spain,Centre-Forward,CF,15000000,Villarreal,Spain,1500000,in,summer,Laliga,2015,FALSE,,gerard moreno
+Real Betis Balompié,Germán Pezzella,24,Argentina,Centre-Back,CB,5000000,River Plate,Argentina,2250000,in,summer,Laliga,2015,FALSE,,german pezzella
+FC Porto,Giannelli Imbula,22,DR Congo,Defensive Midfield,DM,,Marseille,France,20000000,in,summer,Liga Portugal,2015,FALSE,,giannelli imbula
+Stoke City,Giannelli Imbula,23,DR Congo,Defensive Midfield,DM,,FC Porto,Portugal,24250000,in,winter,Premier League,2015,FALSE,,giannelli imbula
+AS Monaco,Gil Dias,18,Portugal,Left Midfield,LM,1500000,Braga B,Portugal,5000000,in,summer,Ligue 1,2015,FALSE,,gil dias
+ACF Fiorentina,Gilberto,22,Brazil,Right-Back,RB,4000000,Botafogo,Brazil,2000000,in,summer,Serie A,2015,FALSE,,gilberto
+Stade Rennais FC,Giovanni Sio,26,Cote d'Ivoire,Centre-Forward,CF,,FC Basel,Switzerland,2000000,in,summer,Ligue 1,2015,FALSE,,giovanni sio
+1.FSV Mainz 05,Giulio Donati,25,Italy,Right-Back,RB,,B. Leverkusen,Germany,1000000,in,winter,1 Bundesliga,2015,FALSE,,giulio donati
+AFC Bournemouth,Glenn Murray,31,England,Centre-Forward,CF,,Crystal Palace,England,5400000,in,summer,Premier League,2015,FALSE,,glenn murray
+PAOK Thessaloniki,Gojko Cimirot,22,Bosnia Herzegovina,Defensive Midfield,DM,1500000,FK Sarajevo,Bosnia Herzegovina,1680000,in,summer,Super League 1,2015,FALSE,,gojko cimirot
+Leicester City,Gökhan İnler,31,Switzerland,Defensive Midfield,DM,,SSC Napoli,Italy,7000000,in,summer,Premier League,2015,FALSE,,gokhan inler
+Borussia Dortmund,Gonzalo Castro,28,Germany,Central Midfield,CM,,B. Leverkusen,Germany,11000000,in,summer,1 Bundesliga,2015,FALSE,,gonzalo castro
+SD Eibar,Gonzalo Escalante,22,Argentina,Central Midfield,CM,2000000,Catania,Italy,1000000,in,winter,Laliga,2015,FALSE,,gonzalo escalante
+Norwich City,Graham Dorrans,28,Scotland,Central Midfield,CM,,West Brom,England,4100000,in,summer,Premier League,2015,FALSE,,graham dorrans
+US Sassuolo,Grégoire Defrel,24,France,Centre-Forward,CF,1500000,Cesena,Italy,7000000,in,summer,Serie A,2015,FALSE,,gregoire defrel
+AS Monaco,Guido Carrillo,24,Argentina,Centre-Forward,CF,,Estudiantes LP,Argentina,9000000,in,summer,Ligue 1,2015,FALSE,,guido carrillo
+FC Nantes,Guillaume Gillet,31,Belgium,Defensive Midfield,DM,,RSC Anderlecht,Belgium,2000000,in,winter,Ligue 1,2015,FALSE,,guillaume gillet
+Rubin Kazan,Guillermo Cotugno,20,Uruguay,Right-Back,RB,,Danubio FC,Uruguay,1000000,in,summer,Premier Liga,2015,FALSE,,guillermo cotugno
+KAA Gent,Gustav Wikheim,22,Norway,Left Winger,LW,1000000,Strømsgodset,Norway,1600000,in,winter,Jupiler Pro League,2015,FALSE,,gustav wikheim
+Club Brugge KV,Hans Vanaken,22,Belgium,Attacking Midfield,AM,10000000,KSC Lokeren,Belgium,4250000,in,summer,Jupiler Pro League,2015,FALSE,,hans vanaken
+KAA Gent,Hatem Elhamed,24,Israel,Centre-Back,CB,,FC Ashdod,Israel,1000000,in,summer,Jupiler Pro League,2015,FALSE,,hatem elhamed
+PSV Eindhoven,Héctor Moreno,27,Mexico,Centre-Back,CB,1000000,Espanyol,Spain,3500000,in,summer,Eredivisie,2015,FALSE,,hector moreno
+Newcastle United,Henri Saivet,25,Senegal,Attacking Midfield,AM,,G. Bordeaux,France,6000000,in,winter,Premier League,2015,FALSE,,henri saivet
+RCD Espanyol Barcelona,Hernán Pérez,26,Paraguay,Right Winger,RW,,Villarreal,Spain,1300000,in,summer,Laliga,2015,FALSE,,hernan perez
+Juventus FC,Hernanes,30,Brazil,Attacking Midfield,AM,,Inter,Italy,13000000,in,summer,Serie A,2015,FALSE,,hernanes
+Tottenham Hotspur,Heung-min Son,23,"Korea, South",Centre-Forward,CF,50000000,B. Leverkusen,Germany,30000000,in,summer,Premier League,2015,FALSE,,heung-min son
+Hannover 96,Hotaru Yamaguchi,25,Japan,Defensive Midfield,DM,,Cerezo Osaka,Japan,1000000,in,winter,1 Bundesliga,2015,FALSE,,hotaru yamaguchi
+FC Porto,Hyun-jun Suk,24,"Korea, South",Centre-Forward,CF,,Vitória Setúbal,Portugal,1500000,in,winter,Liga Portugal,2015,FALSE,,hyun-jun suk
+Celta de Vigo,Iago Aspas,27,Spain,Centre-Forward,CF,5000000,Sevilla FC,Spain,5300000,in,summer,Laliga,2015,FALSE,,iago aspas
+Sevilla FC,Iago Aspas,27,Spain,Centre-Forward,CF,5000000,Liverpool,England,6000000,in,summer,Laliga,2015,FALSE,,iago aspas
+AS Roma,Iago Falque,26,Spain,Right Winger,RW,,Genoa,Italy,7000000,in,winter,Serie A,2015,FALSE,,iago falque
+LOSC Lille,Ibrahim Amadou,22,France,Defensive Midfield,DM,1500000,AS Nancy,France,2000000,in,summer,Ligue 1,2015,FALSE,,ibrahim amadou
+Bologna FC 1909,Ibrahima Mbaye,20,Senegal,Right-Back,RB,,Inter,Italy,3500000,in,summer,Serie A,2015,FALSE,,ibrahima mbaye
+Aston Villa,Idrissa Gueye,25,Senegal,Central Midfield,CM,5000000,LOSC Lille,France,9000000,in,summer,Premier League,2015,FALSE,,idrissa gueye
+VfL Wolfsburg,Ismail Azzaoui,17,Belgium,Right Winger,RW,,Tottenham U21,England,1000000,in,summer,1 Bundesliga,2015,FALSE,,ismail azzaoui
+AS Roma,Ismail H'Maidat,20,Morocco,Central Midfield,CM,,Brescia,Italy,3150000,in,winter,Serie A,2015,FALSE,,ismail h'maidat
+Atalanta BC,Isnik Alimi,21,North Macedonia,Central Midfield,CM,,Chievo Verona,Italy,1200000,in,summer,Serie A,2015,FALSE,,isnik alimi
+AS Monaco,Ivan Cavaleiro,21,Angola,Left Winger,LW,2500000,Benfica,Portugal,15000000,in,summer,Ligue 1,2015,FALSE,,ivan cavaleiro
+RSC Anderlecht,Ivan Obradovic,26,Serbia,Left-Back,LB,,KV Mechelen,Belgium,2500000,in,summer,Jupiler Pro League,2015,FALSE,,ivan obradovic
+Inter Milan,Ivan Perisic,26,Croatia,Left Midfield,LM,4000000,VfL Wolfsburg,Germany,19000000,in,summer,Serie A,2015,FALSE,,ivan perisic
+Udinese Calcio,Iván Piris,26,Paraguay,Right-Back,RB,,Maldonado,Uruguay,3500000,in,summer,Serie A,2015,FALSE,,ivan piris
+Standard Liège,Ivan Santini,26,Croatia,Centre-Forward,CF,,KV Kortrijk,Belgium,1600000,in,summer,Jupiler Pro League,2015,FALSE,,ivan santini
+Dnipro Dnipropetrovsk (-2020),Ivan Tomecak,25,Croatia,Right-Back,RB,,HNK Rijeka,Croatia,1000000,in,summer,Premier Liga Ukr,2015,FALSE,,ivan tomecak
+SS Lazio,Ivan Vargic,28,Croatia,Goalkeeper,GK,,HNK Rijeka,Croatia,2600000,in,winter,Serie A,2015,FALSE,,ivan vargic
+Spartak Moscow,Ivelin Popov,27,Bulgaria,Attacking Midfield,AM,,Kuban Krasnodar,Russia,6000000,in,summer,Premier Liga,2015,FALSE,,ivelin popov
+Hannover 96,Iver Fossum,19,Norway,Central Midfield,CM,1500000,Strømsgodset,Norway,2000000,in,winter,1 Bundesliga,2015,FALSE,,iver fossum
+Norwich City,Ivo Pinto,26,Portugal,Right-Back,RB,,Dinamo Zagreb,Croatia,3700000,in,winter,Premier League,2015,FALSE,,ivo pinto
+Stade Reims,Jaba Kankava,29,Georgia,Defensive Midfield,DM,,Dnipro,Ukraine,1500000,in,summer,Ligue 1,2015,FALSE,,jaba kankava
+FC Augsburg,Ja-cheol Koo,26,"Korea, South",Central Midfield,CM,,1.FSV Mainz 05,Germany,5000000,in,summer,1 Bundesliga,2015,FALSE,,ja-cheol koo
+Atlético de Madrid,Jackson Martínez,28,Colombia,Centre-Forward,CF,,FC Porto,Portugal,35000000,in,summer,Laliga,2015,FALSE,,jackson martinez
+ACF Fiorentina,Jaime Báez,20,Uruguay,Left Winger,LW,1200000,Juventud,Uruguay,2300000,in,summer,Serie A,2015,FALSE,,jaime baez
+West Bromwich Albion,James Chester,26,Wales,Centre-Back,CB,,Hull City,England,11300000,in,summer,Premier League,2015,FALSE,,james chester
+Norwich City,James Maddison,19,England,Attacking Midfield,AM,70000000,Coventry,England,2650000,in,winter,Premier League,2015,FALSE,,james maddison
+West Bromwich Albion,James McClean,26,Ireland,Left Midfield,LM,,Wigan,England,2100000,in,summer,Premier League,2015,FALSE,,james mcclean
+Sunderland AFC,Jan Kirchhoff,25,Germany,Centre-Back,CB,,Bayern Munich,Germany,1000000,in,winter,Premier League,2015,FALSE,,jan kirchhoff
+VfB Stuttgart,Jan Kliment,21,Czech Republic,Centre-Forward,CF,,Jihlava,Czech Republic,1500000,in,summer,1 Bundesliga,2015,FALSE,,jan kliment
+Atalanta BC,Jasmin Kurtic,26,Slovenia,Central Midfield,CM,,Sassuolo,Italy,3200000,in,summer,Serie A,2015,FALSE,,jasmin kurtic
+OGC Nice,Jean Michaël Seri,23,Cote d'Ivoire,Defensive Midfield,DM,1500000,Paços Ferreira,Portugal,1000000,in,summer,Ligue 1,2015,FALSE,,jean michael seri
+FC Basel 1893,Jean-Paul Boëtius,21,Netherlands,Attacking Midfield,AM,1200000,Feyenoord,Netherlands,2000000,in,summer,Super League,2015,FALSE,,jean-paul boetius
+SM Caen,Jeff Louis,22,Haiti,Attacking Midfield,AM,,Standard Liège,Belgium,2000000,in,summer,Ligue 1,2015,FALSE,,jeff louis
+FC Augsburg,Jeffrey Gouweleeuw,24,Netherlands,Centre-Back,CB,3000000,AZ Alkmaar,Netherlands,3000000,in,winter,1 Bundesliga,2015,FALSE,,jeffrey gouweleeuw
+Inter Milan,Jeison Murillo,23,Colombia,Centre-Back,CB,,Granada CF,Spain,8000000,in,summer,Serie A,2015,FALSE,,jeison murillo
+Club Brugge KV,Jelle Vossen,26,Belgium,Centre-Forward,CF,,Burnley,England,3300000,in,summer,Jupiler Pro League,2015,FALSE,,jelle vossen
+AS Monaco,Jemerson,23,Brazil,Centre-Back,CB,1700000,Atlético-MG,Brazil,11000000,in,winter,Ligue 1,2015,FALSE,,jemerson
+Sunderland AFC,Jeremain Lens,27,Netherlands,Right Winger,RW,,Dynamo Kyiv,Ukraine,11400000,in,summer,Premier League,2015,FALSE,,jeremain lens
+Sivasspor,Jerónimo Barrales,28,Argentina,Centre-Forward,CF,,Asteras Tripoli,Greece,1500000,in,summer,Super Lig,2015,FALSE,,jeronimo barrales
+FC Groningen,Jesper Drost,22,Netherlands,Attacking Midfield,AM,,PEC Zwolle,Netherlands,1450000,in,summer,Eredivisie,2015,FALSE,,jesper drost
+FC Porto,Jesús Corona,22,Mexico,Right Winger,RW,7000000,Twente FC,Netherlands,10500000,in,summer,Liga Portugal,2015,FALSE,,jesus corona
+Real Madrid,Jesús Vallejo,18,Spain,Centre-Back,CB,2000000,Real Zaragoza,Spain,5000000,in,summer,Laliga,2015,FALSE,,jesus vallejo
+FC Lorient,Jimmy Cabot,21,France,Right Midfield,RM,3500000,Troyes,France,1800000,in,winter,Ligue 1,2015,FALSE,,jimmy cabot
+Valencia CF,João Cancelo,21,Portugal,Right-Back,RB,50000000,Benfica,Portugal,15000000,in,summer,Laliga,2015,FALSE,,joao cancelo
+Real Betis Balompié,Joaquín,34,Spain,Right Winger,RW,,Fiorentina,Italy,1500000,in,summer,Laliga,2015,FALSE,,joaquin
+Liverpool FC,Joe Gomez,18,England,Centre-Back,CB,22000000,Charlton,England,4900000,in,summer,Premier League,2015,FALSE,,joe gomez
+Torino FC,Joel Obi,24,Nigeria,Central Midfield,CM,,Inter,Italy,2200000,in,summer,Serie A,2015,FALSE,,joel obi
+TSG 1899 Hoffenheim,Joelinton,18,Brazil,Central Midfield,CM,42000000,Sport Recife,Brazil,2200000,in,summer,1 Bundesliga,2015,FALSE,,joelinton
+FC Schalke 04,Johannes Geis,21,Germany,Defensive Midfield,DM,,1.FSV Mainz 05,Germany,10500000,in,summer,1 Bundesliga,2015,FALSE,,johannes geis
+Aston Villa,Joleon Lescott,33,England,Centre-Back,CB,,West Brom,England,1400000,in,summer,Premier League,2015,FALSE,,joleon lescott
+Borussia Mönchengladbach,Jonas Hofmann,23,Germany,Right Winger,RW,13000000,Bor. Dortmund,Germany,8000000,in,winter,1 Bundesliga,2015,FALSE,,jonas hofmann
+TSG 1899 Hoffenheim,Jonathan Schmid,25,France,Right Midfield,RM,,SC Freiburg,Germany,3500000,in,summer,1 Bundesliga,2015,FALSE,,jonathan schmid
+Bayer 04 Leverkusen,Jonathan Tah,19,Germany,Centre-Back,CB,20000000,Hamburger SV,Germany,7500000,in,summer,1 Bundesliga,2015,FALSE,,jonathan tah
+UD Las Palmas,Jonathan Viera,25,Spain,Attacking Midfield,AM,1500000,Standard Liège,Belgium,2900000,in,summer,Laliga,2015,FALSE,,jonathan viera
+Real Sociedad,Jonathas,26,Brazil,Centre-Forward,CF,,Elche CF,Spain,7200000,in,summer,Laliga,2015,FALSE,,jonathas
+Newcastle United,Jonjo Shelvey,23,England,Central Midfield,CM,3700000,Swansea,England,16000000,in,winter,Premier League,2015,FALSE,,jonjo shelvey
+West Bromwich Albion,Jonny Evans,27,Northern Ireland,Centre-Back,CB,2000000,Man Utd,England,8300000,in,summer,Premier League,2015,FALSE,,jonny evans
+Aston Villa,Jordan Amavi,21,France,Left-Back,LB,2000000,OGC Nice,France,11000000,in,summer,Premier League,2015,FALSE,,jordan amavi
+Aston Villa,Jordan Ayew,23,Ghana,Centre-Forward,CF,5000000,FC Lorient,France,12000000,in,summer,Premier League,2015,FALSE,,jordan ayew
+Aston Villa,Jordan Veretout,22,France,Central Midfield,CM,16000000,FC Nantes,France,10000000,in,summer,Premier League,2015,FALSE,,jordan veretout
+Southampton FC,Jordy Clasie,24,Netherlands,Defensive Midfield,DM,3000000,Feyenoord,Netherlands,15000000,in,summer,Premier League,2015,FALSE,,jordy clasie
+Watford FC,Jose Cholevas,31,Greece,Left-Back,LB,,AS Roma,Italy,2500000,in,summer,Premier League,2015,FALSE,,jose cholevas
+Watford FC,José Manuel Jurado,29,Spain,Attacking Midfield,AM,,Spartak Moscow,Russia,8600000,in,summer,Premier League,2015,FALSE,,jose manuel jurado
+FC Porto,José Sá,23,Portugal,Goalkeeper,GK,18000000,Marítimo,Portugal,1200000,in,winter,Liga Portugal,2015,FALSE,,jose sa
+Besiktas JK,José Sosa,30,Argentina,Central Midfield,CM,,Metalist,Ukraine,2000000,in,summer,Super Lig,2015,FALSE,,jose sosa
+Stoke City,Joselu,25,Spain,Centre-Forward,CF,6000000,Hannover 96,Germany,8000000,in,summer,Premier League,2015,FALSE,,joselu
+Bayern Munich,Joshua Kimmich,20,Germany,Defensive Midfield,DM,75000000,VfB Stuttgart,Germany,8500000,in,summer,1 Bundesliga,2015,FALSE,,joshua kimmich
+VfB Stuttgart,Joshua Kimmich,20,Germany,Defensive Midfield,DM,75000000,RB Leipzig,Germany,1500000,in,summer,1 Bundesliga,2015,FALSE,,joshua kimmich
+Borussia Mönchengladbach,Josip Drmic,22,Switzerland,Centre-Forward,CF,2000000,B. Leverkusen,Germany,10000000,in,summer,1 Bundesliga,2015,FALSE,,josip drmic
+Celtic FC,Jozo Simunovic,21,Croatia,Centre-Back,CB,,Dinamo Zagreb,Croatia,7500000,in,summer,Scottish Premiership,2015,FALSE,,jozo simunovic
+Southampton FC,Juanmi,22,Spain,Left Winger,LW,10000000,Málaga CF,Spain,7000000,in,summer,Premier League,2015,FALSE,,juanmi
+Borussia Dortmund,Ju-ho Park,28,"Korea, South",Left-Back,LB,,1.FSV Mainz 05,Germany,3000000,in,summer,1 Bundesliga,2015,FALSE,,ju-ho park
+VfL Wolfsburg,Julian Draxler,21,Germany,Left Winger,LW,5000000,FC Schalke 04,Germany,43000000,in,summer,1 Bundesliga,2015,FALSE,,julian draxler
+Borussia Dortmund,Julian Weigl,19,Germany,Defensive Midfield,DM,10000000,1860 Munich,Germany,2500000,in,summer,1 Bundesliga,2015,FALSE,,julian weigl
+FC Schalke 04,Júnior Caiçara,26,Brazil,Right-Back,RB,,Ludogorets,Bulgaria,4500000,in,summer,1 Bundesliga,2015,FALSE,,junior caicara
+LOSC Lille,Junior Tallo,22,Cote d'Ivoire,Centre-Forward,CF,,AS Roma,Italy,1000000,in,summer,Ligue 1,2015,FALSE,,junior tallo
+AC Milan,Juraj Kucka,28,Slovakia,Central Midfield,CM,1200000,Genoa,Italy,4000000,in,summer,Serie A,2015,FALSE,,juraj kucka
+RSC Anderlecht,Kara Mbodj,25,Senegal,Centre-Back,CB,,KRC Genk,Belgium,3000000,in,summer,Jupiler Pro League,2015,FALSE,,kara mbodj
+Olympique Marseille,Karim Rekik,20,Netherlands,Centre-Back,CB,4000000,Man City,England,5000000,in,summer,Ligue 1,2015,FALSE,,karim rekik
+FC Copenhagen,Kasper Kusk,23,Denmark,Right Winger,RW,,Twente FC,Netherlands,1000000,in,summer,Superliga,2015,FALSE,,kasper kusk
+Chelsea FC,Kenedy,19,Brazil,Left Winger,LW,1500000,Fluminense,Brazil,8000000,in,summer,Premier League,2015,FALSE,,kenedy
+Manchester City,Kevin De Bruyne,24,Belgium,Attacking Midfield,AM,70000000,VfL Wolfsburg,Germany,76000000,in,summer,Premier League,2015,FALSE,,kevin de bruyne
+VfB Stuttgart,Kevin Großkreutz,27,Germany,Right-Back,RB,,Galatasaray,Turkey,2170000,in,winter,1 Bundesliga,2015,FALSE,,kevin grosskreutz
+Galatasaray,Kevin Großkreutz,27,Germany,Right-Back,RB,,Bor. Dortmund,Germany,1500000,in,summer,Super Lig,2015,FALSE,,kevin grosskreutz
+Bayer 04 Leverkusen,Kevin Kampl,24,Slovenia,Central Midfield,CM,3500000,Bor. Dortmund,Germany,11000000,in,summer,1 Bundesliga,2015,FALSE,,kevin kampl
+AS Saint-Étienne,Kévin Théophile-Catherine,25,Martinique,Centre-Back,CB,,Cardiff,England,2000000,in,summer,Ligue 1,2015,FALSE,,kevin theophile-catherine
+Paris Saint-Germain,Kevin Trapp,25,Germany,Goalkeeper,GK,8500000,E. Frankfurt,Germany,9500000,in,summer,Ligue 1,2015,FALSE,,kevin trapp
+Tottenham Hotspur,Kevin Wimmer,22,Austria,Centre-Back,CB,,1.FC Köln,Germany,6000000,in,summer,Premier League,2015,FALSE,,kevin wimmer
+FC Midtjylland,Kian Hansen,26,Denmark,Centre-Back,CB,,FC Nantes,France,1500000,in,summer,Superliga,2015,FALSE,,kian hansen
+Tottenham Hotspur,Kieran Trippier,24,England,Right-Back,RB,11000000,Burnley,England,4900000,in,summer,Premier League,2015,FALSE,,kieran trippier
+SD Eibar,Kike García,26,Spain,Centre-Forward,CF,1800000,Middlesbrough,England,2000000,in,winter,Laliga,2015,FALSE,,kike garcia
+Real Madrid,Kiko Casilla,28,Spain,Goalkeeper,GK,,Espanyol,Spain,6000000,in,summer,Laliga,2015,FALSE,,kiko casilla
+FC Nantes,Kolbeinn Sigthórsson,25,Iceland,Centre-Forward,CF,,Ajax,Netherlands,3000000,in,summer,Ligue 1,2015,FALSE,,kolbeinn sigthorsson
+FC Augsburg,Konstantinos Stafylidis,21,Greece,Left-Back,LB,1000000,B. Leverkusen,Germany,2500000,in,summer,1 Bundesliga,2015,FALSE,,konstantinos stafylidis
+Bayer 04 Leverkusen,Kyriakos Papadopoulos,23,Greece,Centre-Back,CB,,FC Schalke 04,Germany,6500000,in,summer,1 Bundesliga,2015,FALSE,,kyriakos papadopoulos
+Sunderland AFC,Lamine Koné,26,Cote d'Ivoire,Centre-Back,CB,,FC Lorient,France,6500000,in,winter,Premier League,2015,FALSE,,lamine kone
+Borussia Mönchengladbach,Lars Stindl,26,Germany,Attacking Midfield,AM,1000000,Hannover 96,Germany,3000000,in,summer,1 Bundesliga,2015,FALSE,,lars stindl
+Paris Saint-Germain,Layvin Kurzawa,22,France,Left-Back,LB,3000000,Monaco,France,25000000,in,summer,Ligue 1,2015,FALSE,,layvin kurzawa
+AS Roma,Leandro Paredes,21,Argentina,Defensive Midfield,DM,9000000,Boca Juniors,Argentina,6000000,in,summer,Serie A,2015,FALSE,,leandro paredes
+Club Brugge KV,Leandro Pereira,24,Brazil,Centre-Forward,CF,,Palmeiras,Brazil,3500000,in,summer,Jupiler Pro League,2015,FALSE,,leandro pereira
+AFC Bournemouth,Lee Tomlin,26,England,Second Striker,SS,,Middlesbrough,England,4300000,in,summer,Premier League,2015,FALSE,,lee tomlin
+LOSC Lille,Lenny Nangis,21,Guadeloupe,Left Winger,LW,,SM Caen,France,1000000,in,summer,Ligue 1,2015,FALSE,,lenny nangis
+KRC Genk,Leon Bailey,18,Jamaica,Left Winger,LW,28000000,AS Trencin U19,Slovakia,1400000,in,summer,Jupiler Pro League,2015,FALSE,,leon bailey
+1.FC Köln,Leonardo Bittencourt,21,Germany,Attacking Midfield,AM,2800000,Hannover 96,Germany,2500000,in,summer,1 Bundesliga,2015,FALSE,,leonardo bittencourt
+Genoa CFC,Leonardo Pavoletti,26,Italy,Centre-Forward,CF,1000000,Sassuolo,Italy,3000000,in,summer,Serie A,2015,FALSE,,leonardo pavoletti
+AFC Bournemouth,Lewis Grabban,27,Jamaica,Centre-Forward,CF,,Norwich,England,9350000,in,winter,Premier League,2015,FALSE,,lewis grabban
+Hamburger SV,Lewis Holtby,24,Germany,Central Midfield,CM,,Tottenham,England,6500000,in,summer,1 Bundesliga,2015,FALSE,,lewis holtby
+Galatasaray,Lionel Carole,24,France,Left-Back,LB,1000000,Troyes,France,1500000,in,summer,Super Lig,2015,FALSE,,lionel carole
+Spartak Moscow,Lorenzo Melgarejo,25,Paraguay,Left Winger,LW,1500000,Kuban Krasnodar,Russia,4500000,in,winter,Premier Liga,2015,FALSE,,lorenzo melgarejo
+US Sassuolo,Lorenzo Pellegrini,19,Italy,Attacking Midfield,AM,30000000,Roma U19,Italy,1250000,in,summer,Serie A,2015,FALSE,,lorenzo pellegrini
+BSC Young Boys,Loris Benito,23,Switzerland,Centre-Back,CB,,Benfica,Portugal,3000000,in,summer,Super League,2015,FALSE,,loris benito
+Eintracht Frankfurt,Luc Castaignos,22,Netherlands,Centre-Forward,CF,,Twente FC,Netherlands,2500000,in,summer,1 Bundesliga,2015,FALSE,,luc castaignos
+AC Milan,Luca Antonelli,28,Italy,Left-Back,LB,,Genoa,Italy,4500000,in,summer,Serie A,2015,FALSE,,luca antonelli
+US Sassuolo,Luca Mazzitelli,20,Italy,Defensive Midfield,DM,3500000,AS Roma,Italy,3500000,in,winter,Serie A,2015,FALSE,,luca mazzitelli
+Bologna FC 1909,Luca Rossettini,30,Italy,Centre-Back,CB,,Cagliari Calcio,Italy,2500000,in,summer,Serie A,2015,FALSE,,luca rossettini
+Atalanta BC,Luca Valzania,19,Italy,Central Midfield,CM,,Cesena,Italy,7700000,in,summer,Serie A,2015,FALSE,,luca valzania
+Chievo Verona,Lucas Castro,26,Argentina,Attacking Midfield,AM,,Catania,Italy,3500000,in,summer,Serie A,2015,FALSE,,lucas castro
+Olympique Marseille,Lucas Ocampos,20,Argentina,Left Winger,LW,12000000,Monaco,France,7500000,in,summer,Ligue 1,2015,FALSE,,lucas ocampos
+Deportivo de La Coruña,Lucas Pérez,26,Spain,Centre-Forward,CF,,PAOK Salonika,Greece,1500000,in,summer,Laliga,2015,FALSE,,lucas perez
+UC Sampdoria,Lucas Torreira,19,Uruguay,Defensive Midfield,DM,15000000,Pescara,Italy,3000000,in,summer,Serie A,2015,FALSE,,lucas torreira
+Olympique Lyon,Lucas Tousart,18,France,Defensive Midfield,DM,7000000,Valenciennes FC,France,2600000,in,summer,Ligue 1,2015,FALSE,,lucas tousart
+Real Madrid,Lucas Vázquez,24,Spain,Right-Back,RB,6000000,Espanyol,Spain,1000000,in,summer,Laliga,2015,FALSE,,lucas vazquez
+Atlético de Madrid,Luciano Vietto,21,Argentina,Centre-Forward,CF,2300000,Villarreal,Spain,20000000,in,summer,Laliga,2015,FALSE,,luciano vietto
+Club Brugge KV,Ludovic Butelle,32,France,Goalkeeper,GK,,Angers SCO,France,1000000,in,winter,Jupiler Pro League,2015,FALSE,,ludovic butelle
+UC Sampdoria,Luis Muriel,24,Colombia,Centre-Forward,CF,5000000,Udinese Calcio,Italy,12000000,in,summer,Serie A,2015,FALSE,,luis muriel
+Trabzonspor,Luis Pedro Cavanda,24,Belgium,Right-Back,RB,,Lazio,Italy,1750000,in,summer,Super Lig,2015,FALSE,,luis pedro cavanda
+AC Milan,Luiz Adriano,28,Brazil,Centre-Forward,CF,,Shakhtar D.,Ukraine,14000000,in,summer,Serie A,2015,FALSE,,luiz adriano
+SL Benfica,Luka Jović,18,Serbia,Centre-Forward,CF,8000000,Apol. Limassol,Cyprus,6600000,in,winter,Liga Portugal,2015,FALSE,,luka jovic
+Genoa CFC,Luka Krajnc,20,Slovenia,Centre-Back,CB,,Cesena,Italy,5000000,in,summer,Serie A,2015,FALSE,,luka krajnc
+Olympiacos Piraeus,Luka Milivojevic,24,Serbia,Defensive Midfield,DM,2000000,RSC Anderlecht,Belgium,2300000,in,summer,Super League 1,2015,FALSE,,luka milivojevic
+Eintracht Frankfurt,Lukas Hradecky,25,Finland,Goalkeeper,GK,2500000,Bröndby IF,Denmark,2500000,in,summer,1 Bundesliga,2015,FALSE,,lukas hradecky
+Galatasaray,Lukas Podolski,30,Germany,Second Striker,SS,,Arsenal,England,2500000,in,summer,Super Lig,2015,FALSE,,lukas podolski
+FC Lorient,Majeed Waris,23,Ghana,Second Striker,SS,,Trabzonspor,Turkey,4730000,in,summer,Ligue 1,2015,FALSE,,majeed waris
+FC Girondins Bordeaux,Malcom,18,Brazil,Right Winger,RW,30000000,Corinthians,Brazil,5000000,in,winter,Ligue 1,2015,FALSE,,malcom
+Watford FC,Mamadou Obbi Oulare,19,Belgium,Centre-Forward,CF,,Club Brugge,Belgium,7500000,in,summer,Premier League,2015,FALSE,,mamadou obbi oulare
+Juventus FC,Mame Thiam,22,Senegal,Centre-Forward,CF,2600000,Virtus Lanciano,Italy,1400000,in,summer,Serie A,2015,FALSE,,mame thiam
+Olympiacos Piraeus,Manuel da Costa,29,Morocco,Centre-Back,CB,,Sivasspor,Turkey,2000000,in,summer,Super League 1,2015,FALSE,,manuel da costa
+Olympique Lyon,Mapou Yanga-Mbiwa,26,France,Centre-Back,CB,,AS Roma,Italy,9400000,in,summer,Ligue 1,2015,FALSE,,mapou yanga-mbiwa
+US Sassuolo,Marcello Trotta,23,Italy,Centre-Forward,CF,,Avellino,Italy,2800000,in,winter,Serie A,2015,FALSE,,marcello trotta
+Celta de Vigo,Marcelo Díaz,29,Chile,Defensive Midfield,DM,,Hamburger SV,Germany,1800000,in,winter,Laliga,2015,FALSE,,marcelo diaz
+Real Madrid,Marco Asensio,19,Spain,Left Winger,LW,25000000,RCD Mallorca,Spain,3900000,in,summer,Laliga,2015,FALSE,,marco asensio
+Bologna FC 1909,Marco Crimi,25,Italy,Central Midfield,CM,,Latina Calcio,Italy,1000000,in,summer,Serie A,2015,FALSE,,marco crimi
+Eintracht Frankfurt,Marco Fabián,26,Mexico,Attacking Midfield,AM,,Chivas,Mexico,3700000,in,winter,1 Bundesliga,2015,FALSE,,marco fabian
+Sevilla FC,Mariano,29,Brazil,Right-Back,RB,,G. Bordeaux,France,3500000,in,summer,Laliga,2015,FALSE,,mariano
+PAOK Thessaloniki,Marin Leovac,27,Croatia,Left-Back,LB,,HNK Rijeka,Croatia,1300000,in,summer,Super League 1,2015,FALSE,,marin leovac
+Juventus FC,Mario Mandzukic,29,Croatia,Centre-Forward,CF,,Atlético Madrid,Spain,19000000,in,summer,Serie A,2015,FALSE,,mario mandzukic
+Watford FC,Mario Suárez,28,Spain,Centre-Back,CB,,Fiorentina,Italy,5300000,in,winter,Premier League,2015,FALSE,,mario suarez
+ACF Fiorentina,Mario Suárez,28,Spain,Centre-Back,CB,,Atlético Madrid,Spain,5000000,in,summer,Serie A,2015,FALSE,,mario suarez
+Hannover 96,Marius Wolf,20,Germany,Right-Back,RB,8000000,1860 Munich,Germany,1500000,in,winter,1 Bundesliga,2015,FALSE,,marius wolf
+TSG 1899 Hoffenheim,Mark Uth,23,Germany,Centre-Forward,CF,1500000,Heerenveen,Netherlands,2200000,in,summer,1 Bundesliga,2015,FALSE,,mark uth
+Liverpool FC,Marko Grujić,19,Serbia,Defensive Midfield,DM,9000000,Red Star,Serbia,7000000,in,winter,Premier League,2015,FALSE,,marko grujic
+GNK Dinamo Zagreb,Marko Rog,19,Croatia,Central Midfield,CM,1700000,RNK Split,Croatia,5000000,in,summer,Supersport Hnl,2015,FALSE,,marko rog
+Feyenoord Rotterdam,Marko Vejinović,25,Netherlands,Defensive Midfield,DM,,Vitesse,Netherlands,3500000,in,summer,Eredivisie,2015,FALSE,,marko vejinovic
+Atalanta BC,Marten de Roon,24,Netherlands,Defensive Midfield,DM,10000000,Heerenveen,Netherlands,1300000,in,summer,Serie A,2015,FALSE,,marten de roon
+Galatasaray,Martin Linnes,24,Norway,Right-Back,RB,,Molde FK,Norway,2000000,in,winter,Super Lig,2015,FALSE,,martin linnes
+Everton FC,Mason Holgate,18,England,Centre-Back,CB,7000000,Barnsley FC,England,1400000,in,summer,Premier League,2015,FALSE,,mason holgate
+Watford FC,Matej Vydra,23,Czech Republic,Centre-Forward,CF,1300000,Udinese Calcio,Italy,8400000,in,summer,Premier League,2015,FALSE,,matej vydra
+Real Madrid,Mateo Kovacic,21,Croatia,Central Midfield,CM,38000000,Inter,Italy,38000000,in,summer,Laliga,2015,FALSE,,mateo kovacic
+US Palermo,Matheus Cassini,19,Brazil,Attacking Midfield,AM,,Corinthians,Brazil,1500000,in,summer,Serie A,2015,FALSE,,matheus cassini
+Valencia CF,Mathew Ryan,23,Australia,Goalkeeper,GK,4000000,Club Brugge,Belgium,7000000,in,summer,Laliga,2015,FALSE,,mathew ryan
+Standard Liège,Mathieu Dossevi,27,Togo,Right Winger,RW,,Olympiacos,Greece,1300000,in,winter,Jupiler Pro League,2015,FALSE,,mathieu dossevi
+Olympique Lyon,Mathieu Valbuena,30,France,Attacking Midfield,AM,,Dinamo Moscow,Russia,6000000,in,summer,Ligue 1,2015,FALSE,,mathieu valbuena
+Atlético de Madrid,Matías Kranevitter,22,Argentina,Defensive Midfield,DM,2000000,River Plate,Argentina,6000000,in,summer,Laliga,2015,FALSE,,matias kranevitter
+FC Schalke 04,Matija Nastasic,22,Serbia,Centre-Back,CB,1500000,Man City,England,9500000,in,summer,1 Bundesliga,2015,FALSE,,matija nastasic
+Norwich City,Matt Jarvis,29,England,Left Winger,LW,,West Ham,England,3400000,in,winter,Premier League,2015,FALSE,,matt jarvis
+Chelsea FC,Matt Miazga,20,United States,Centre-Back,CB,1800000,New York,United States,4600000,in,winter,Premier League,2015,FALSE,,matt miazga
+Manchester United,Matteo Darmian,25,Italy,Right-Back,RB,4000000,Torino,Italy,18000000,in,summer,Premier League,2015,FALSE,,matteo darmian
+Bologna FC 1909,Mattia Destro,24,Italy,Centre-Forward,CF,1300000,AS Roma,Italy,8500000,in,summer,Serie A,2015,FALSE,,mattia destro
+SS Lazio,Maurício,26,Brazil,Centre-Back,CB,,Sporting CP,Portugal,2650000,in,summer,Serie A,2015,FALSE,,mauricio
+Levante UD,Mauricio Cuero,22,Colombia,Right Winger,RW,,CD La Equidad,Colombia,3200000,in,winter,Laliga,2015,FALSE,,mauricio cuero
+Atalanta BC,Mauricio Pinilla,30,Chile,Centre-Forward,CF,,Genoa,Italy,2000000,in,winter,Serie A,2015,FALSE,,mauricio pinilla
+FC Girondins Bordeaux,Mauro Arambarri,20,Uruguay,Central Midfield,CM,6000000,Defensor,Uruguay,3000000,in,winter,Ligue 1,2015,FALSE,,mauro arambarri
+ACF Fiorentina,Mauro Zárate,28,Argentina,Centre-Forward,CF,,West Ham,England,2100000,in,winter,Serie A,2015,FALSE,,mauro zarate
+AFC Bournemouth,Max Gradel,27,Cote d'Ivoire,Left Winger,LW,1300000,Saint-Étienne,France,10000000,in,summer,Premier League,2015,FALSE,,max gradel
+VfL Wolfsburg,Max Kruse,27,Germany,Second Striker,SS,,Bor. M'gladbach,Germany,12000000,in,summer,1 Bundesliga,2015,FALSE,,max kruse
+SL Benfica,Mehdi Carcela-González,26,Morocco,Right Winger,RW,,Standard Liège,Belgium,2500000,in,summer,Liga Portugal,2015,FALSE,,mehdi carcela-gonzalez
+Stade Rennais FC,Mehdi Zeffane,23,Algeria,Right-Back,RB,,Olympique Lyon,France,1000000,in,summer,Ligue 1,2015,FALSE,,mehdi zeffane
+Manchester United,Memphis Depay,21,Netherlands,Centre-Forward,CF,14000000,PSV Eindhoven,Netherlands,34000000,in,summer,Premier League,2015,FALSE,,memphis depay
+Hannover 96,Mevlüt Erdinç,28,Turkey,Centre-Forward,CF,,Saint-Étienne,France,3300000,in,summer,1 Bundesliga,2015,FALSE,,mevlut erdinc
+Hamburger SV,Michael Gregoritsch,21,Austria,Centre-Forward,CF,8000000,VfL Bochum,Germany,3000000,in,summer,1 Bundesliga,2015,FALSE,,michael gregoritsch
+Chelsea FC,Michael Hector,23,Jamaica,Centre-Back,CB,,Reading,England,5400000,in,summer,Premier League,2015,FALSE,,michael hector
+Genoa CFC,Michael Ventre,19,Italy,Second Striker,SS,,Inter,Italy,3500000,in,summer,Serie A,2015,FALSE,,michael ventre
+West Ham United,Michail Antonio,25,Jamaica,Centre-Forward,CF,7000000,Nottm Forest,England,9500000,in,summer,Premier League,2015,FALSE,,michail antonio
+Feyenoord Rotterdam,Michiel Kramer,26,Netherlands,Centre-Forward,CF,,ADO Den Haag,Netherlands,1500000,in,summer,Eredivisie,2015,FALSE,,michiel kramer
+OGC Nice,Mickaël Le Bihan,25,France,Centre-Forward,CF,,Le Havre AC,France,1500000,in,summer,Ligue 1,2015,FALSE,,mickael le bihan
+Eintracht Frankfurt,Mijat Gacinovic,20,Serbia,Attacking Midfield,AM,3500000,Apol. Limassol,Cyprus,1250000,in,summer,1 Bundesliga,2015,FALSE,,mijat gacinovic
+Rubin Kazan,Mijo Caktas,23,Croatia,Attacking Midfield,AM,1800000,Hajduk Split,Croatia,1000000,in,winter,Premier Liga,2015,FALSE,,mijo caktas
+LOSC Lille,Mike Maignan,20,France,Goalkeeper,GK,45000000,Paris SG,France,1000000,in,summer,Ligue 1,2015,FALSE,,mike maignan
+FC Girondins Bordeaux,Milan Gajic,19,Serbia,Right-Back,RB,4000000,OFK Beograd,Serbia,1000000,in,summer,Ligue 1,2015,FALSE,,milan gajic
+UC Sampdoria,Milan Skriniar,20,Slovakia,Centre-Back,CB,50000000,MSK Zilina,Slovakia,5200000,in,winter,Serie A,2015,FALSE,,milan skriniar
+1.FC Köln,Milos Jojic,23,Serbia,Central Midfield,CM,1000000,Bor. Dortmund,Germany,3000000,in,summer,1 Bundesliga,2015,FALSE,,milos jojic
+Standard Liège,Milos Kosanovic,25,Serbia,Centre-Back,CB,,KV Mechelen,Belgium,2500000,in,winter,Jupiler Pro League,2015,FALSE,,milos kosanovic
+BSC Young Boys,Miralem Sulejmani,26,Serbia,Left Midfield,LM,,Benfica,Portugal,3000000,in,summer,Super League,2015,FALSE,,miralem sulejmani
+SSC Napoli,Mirko Valdifiori,29,Italy,Defensive Midfield,DM,,FC Empoli,Italy,5500000,in,summer,Serie A,2015,FALSE,,mirko valdifiori
+VfB Stuttgart,Mitchell Langerak,26,Australia,Goalkeeper,GK,,Bor. Dortmund,Germany,3500000,in,summer,1 Bundesliga,2015,FALSE,,mitchell langerak
+Arsenal FC,Mohamed Elneny,23,Egypt,Defensive Midfield,DM,6000000,FC Basel,Switzerland,12500000,in,winter,Premier League,2015,FALSE,,mohamed elneny
+Standard Liège,Mohamed Yattara,21,Guinea,Centre-Forward,CF,,Olympique Lyon,France,2200000,in,summer,Jupiler Pro League,2015,FALSE,,mohamed yattara
+Manchester United,Morgan Schneiderlin,25,France,Defensive Midfield,DM,1500000,Southampton,England,35000000,in,summer,Premier League,2015,FALSE,,morgan schneiderlin
+FC Porto,Moussa Marega,24,Mali,Centre-Forward,CF,3500000,Marítimo,Portugal,3800000,in,winter,Liga Portugal,2015,FALSE,,moussa marega
+Trabzonspor,Muhammet Demir,24,Turkey,Centre-Forward,CF,,Gaziantepspor,Turkey,2750000,in,winter,Super Lig,2015,FALSE,,muhammet demir
+Celtic FC,Nadir Çiftçi,23,Turkey,Centre-Forward,CF,,Dundee United,Scotland,2090000,in,summer,Scottish Premiership,2015,FALSE,,nadir ciftci
+Sporting CP,Naldo,26,Brazil,Centre-Back,CB,,Udinese Calcio,Italy,3000000,in,summer,Liga Portugal,2015,FALSE,,naldo
+Fenerbahce,Nani,28,Portugal,Left Winger,LW,,Man Utd,England,6000000,in,summer,Super Lig,2015,FALSE,,nani
+Chelsea FC,Nathan,19,Brazil,Attacking Midfield,AM,2000000,Atlético-PR,Brazil,4000000,in,summer,Premier League,2015,FALSE,,nathan
+Liverpool FC,Nathaniel Clyne,24,England,Right-Back,RB,2000000,Southampton,England,17700000,in,summer,Premier League,2015,FALSE,,nathaniel clyne
+KRC Genk,Neeskens Kebano,23,DR Congo,Left Winger,LW,2000000,RSC Charleroi,Belgium,4000000,in,summer,Jupiler Pro League,2015,FALSE,,neeskens kebano
+Grasshopper Club Zurich,Nemanja Antonov,20,Serbia,Left-Back,LB,,OFK Beograd,Serbia,1200000,in,summer,Super League,2015,FALSE,,nemanja antonov
+Ajax Amsterdam,Nemanja Gudelj,23,Serbia,Centre-Back,CB,4000000,AZ Alkmaar,Netherlands,6000000,in,summer,Eredivisie,2015,FALSE,,nemanja gudelj
+AS Roma,Nemanja Radonjić,19,Serbia,Left Winger,LW,4000000,Empoli U19,Italy,4000000,in,summer,Serie A,2015,FALSE,,nemanja radonjic
+Leicester City,N'Golo Kanté,24,France,Defensive Midfield,DM,12000000,SM Caen,France,9000000,in,summer,Premier League,2015,FALSE,,n'golo kante
+Borussia Mönchengladbach,Nico Elvedi,18,Switzerland,Centre-Back,CB,14000000,FC Zürich,Switzerland,4000000,in,summer,1 Bundesliga,2015,FALSE,,nico elvedi
+Borussia Mönchengladbach,Nico Schulz,22,Germany,Left-Back,LB,,Hertha BSC,Germany,4000000,in,summer,1 Bundesliga,2015,FALSE,,nico schulz
+EA Guingamp,Nicolas Benezet,24,France,Left Winger,LW,,Évian,France,1200000,in,summer,Ligue 1,2015,FALSE,,nicolas benezet
+PSV Eindhoven,Nicolas Isimat-Mirin,23,France,Centre-Back,CB,,Monaco,France,2400000,in,summer,Eredivisie,2015,FALSE,,nicolas isimat-mirin
+Manchester City,Nicolás Otamendi,27,Argentina,Centre-Back,CB,2000000,Valencia,Spain,44500000,in,summer,Premier League,2015,FALSE,,nicolas otamendi
+West Ham United,Nikica Jelavic,30,Croatia,Centre-Forward,CF,,Hull City,England,4100000,in,summer,Premier League,2015,FALSE,,nikica jelavic
+Hertha BSC,Niklas Stark,20,Germany,Centre-Back,CB,5500000,1.FC Nuremberg,Germany,3000000,in,summer,1 Bundesliga,2015,FALSE,,niklas stark
+ACF Fiorentina,Nikola Kalinic,27,Croatia,Centre-Forward,CF,,Dnipro,Ukraine,5500000,in,summer,Serie A,2015,FALSE,,nikola kalinic
+KRC Genk,Nikolaos Karelis,23,Greece,Centre-Forward,CF,,Panathinaikos,Greece,2500000,in,winter,Jupiler Pro League,2015,FALSE,,nikolaos karelis
+AS Saint-Étienne,Nolan Roux,27,France,Centre-Forward,CF,,LOSC Lille,France,2000000,in,summer,Ligue 1,2015,FALSE,,nolan roux
+US Palermo,Norbert Balogh,19,Hungary,Centre-Forward,CF,,Debrecen,Hungary,2200000,in,winter,Serie A,2015,FALSE,,norbert balogh
+Málaga CF,Nordin Amrabat,28,Morocco,Right Winger,RW,,Galatasaray,Turkey,3500000,in,summer,Laliga,2015,FALSE,,nordin amrabat
+Watford FC,Nordin Amrabat,28,Morocco,Right Winger,RW,,Málaga CF,Spain,8400000,in,winter,Premier League,2015,FALSE,,nordin amrabat
+Trabzonspor,Okay Yokuşlu,21,Turkey,Defensive Midfield,DM,3000000,Kayserispor,Turkey,2000000,in,summer,Super Lig,2015,FALSE,,okay yokuslu
+AS Saint-Étienne,Ole Selnæs,21,Norway,Defensive Midfield,DM,1200000,Rosenborg,Norway,3200000,in,winter,Ligue 1,2015,FALSE,,ole selnaes
+Hannover 96,Oliver Sorg,25,Germany,Right-Back,RB,,SC Freiburg,Germany,3500000,in,summer,1 Bundesliga,2015,FALSE,,oliver sorg
+Southampton FC,Oriol Romeu,23,Spain,Defensive Midfield,DM,5000000,Chelsea,England,7000000,in,summer,Premier League,2015,FALSE,,oriol romeu
+FC Ingolstadt 04,Ørjan Nyland,24,Norway,Goalkeeper,GK,1000000,Molde FK,Norway,1000000,in,summer,1 Bundesliga,2015,FALSE,,orjan nyland
+RCD Espanyol Barcelona,Óscar Duarte,26,Costa Rica,Centre-Back,CB,,Club Brugge,Belgium,1150000,in,winter,Laliga,2015,FALSE,,oscar duarte
+US Palermo,Oscar Hiljemark,23,Sweden,Central Midfield,CM,,PSV Eindhoven,Netherlands,2500000,in,summer,Serie A,2015,FALSE,,oscar hiljemark
+Everton FC,Oumar Niasse,25,Senegal,Centre-Forward,CF,,Loko Moskau,Russia,17900000,in,winter,Premier League,2015,FALSE,,oumar niasse
+AS Saint-Étienne,Oussama Tannane,21,Morocco,Attacking Midfield,AM,1500000,Heracles Almelo,Netherlands,2500000,in,winter,Ligue 1,2015,FALSE,,oussama tannane
+Fenerbahce,Ozan Tufan,20,Turkey,Attacking Midfield,AM,3200000,Bursaspor,Turkey,7000000,in,summer,Super Lig,2015,FALSE,,ozan tufan
+Trabzonspor,Özer Hurmacı,28,Turkey,Attacking Midfield,AM,,Kasimpasa,Turkey,1500000,in,summer,Super Lig,2015,FALSE,,ozer hurmaci
+FC Girondins Bordeaux,Pablo,24,Brazil,Centre-Back,CB,2000000,Ponte Preta,Brazil,2000000,in,summer,Ligue 1,2015,FALSE,,pablo
+Bursaspor,Pablo Batalla,31,Argentina,Attacking Midfield,AM,,BJ Guoan,China,1500000,in,winter,Super Lig,2015,FALSE,,pablo batalla
+Chelsea FC,Papy Djilobodji,26,Senegal,Centre-Back,CB,,FC Nantes,France,3500000,in,summer,Premier League,2015,FALSE,,papy djilobodji
+Manchester City,Patrick Roberts,18,England,Right Winger,RW,3200000,Fulham,England,7200000,in,summer,Premier League,2015,FALSE,,patrick roberts
+Caykur Rizespor,Patryk Tuszynski,25,Poland,Centre-Forward,CF,,Jagiellonia,Poland,1000000,in,summer,Super Lig,2015,FALSE,,patryk tuszynski
+Juventus FC,Paulo Dybala,21,Argentina,Second Striker,SS,30000000,US Palermo,Italy,41000000,in,summer,Serie A,2015,FALSE,,paulo dybala
+Red Bull Salzburg,Paulo Miranda,26,Brazil,Centre-Back,CB,,São Paulo,Brazil,2700000,in,summer,Bundesliga,2015,FALSE,,paulo miranda
+TSG 1899 Hoffenheim,Pavel Kaderabek,23,Czech Republic,Right-Back,RB,3000000,Sparta Prague,Czech Republic,3500000,in,summer,1 Bundesliga,2015,FALSE,,pavel kaderabek
+Chelsea FC,Pedro,28,Spain,Right Winger,RW,1500000,Barcelona,Spain,27000000,in,summer,Premier League,2015,FALSE,,pedro
+West Ham United,Pedro Obiang,23,Equatorial Guinea,Central Midfield,CM,,Sampdoria,Italy,6000000,in,summer,Premier League,2015,FALSE,,pedro obiang
+SSC Napoli,Pepe Reina,32,Spain,Goalkeeper,GK,,Bayern Munich,Germany,2000000,in,summer,Serie A,2015,FALSE,,pepe reina
+GNK Dinamo Zagreb,Petar Stojanović,20,Slovenia,Right-Back,RB,1700000,NK Maribor,Slovenia,2000000,in,winter,Supersport Hnl,2015,FALSE,,petar stojanovic
+KAA Gent,Peter Olayinka,20,Nigeria,Centre-Forward,CF,5000000,KF Skënderbeu,Albania,1100000,in,winter,Jupiler Pro League,2015,FALSE,,peter olayinka
+Arsenal FC,Petr Cech,33,Czech Republic,Goalkeeper,GK,,Chelsea,England,14000000,in,summer,Premier League,2015,FALSE,,petr cech
+Real Betis Balompié,Petros,26,Brazil,Defensive Midfield,DM,,Corinthians,Brazil,1700000,in,summer,Laliga,2015,FALSE,,petros
+FC Augsburg,Philipp Max,21,Germany,Left-Back,LB,2000000,Karlsruher SC,Germany,3800000,in,summer,1 Bundesliga,2015,FALSE,,philipp max
+Stoke City,Philipp Wollscheid,26,Germany,Centre-Back,CB,,B. Leverkusen,Germany,3800000,in,summer,Premier League,2015,FALSE,,philipp wollscheid
+VfB Stuttgart,Przemyslaw Tyton,28,Poland,Goalkeeper,GK,,PSV Eindhoven,Netherlands,1000000,in,summer,1 Bundesliga,2015,FALSE,,przemyslaw tyton
+Olympique Lyon,Rafael,25,Brazil,Right-Back,RB,,Man Utd,England,3200000,in,summer,Ligue 1,2015,FALSE,,rafael
+Atlético de Madrid,Rafael Borré,19,Colombia,Centre-Forward,CF,9000000,Deportivo Cali,Colombia,5000000,in,summer,Laliga,2015,FALSE,,rafael borre
+RSC Anderlecht,Rafael Galhardo,24,Brazil,Attacking Midfield,AM,,Santos,Brazil,1000000,in,winter,Jupiler Pro League,2015,FALSE,,rafael galhardo
+Atalanta BC,Rafael Tolói,24,Italy,Centre-Back,CB,6000000,São Paulo,Brazil,3870000,in,summer,Serie A,2015,FALSE,,rafael toloi
+SSC Napoli,Raffaele Maiello,24,Italy,Defensive Midfield,DM,1000000,Crotone,Italy,1500000,in,summer,Serie A,2015,FALSE,,raffaele maiello
+Manchester City,Raheem Sterling,20,England,Left Winger,LW,50000000,Liverpool,England,63700000,in,summer,Premier League,2015,FALSE,,raheem sterling
+Everton FC,Ramiro Funes Mori,24,Argentina,Centre-Back,CB,1000000,River Plate,Argentina,12200000,in,summer,Premier League,2015,FALSE,,ramiro funes mori
+Athletic Bilbao,Raúl García,29,Spain,Centre-Forward,CF,2500000,Atlético Madrid,Spain,10000000,in,summer,Laliga,2015,FALSE,,raul garcia
+SL Benfica,Raúl Jiménez,24,Mexico,Centre-Forward,CF,6000000,Atlético Madrid,Spain,22000000,in,summer,Liga Portugal,2015,FALSE,,raul jimenez
+OGC Nice,Rémi Walter,20,France,Central Midfield,CM,1800000,AS Nancy,France,1000000,in,winter,Ligue 1,2015,FALSE,,remi walter
+Atalanta BC,Remo Freuler,23,Switzerland,Central Midfield,CM,6500000,FC Luzern,Switzerland,3450000,in,winter,Serie A,2015,FALSE,,remo freuler
+FC Basel 1893,Renato Steffen,24,Switzerland,Right Winger,RW,1000000,BSC Young Boys,Switzerland,1200000,in,winter,Super League,2015,FALSE,,renato steffen
+Feyenoord Rotterdam,Renato Tapia,20,Peru,Defensive Midfield,DM,5000000,Twente FC,Netherlands,1500000,in,winter,Eredivisie,2015,FALSE,,renato tapia
+Granada CF,Rene Krhin,25,Slovenia,Defensive Midfield,DM,,Inter,Italy,1300000,in,summer,Laliga,2015,FALSE,,rene krhin
+Besiktas JK,Rhodolfo,28,Brazil,Centre-Back,CB,,Grêmio,Brazil,3300000,in,summer,Super Lig,2015,FALSE,,rhodolfo
+Sunderland AFC,Ricardo Álvarez,27,Argentina,Central Midfield,CM,,Inter,Italy,10500000,in,summer,Premier League,2015,FALSE,,ricardo alvarez
+SS Lazio,Ricardo Kishna,20,Netherlands,Left Winger,LW,,Ajax,Netherlands,3000000,in,summer,Serie A,2015,FALSE,,ricardo kishna
+Besiktas JK,Ricardo Quaresma,31,Portugal,Right Winger,RW,,FC Porto,Portugal,1200000,in,summer,Super Lig,2015,FALSE,,ricardo quaresma
+Genoa CFC,Riccardo Fiamozzi,22,Italy,Right-Back,RB,,Pescara,Italy,1200000,in,winter,Serie A,2015,FALSE,,riccardo fiamozzi
+FC Empoli,Riccardo Saponara,23,Italy,Attacking Midfield,AM,2000000,AC Milan,Italy,4000000,in,summer,Serie A,2015,FALSE,,riccardo saponara
+West Bromwich Albion,Rickie Lambert,33,England,Centre-Forward,CF,,Liverpool,England,4200000,in,summer,Premier League,2015,FALSE,,rickie lambert
+KAA Gent,Rob Schoofs,21,Belgium,Central Midfield,CM,2200000,Sint-Truiden,Belgium,1000000,in,winter,Jupiler Pro League,2015,FALSE,,rob schoofs
+Norwich City,Robbie Brady,23,Ireland,Left Midfield,LM,,Hull City,England,9900000,in,summer,Premier League,2015,FALSE,,robbie brady
+AS Saint-Étienne,Robert Beric,24,Slovenia,Centre-Forward,CF,,Rapid Vienna,Austria,7500000,in,summer,Ligue 1,2015,FALSE,,robert beric
+Leicester City,Robert Huth,30,Germany,Centre-Back,CB,,Stoke City,England,4200000,in,summer,Premier League,2015,FALSE,,robert huth
+Liverpool FC,Roberto Firmino,23,Brazil,Centre-Forward,CF,15000000,TSG Hoffenheim,Germany,41000000,in,summer,Premier League,2015,FALSE,,roberto firmino
+Juventus FC,Roberto Pereyra,24,Argentina,Central Midfield,CM,3500000,Udinese Calcio,Italy,15000000,in,summer,Serie A,2015,FALSE,,roberto pereyra
+Fenerbahce,Robin van Persie,31,Netherlands,Centre-Forward,CF,,Man Utd,England,6500000,in,summer,Super Lig,2015,FALSE,,robin van persie
+Olympique Marseille,Rolando,30,Portugal,Centre-Back,CB,,FC Porto,Portugal,1500000,in,summer,Ligue 1,2015,FALSE,,rolando
+Juventus FC,Rolando Mandragora,18,Italy,Defensive Midfield,DM,10000000,Genoa,Italy,9000000,in,winter,Serie A,2015,FALSE,,rolando mandragora
+Borussia Dortmund,Roman Bürki,24,Switzerland,Goalkeeper,GK,2500000,SC Freiburg,Germany,3500000,in,summer,1 Bundesliga,2015,FALSE,,roman burki
+AS Monaco,Rony Lopes,19,Portugal,Right Winger,RW,4000000,Man City,England,12000000,in,summer,Ligue 1,2015,FALSE,,rony lopes
+Aston Villa,Rudy Gestede,26,Benin,Centre-Forward,CF,,Blackburn,England,8500000,in,summer,Premier League,2015,FALSE,,rudy gestede
+Montpellier HSC,Ryad Boudebouz,25,Algeria,Attacking Midfield,AM,1200000,SC Bastia,France,1700000,in,summer,Ligue 1,2015,FALSE,,ryad boudebouz
+Galatasaray,Ryan Donk,29,Suriname,Centre-Back,CB,,Kasimpasa,Turkey,2500000,in,winter,Super Lig,2015,FALSE,,ryan donk
+Udinese Calcio,Ryder Matos,22,Brazil,Second Striker,SS,,Fiorentina,Italy,5250000,in,winter,Serie A,2015,FALSE,,ryder matos
+West Bromwich Albion,Salomón Rondón,25,Venezuela,Centre-Forward,CF,1000000,Zenit S-Pb,Russia,17000000,in,summer,Premier League,2015,FALSE,,salomon rondon
+Torino FC,Salvador Ichazo,23,Uruguay,Goalkeeper,GK,,Danubio FC,Uruguay,1200000,in,summer,Serie A,2015,FALSE,,salvador ichazo
+West Ham United,Sam Byram,22,England,Left-Back,LB,1000000,Leeds,England,4800000,in,winter,Premier League,2015,FALSE,,sam byram
+SV Werder Bremen,Sambou Yatabaré,26,Mali,Central Midfield,CM,,Olympiacos,Greece,2500000,in,winter,1 Bundesliga,2015,FALSE,,sambou yatabare
+Udinese Calcio,Samir Caetano,21,Brazil,Centre-Back,CB,7000000,Flamengo,Brazil,4000000,in,winter,Serie A,2015,FALSE,,samir caetano
+Villarreal CF,Samu Castillejo,20,Spain,Right Winger,RW,3000000,Málaga CF,Spain,8000000,in,summer,Laliga,2015,FALSE,,samu castillejo
+Villarreal CF,Samu García,24,Spain,Right Winger,RW,,Málaga CF,Spain,8000000,in,summer,Laliga,2015,FALSE,,samu garcia
+Valencia CF,Santi Mina,19,Spain,Centre-Forward,CF,2000000,Celta de Vigo,Spain,10000000,in,summer,Laliga,2015,FALSE,,santi mina
+Sunderland AFC,Santiago Vergini,26,Argentina,Centre-Back,CB,,Estudiantes LP,Argentina,2850000,in,summer,Premier League,2015,FALSE,,santiago vergini
+Aston Villa,Scott Sinclair,26,England,Left Winger,LW,,Man City,England,3500000,in,summer,Premier League,2015,FALSE,,scott sinclair
+Olympiacos Piraeus,Sebá,23,Brazil,Left Winger,LW,,Estoril Praia,Portugal,1800000,in,summer,Super League 1,2015,FALSE,,seba
+Sunderland AFC,Sebastián Coates,24,Uruguay,Centre-Back,CB,5000000,Liverpool,England,2800000,in,summer,Premier League,2015,FALSE,,sebastian coates
+Fenerbahce,Şener Özbayraklı,25,Turkey,Right-Back,RB,,Bursaspor,Turkey,1630000,in,summer,Super Lig,2015,FALSE,,sener ozbayrakli
+Paris Saint-Germain,Serge Aurier,22,Cote d'Ivoire,Right-Back,RB,8000000,Toulouse,France,10000000,in,summer,Ligue 1,2015,FALSE,,serge aurier
+SS Lazio,Sergej Milinkovic-Savic,20,Serbia,Central Midfield,CM,40000000,KRC Genk,Belgium,12000000,in,summer,Serie A,2015,FALSE,,sergej milinkovic-savic
+Kuban Krasnodar (-2018),Sergey Tkachev,26,Russia,Attacking Midfield,AM,,Loko Moskau,Russia,1500000,in,summer,Premier Liga,2015,FALSE,,sergey tkachev
+Olympique Lyon,Sergi Darder,21,Spain,Central Midfield,CM,16000000,Málaga CF,Spain,13100000,in,summer,Ligue 1,2015,FALSE,,sergi darder
+UD Las Palmas,Sergio Araujo,23,Argentina,Centre-Forward,CF,3000000,Boca Juniors,Argentina,2500000,in,summer,Laliga,2015,FALSE,,sergio araujo
+Sevilla FC,Sergio Escudero,25,Spain,Left-Back,LB,1500000,Getafe,Spain,3000000,in,summer,Laliga,2015,FALSE,,sergio escudero
+FC Porto,Sérgio Oliveira,23,Portugal,Central Midfield,CM,6000000,Paços Ferreira,Portugal,1000000,in,summer,Liga Portugal,2015,FALSE,,sergio oliveira
+Everton FC,Shani Tarashaj,20,Switzerland,Second Striker,SS,,Grasshoppers,Switzerland,4000000,in,winter,Premier League,2015,FALSE,,shani tarashaj
+Leicester City,Shinji Okazaki,29,Japan,Centre-Forward,CF,,1.FSV Mainz 05,Germany,11000000,in,summer,Premier League,2015,FALSE,,shinji okazaki
+Deportivo de La Coruña,Sidnei,25,Brazil,Centre-Back,CB,,Benfica,Portugal,6500000,in,summer,Laliga,2015,FALSE,,sidnei
+Feyenoord Rotterdam,Simon Gustafson,20,Sweden,Central Midfield,CM,2000000,Häcken,Sweden,1500000,in,summer,Eredivisie,2015,FALSE,,simon gustafson
+Fenerbahce,Simon Kjaer,26,Denmark,Centre-Back,CB,3500000,LOSC Lille,France,7650000,in,summer,Super Lig,2015,FALSE,,simon kjaer
+Juventus FC,Simone Zaza,24,Italy,Centre-Forward,CF,,Sassuolo,Italy,18000000,in,summer,Serie A,2015,FALSE,,simone zaza
+Basaksehir FK,Sokol Cikalleshi,24,Albania,Centre-Forward,CF,,RNK Split,Croatia,1800000,in,summer,Super Lig,2015,FALSE,,sokol cikalleshi
+FC Toulouse,Somália,26,Brazil,Central Midfield,CM,,Ferencváros,Hungary,2400000,in,summer,Ligue 1,2015,FALSE,,somalia
+Fenerbahce,Souza,26,Brazil,Defensive Midfield,DM,1500000,São Paulo,Brazil,8000000,in,summer,Super Lig,2015,FALSE,,souza
+Atlético de Madrid,Stefan Savic,24,Montenegro,Centre-Back,CB,6000000,Fiorentina,Italy,12000000,in,summer,Laliga,2015,FALSE,,stefan savic
+RSC Anderlecht,Stefano Okaka,25,Italy,Centre-Forward,CF,1000000,Sampdoria,Italy,3300000,in,summer,Jupiler Pro League,2015,FALSE,,stefano okaka
+US Sassuolo,Stefano Sensi,20,Italy,Central Midfield,CM,8000000,Cesena,Italy,5250000,in,winter,Serie A,2015,FALSE,,stefano sensi
+Olympiacos Piraeus,Stefanos Kapino,21,Greece,Goalkeeper,GK,,1.FSV Mainz 05,Germany,2000000,in,summer,Super League 1,2015,FALSE,,stefanos kapino
+RSC Anderlecht,Stéphane Badji,26,Senegal,Defensive Midfield,DM,,Basaksehir,Turkey,2770000,in,winter,Jupiler Pro League,2015,FALSE,,stephane badji
+Watford FC,Steven Berghuis,23,Netherlands,Right Winger,RW,9000000,AZ Alkmaar,Netherlands,6500000,in,summer,Premier League,2015,FALSE,,steven berghuis
+Norwich City,Steven Naismith,29,Scotland,Second Striker,SS,,Everton,England,11000000,in,winter,Premier League,2015,FALSE,,steven naismith
+Sevilla FC,Steven Nzonzi,26,France,Defensive Midfield,DM,2000000,Stoke City,England,8000000,in,summer,Laliga,2015,FALSE,,steven nzonzi
+Hamburger SV,Sven Schipplock,26,Germany,Centre-Forward,CF,,TSG Hoffenheim,Germany,2500000,in,summer,1 Bundesliga,2015,FALSE,,sven schipplock
+Bayern Munich,Sven Ulreich,26,Germany,Goalkeeper,GK,,VfB Stuttgart,Germany,3500000,in,summer,1 Bundesliga,2015,FALSE,,sven ulreich
+Liverpool FC,Taiwo Awoniyi,18,Nigeria,Centre-Forward,CF,30000000,Imperial Acad.,Nigeria,1100000,in,summer,Premier League,2015,FALSE,,taiwo awoniyi
+Sporting CP,Teófilo Gutiérrez,30,Colombia,Attacking Midfield,AM,,River Plate,Argentina,3400000,in,summer,Liga Portugal,2015,FALSE,,teofilo gutierrez
+AS Monaco,Thomas Lemar,19,France,Attacking Midfield,AM,15000000,SM Caen,France,4000000,in,summer,Ligue 1,2015,FALSE,,thomas lemar
+Borussia Mönchengladbach,Thorgan Hazard,22,Belgium,Left Winger,LW,6000000,Chelsea,England,8000000,in,summer,1 Bundesliga,2015,FALSE,,thorgan hazard
+Norwich City,Timm Klose,27,Switzerland,Centre-Back,CB,,VfL Wolfsburg,Germany,11000000,in,winter,Premier League,2015,FALSE,,timm klose
+Tottenham Hotspur,Toby Alderweireld,26,Belgium,Centre-Back,CB,3500000,Atlético Madrid,Spain,16000000,in,summer,Premier League,2015,FALSE,,toby alderweireld
+Bursaspor,Tom De Sutter,30,Belgium,Centre-Forward,CF,,Club Brugge,Belgium,1800000,in,summer,Super Lig,2015,FALSE,,tom de sutter
+VfB Stuttgart,Toni Sunjic,26,Bosnia Herzegovina,Centre-Back,CB,,Kuban Krasnodar,Russia,3000000,in,summer,1 Bundesliga,2015,FALSE,,toni sunjic
+Vitória Guimarães SC,Tozé,22,Portugal,Attacking Midfield,AM,4500000,FC Porto,Portugal,1500000,in,summer,Liga Portugal,2015,FALSE,,toze
+AFC Bournemouth,Tyrone Mings,22,England,Centre-Back,CB,22000000,Ipswich,England,11300000,in,summer,Premier League,2015,FALSE,,tyrone mings
+Hannover 96,Uffe Bech,22,Denmark,Right Winger,RW,,Nordsjaelland,Denmark,2000000,in,summer,1 Bundesliga,2015,FALSE,,uffe bech
+FC Midtjylland,Vaclav Kadlec,23,Czech Republic,Centre-Forward,CF,,E. Frankfurt,Germany,2100000,in,winter,Superliga,2015,FALSE,,vaclav kadlec
+AS Monaco,Vágner Love,31,Brazil,Centre-Forward,CF,,Corinthians,Brazil,1500000,in,winter,Ligue 1,2015,FALSE,,vagner love
+Watford FC,Valon Behrami,30,Switzerland,Defensive Midfield,DM,,Hamburger SV,Germany,3500000,in,summer,Premier League,2015,FALSE,,valon behrami
+Villarreal CF,Víctor Ruiz,26,Spain,Centre-Back,CB,1000000,Valencia,Spain,2700000,in,summer,Laliga,2015,FALSE,,victor ruiz
+Inter Milan,Vincenzo Tommasone,20,Italy,Second Striker,SS,,Genoa U19,Italy,3700000,in,summer,Serie A,2015,FALSE,,vincenzo tommasone
+Southampton FC,Virgil van Dijk,24,Netherlands,Centre-Back,CB,35000000,Celtic,Scotland,15700000,in,summer,Premier League,2015,FALSE,,virgil van dijk
+SSC Napoli,Vlad Chiricheș,25,Romania,Centre-Back,CB,,Tottenham,England,7000000,in,summer,Serie A,2015,FALSE,,vlad chiriches
+Hertha BSC,Vladimir Darida,24,Czech Republic,Central Midfield,CM,1200000,SC Freiburg,Germany,3800000,in,summer,1 Bundesliga,2015,FALSE,,vladimir darida
+Fenerbahce,Volkan Şen,28,Turkey,Left Winger,LW,,Bursaspor,Turkey,2500000,in,summer,Super Lig,2015,FALSE,,volkan sen
+Zenit St. Petersburg,Vukasin Jovanovic,19,Serbia,Centre-Back,CB,,Red Star,Serbia,2000000,in,winter,Premier Liga,2015,FALSE,,vukasin jovanovic
+Sunderland AFC,Wahbi Khazri,24,Tunisia,Centre-Forward,CF,2500000,G. Bordeaux,France,11800000,in,winter,Premier League,2015,FALSE,,wahbi khazri
+Club Brugge KV,Wesley Moraes,19,Brazil,Centre-Forward,CF,2500000,AS Trencin,Slovakia,4200000,in,winter,Jupiler Pro League,2015,FALSE,,wesley moraes
+Stoke City,Xherdan Shaqiri,23,Switzerland,Attacking Midfield,AM,3500000,Inter,Italy,17000000,in,summer,Premier League,2015,FALSE,,xherdan shaqiri
+Inter Milan,Xherdan Shaqiri,23,Switzerland,Attacking Midfield,AM,3500000,Bayern Munich,Germany,15000000,in,summer,Serie A,2015,FALSE,,xherdan shaqiri
+Stade Rennais FC,Yacouba Sylla,24,Mali,Defensive Midfield,DM,,Aston Villa,England,1500000,in,summer,Ligue 1,2015,FALSE,,yacouba sylla
+Atlético de Madrid,Yannick Carrasco,21,Belgium,Left Winger,LW,20000000,Monaco,France,15000000,in,summer,Laliga,2015,FALSE,,yannick carrasco
+LOSC Lille,Yassine Benzia,20,Algeria,Attacking Midfield,AM,1000000,Olympique Lyon,France,1000000,in,summer,Ligue 1,2015,FALSE,,yassine benzia
+Valencia CF,Yoel Rodríguez,26,Spain,Goalkeeper,GK,,Celta de Vigo,Spain,2000000,in,summer,Laliga,2015,FALSE,,yoel rodriguez
+Leicester City,Yohan Benalouane,28,Tunisia,Centre-Back,CB,,Atalanta BC,Italy,7000000,in,summer,Premier League,2015,FALSE,,yohan benalouane
+Crystal Palace,Yohan Cabaye,29,France,Central Midfield,CM,,Paris SG,France,13900000,in,summer,Premier League,2015,FALSE,,yohan cabaye
+BSC Young Boys,Yoric Ravet,26,France,Right Winger,RW,,Grasshoppers,Switzerland,2000000,in,winter,Super League,2015,FALSE,,yoric ravet
+1.FSV Mainz 05,Yoshinori Muto,22,Japan,Centre-Forward,CF,1800000,FC Tokyo,Japan,2800000,in,summer,1 Bundesliga,2015,FALSE,,yoshinori muto
+Sunderland AFC,Younès Kaboul,29,France,Centre-Back,CB,,Tottenham,England,4300000,in,summer,Premier League,2015,FALSE,,younes kaboul
+FC Lorient,Zargo Touré,25,Senegal,Centre-Back,CB,,Le Havre AC,France,1500000,in,summer,Ligue 1,2015,FALSE,,zargo toure
+FC Basel 1893,Zdravko Kuzmanovic,27,Serbia,Central Midfield,CM,,Inter,Italy,2000000,in,summer,Super League,2015,FALSE,,zdravko kuzmanovic
+Spartak Moscow,Zé Luís,24,Cape Verde,Centre-Forward,CF,,SC Braga,Portugal,6500000,in,summer,Premier Liga,2015,FALSE,,ze luis

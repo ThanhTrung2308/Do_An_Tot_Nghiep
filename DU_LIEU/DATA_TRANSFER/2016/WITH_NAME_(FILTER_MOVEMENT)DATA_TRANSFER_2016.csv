@@ -1,0 +1,624 @@
+﻿club,name,age,nationality,position,short_pos,market_value,dealing_club,dealing_country,fee,movement,window,league,season,is_loan,loan_status,normalized_name
+1.FC Köln,Serhou Guirassy,20.0,Guinea,Centre-Forward,CF,40000000.0,LOSC Lille,France,3800000.0,in,summer,1 Bundesliga,2016,False,,serhou guirassy
+1.FC Köln,Marco Höger,26.0,Germany,Defensive Midfield,DM,,FC Schalke 04,Germany,1300000.0,in,summer,1 Bundesliga,2016,False,,marco hoger
+1.FC Köln,Christian Clemens,25.0,Germany,Right Winger,RW,,1.FSV Mainz 05,Germany,2750000.0,in,winter,1 Bundesliga,2016,False,,christian clemens
+1.FSV Mainz 05,Jhon Córdoba,23.0,Colombia,Centre-Forward,CF,12000000.0,Granada CF,Spain,6500000.0,in,summer,1 Bundesliga,2016,False,,jhon cordoba
+1.FSV Mainz 05,Jean-Philippe Gbamin,20.0,Cote d'Ivoire,Defensive Midfield,DM,4000000.0,Lens,France,5000000.0,in,summer,1 Bundesliga,2016,False,,jean-philippe gbamin
+1.FSV Mainz 05,Levin Öztunali,20.0,Germany,Left Winger,LW,1200000.0,B. Leverkusen,Germany,5000000.0,in,summer,1 Bundesliga,2016,False,,levin oztunali
+1.FSV Mainz 05,Gerrit Holtmann,21.0,Philippines,Left Winger,LW,2300000.0,E. Braunschweig,Germany,3000000.0,in,summer,1 Bundesliga,2016,False,,gerrit holtmann
+1.FSV Mainz 05,Jonas Lössl,27.0,Denmark,Goalkeeper,GK,,Guingamp,France,2500000.0,in,summer,1 Bundesliga,2016,False,,jonas lossl
+1.FSV Mainz 05,José Rodríguez,21.0,Spain,Central Midfield,CM,,Galatasaray,Turkey,2150000.0,in,summer,1 Bundesliga,2016,False,,jose rodriguez
+1.FSV Mainz 05,Christian Clemens,24.0,Germany,Right Winger,RW,,FC Schalke 04,Germany,2000000.0,in,summer,1 Bundesliga,2016,False,,christian clemens
+1.FSV Mainz 05,Robin Quaison,23.0,Sweden,Centre-Forward,CF,4500000.0,US Palermo,Italy,2500000.0,in,winter,1 Bundesliga,2016,False,,robin quaison
+Bayer 04 Leverkusen,Aleksandar Dragovic,25.0,Austria,Centre-Back,CB,4500000.0,Dynamo Kyiv,Ukraine,21000000.0,in,summer,1 Bundesliga,2016,False,,aleksandar dragovic
+Bayer 04 Leverkusen,Kevin Volland,23.0,Germany,Centre-Forward,CF,6000000.0,TSG Hoffenheim,Germany,20000000.0,in,summer,1 Bundesliga,2016,False,,kevin volland
+Bayer 04 Leverkusen,Julian Baumgartlinger,28.0,Austria,Defensive Midfield,DM,,1.FSV Mainz 05,Germany,4000000.0,in,summer,1 Bundesliga,2016,False,,julian baumgartlinger
+Bayer 04 Leverkusen,Leon Bailey,19.0,Jamaica,Left Winger,LW,28000000.0,KRC Genk,Belgium,16700000.0,in,winter,1 Bundesliga,2016,False,,leon bailey
+Bayern Munich,Renato Sanches,18.0,Portugal,Central Midfield,CM,14000000.0,Benfica,Portugal,35000000.0,in,summer,1 Bundesliga,2016,False,,renato sanches
+Bayern Munich,Mats Hummels,27.0,Germany,Centre-Back,CB,6000000.0,Bor. Dortmund,Germany,35000000.0,in,summer,1 Bundesliga,2016,False,,mats hummels
+Borussia Dortmund,Ousmane Dembélé,19.0,France,Right Winger,RW,60000000.0,Stade Rennais,France,35000000.0,in,summer,1 Bundesliga,2016,False,,ousmane dembele
+Borussia Dortmund,André Schürrle,25.0,Germany,Left Winger,LW,,VfL Wolfsburg,Germany,30000000.0,in,summer,1 Bundesliga,2016,False,,andre schurrle
+Borussia Dortmund,Mario Götze,24.0,Germany,Attacking Midfield,AM,9000000.0,Bayern Munich,Germany,22000000.0,in,summer,1 Bundesliga,2016,False,,mario gotze
+Borussia Dortmund,Sebastian Rode,25.0,Germany,Central Midfield,CM,2000000.0,Bayern Munich,Germany,12000000.0,in,summer,1 Bundesliga,2016,False,,sebastian rode
+Borussia Dortmund,Raphaël Guerreiro,22.0,Portugal,Left-Back,LB,15000000.0,FC Lorient,France,12000000.0,in,summer,1 Bundesliga,2016,False,,raphael guerreiro
+Borussia Dortmund,Emre Mor,18.0,Turkey,Right Winger,RW,3300000.0,Nordsjaelland,Denmark,9750000.0,in,summer,1 Bundesliga,2016,False,,emre mor
+Borussia Dortmund,Marc Bartra,25.0,Spain,Centre-Back,CB,3000000.0,Barcelona,Spain,8000000.0,in,summer,1 Bundesliga,2016,False,,marc bartra
+Borussia Dortmund,Mikel Merino,20.0,Spain,Central Midfield,CM,50000000.0,CA Osasuna,Spain,3750000.0,in,summer,1 Bundesliga,2016,False,,mikel merino
+Borussia Dortmund,Alexander Isak,17.0,Sweden,Centre-Forward,CF,70000000.0,AIK,Sweden,8600000.0,in,winter,1 Bundesliga,2016,False,,alexander isak
+Borussia Mönchengladbach,Christoph Kramer,25.0,Germany,Defensive Midfield,DM,2500000.0,B. Leverkusen,Germany,15000000.0,in,summer,1 Bundesliga,2016,False,,christoph kramer
+Borussia Mönchengladbach,Jannik Vestergaard,23.0,Denmark,Centre-Back,CB,4000000.0,Werder Bremen,Germany,12500000.0,in,summer,1 Bundesliga,2016,False,,jannik vestergaard
+Borussia Mönchengladbach,László Bénes,18.0,Slovakia,Central Midfield,CM,3500000.0,MSK Zilina,Slovakia,5000000.0,in,summer,1 Bundesliga,2016,False,,laszlo benes
+Borussia Mönchengladbach,Timothée Kolodziejczak,25.0,France,Centre-Back,CB,,Sevilla FC,Spain,7500000.0,in,winter,1 Bundesliga,2016,False,,timothee kolodziejczak
+Borussia Mönchengladbach,Julio Villalba,18.0,Paraguay,Centre-Forward,CF,,Cerro Porteño,Paraguay,1250000.0,in,winter,1 Bundesliga,2016,False,,julio villalba
+Eintracht Frankfurt,Taleb Tawatha,24.0,Israel,Left-Back,LB,,Maccabi Haifa,Israel,1200000.0,in,summer,1 Bundesliga,2016,False,,taleb tawatha
+Eintracht Frankfurt,Omar Mascarell,23.0,Spain,Defensive Midfield,DM,1000000.0,Real Madrid,Spain,1000000.0,in,summer,1 Bundesliga,2016,False,,omar mascarell
+Eintracht Frankfurt,Andersson Ordóñez,22.0,Ecuador,Centre-Back,CB,,Barcelona SC,Ecuador,1000000.0,in,winter,1 Bundesliga,2016,False,,andersson ordonez
+FC Augsburg,Martin Hinteregger,23.0,Austria,Centre-Back,CB,,RB Salzburg,Austria,10500000.0,in,summer,1 Bundesliga,2016,False,,martin hinteregger
+FC Augsburg,Jonathan Schmid,26.0,France,Right Midfield,RM,,TSG Hoffenheim,Germany,5200000.0,in,summer,1 Bundesliga,2016,False,,jonathan schmid
+FC Augsburg,Alfred Finnbogason,27.0,Iceland,Centre-Forward,CF,,Real Sociedad,Spain,4000000.0,in,summer,1 Bundesliga,2016,False,,alfred finnbogason
+FC Augsburg,Takashi Usami,24.0,Japan,Centre-Forward,CF,,Gamba Osaka,Japan,1500000.0,in,summer,1 Bundesliga,2016,False,,takashi usami
+FC Augsburg,Marvin Friedrich,20.0,Germany,Centre-Back,CB,4000000.0,FC Schalke 04,Germany,1000000.0,in,summer,1 Bundesliga,2016,False,,marvin friedrich
+FC Augsburg,Moritz Leitner,24.0,Germany,Central Midfield,CM,,Lazio,Italy,1500000.0,in,winter,1 Bundesliga,2016,False,,moritz leitner
+FC Ingolstadt 04,Marcel Tisserand,23.0,DR Congo,Centre-Back,CB,2800000.0,Monaco,France,3500000.0,in,summer,1 Bundesliga,2016,False,,marcel tisserand
+FC Ingolstadt 04,Florent Hadergjonaj,22.0,Kosovo,Right-Back,RB,2800000.0,BSC Young Boys,Switzerland,2000000.0,in,summer,1 Bundesliga,2016,False,,florent hadergjonaj
+FC Ingolstadt 04,Robert Leipertz,23.0,Germany,Right Winger,RW,,FC Schalke 04,Germany,1500000.0,in,summer,1 Bundesliga,2016,False,,robert leipertz
+FC Schalke 04,Breel Embolo,19.0,Switzerland,Centre-Forward,CF,15000000.0,FC Basel,Switzerland,26500000.0,in,summer,1 Bundesliga,2016,False,,breel embolo
+FC Schalke 04,Benjamin Stambouli,26.0,France,Defensive Midfield,DM,1000000.0,Paris SG,France,8000000.0,in,summer,1 Bundesliga,2016,False,,benjamin stambouli
+FC Schalke 04,Coke,29.0,Spain,Right-Back,RB,,Sevilla FC,Spain,4000000.0,in,summer,1 Bundesliga,2016,False,,coke
+FC Schalke 04,Daniel Caligiuri,29.0,Italy,Right Winger,RW,,VfL Wolfsburg,Germany,2500000.0,in,winter,1 Bundesliga,2016,False,,daniel caligiuri
+FC Schalke 04,Guido Burgstaller,27.0,Austria,Centre-Forward,CF,1000000.0,1.FC Nuremberg,Germany,1500000.0,in,winter,1 Bundesliga,2016,False,,guido burgstaller
+Hamburger SV,Filip Kostić,23.0,Serbia,Left Midfield,LM,15000000.0,VfB Stuttgart,Germany,14000000.0,in,summer,1 Bundesliga,2016,False,,filip kostic
+Hamburger SV,Douglas Santos,22.0,Brazil,Left-Back,LB,18000000.0,Atlético-MG,Brazil,6500000.0,in,summer,1 Bundesliga,2016,False,,douglas santos
+Hamburger SV,Alen Halilovic,20.0,Croatia,Attacking Midfield,AM,1000000.0,Barcelona,Spain,5000000.0,in,summer,1 Bundesliga,2016,False,,alen halilovic
+Hamburger SV,Bobby Wood,23.0,United States,Centre-Forward,CF,,Union Berlin,Germany,4000000.0,in,summer,1 Bundesliga,2016,False,,bobby wood
+Hamburger SV,Luca Waldschmidt,20.0,Germany,Centre-Forward,CF,3000000.0,E. Frankfurt,Germany,1300000.0,in,summer,1 Bundesliga,2016,False,,luca waldschmidt
+Hamburger SV,Walace,21.0,Brazil,Defensive Midfield,DM,7000000.0,Grêmio,Brazil,9200000.0,in,winter,1 Bundesliga,2016,False,,walace
+Hamburger SV,Mergim Mavraj,30.0,Albania,Centre-Back,CB,,1.FC Köln,Germany,1800000.0,in,winter,1 Bundesliga,2016,False,,mergim mavraj
+Hertha BSC,Ondrej Duda,21.0,Slovakia,Attacking Midfield,AM,4000000.0,Legia Warszawa,Poland,4200000.0,in,summer,1 Bundesliga,2016,False,,ondrej duda
+Hertha BSC,Alexander Esswein,26.0,Germany,Left Winger,LW,,FC Augsburg,Germany,2500000.0,in,summer,1 Bundesliga,2016,False,,alexander esswein
+RB Leipzig,Naby Keïta,21.0,Guinea,Central Midfield,CM,9000000.0,RB Salzburg,Austria,29750000.0,in,summer,1 Bundesliga,2016,False,,naby keita
+RB Leipzig,Timo Werner,20.0,Germany,Centre-Forward,CF,20000000.0,VfB Stuttgart,Germany,23000000.0,in,summer,1 Bundesliga,2016,False,,timo werner
+RB Leipzig,Oliver Burke,19.0,Scotland,Centre-Forward,CF,2200000.0,Nottm Forest,England,15200000.0,in,summer,1 Bundesliga,2016,False,,oliver burke
+RB Leipzig,Bernardo,21.0,Brazil,Centre-Back,CB,3000000.0,RB Salzburg,Austria,6000000.0,in,summer,1 Bundesliga,2016,False,,bernardo
+RB Leipzig,Marius Müller,22.0,Germany,Goalkeeper,GK,1000000.0,1.FC K'lautern,Germany,1700000.0,in,summer,1 Bundesliga,2016,False,,marius muller
+RB Leipzig,Dayot Upamecano,18.0,France,Centre-Back,CB,60000000.0,RB Salzburg,Austria,18500000.0,in,winter,1 Bundesliga,2016,False,,dayot upamecano
+SC Freiburg,Çağlar Söyüncü,20.0,Turkey,Centre-Back,CB,15000000.0,Altinordu,Turkey,7930000.0,in,summer,1 Bundesliga,2016,False,,caglar soyuncu
+SC Freiburg,Janik Haberer,22.0,Germany,Central Midfield,CM,7000000.0,TSG Hoffenheim,Germany,2000000.0,in,summer,1 Bundesliga,2016,False,,janik haberer
+SC Freiburg,Onur Bulut,22.0,Turkey,Right-Back,RB,3800000.0,VfL Bochum,Germany,1200000.0,in,summer,1 Bundesliga,2016,False,,onur bulut
+SC Freiburg,Jonas Meffert,21.0,Germany,Defensive Midfield,DM,1500000.0,B. Leverkusen,Germany,1200000.0,in,summer,1 Bundesliga,2016,False,,jonas meffert
+SC Freiburg,Manuel Gulde,25.0,Germany,Centre-Back,CB,1500000.0,Karlsruher SC,Germany,1200000.0,in,summer,1 Bundesliga,2016,False,,manuel gulde
+SC Freiburg,Rafal Gikiewicz,28.0,Poland,Goalkeeper,GK,,E. Braunschweig,Germany,1000000.0,in,summer,1 Bundesliga,2016,False,,rafal gikiewicz
+SC Freiburg,Vincent Sierro,21.0,Switzerland,Central Midfield,CM,2000000.0,FC Sion,Switzerland,1500000.0,in,winter,1 Bundesliga,2016,False,,vincent sierro
+SV Darmstadt 98,Roman Bezjak,27.0,Slovenia,Centre-Forward,CF,,HNK Rijeka,Croatia,2000000.0,in,summer,1 Bundesliga,2016,False,,roman bezjak
+SV Werder Bremen,Max Kruse,28.0,Germany,Second Striker,SS,,VfL Wolfsburg,Germany,7500000.0,in,summer,1 Bundesliga,2016,False,,max kruse
+SV Werder Bremen,Serge Gnabry,21.0,Germany,Right Winger,RW,55000000.0,Arsenal,England,5000000.0,in,summer,1 Bundesliga,2016,False,,serge gnabry
+SV Werder Bremen,Florian Kainz,23.0,Austria,Left Winger,LW,5000000.0,Rapid Vienna,Austria,3500000.0,in,summer,1 Bundesliga,2016,False,,florian kainz
+SV Werder Bremen,Robert Bauer,21.0,Germany,Centre-Back,CB,,FC Ingolstadt,Germany,2500000.0,in,summer,1 Bundesliga,2016,False,,robert bauer
+SV Werder Bremen,Niklas Moisander,30.0,Finland,Centre-Back,CB,,Sampdoria,Italy,1700000.0,in,summer,1 Bundesliga,2016,False,,niklas moisander
+SV Werder Bremen,Fallou Diagne,26.0,Senegal,Centre-Back,CB,,Stade Rennais,France,1500000.0,in,summer,1 Bundesliga,2016,False,,fallou diagne
+SV Werder Bremen,Thomas Delaney,25.0,Denmark,Central Midfield,CM,2000000.0,FC Copenhagen,Denmark,2000000.0,in,winter,1 Bundesliga,2016,False,,thomas delaney
+TSG 1899 Hoffenheim,Andrej Kramaric,25.0,Croatia,Centre-Forward,CF,8000000.0,Leicester,England,11000000.0,in,summer,1 Bundesliga,2016,False,,andrej kramaric
+TSG 1899 Hoffenheim,Lukas Rupp,25.0,Germany,Central Midfield,CM,,VfB Stuttgart,Germany,5000000.0,in,summer,1 Bundesliga,2016,False,,lukas rupp
+TSG 1899 Hoffenheim,Kerem Demirbay,23.0,Germany,Central Midfield,CM,6000000.0,Hamburger SV,Germany,4700000.0,in,summer,1 Bundesliga,2016,False,,kerem demirbay
+TSG 1899 Hoffenheim,Kevin Vogt,24.0,Germany,Centre-Back,CB,2500000.0,1.FC Köln,Germany,3000000.0,in,summer,1 Bundesliga,2016,False,,kevin vogt
+TSG 1899 Hoffenheim,Sandro Wagner,28.0,Germany,Centre-Forward,CF,,Darmstadt 98,Germany,2800000.0,in,summer,1 Bundesliga,2016,False,,sandro wagner
+VfL Wolfsburg,Yannick Gerhardt,22.0,Germany,Central Midfield,CM,6000000.0,1.FC Köln,Germany,13000000.0,in,summer,1 Bundesliga,2016,False,,yannick gerhardt
+VfL Wolfsburg,Jeffrey Bruma,24.0,Netherlands,Centre-Back,CB,,PSV Eindhoven,Netherlands,11500000.0,in,summer,1 Bundesliga,2016,False,,jeffrey bruma
+VfL Wolfsburg,Josip Brekalo,18.0,Croatia,Left Winger,LW,5000000.0,Dinamo Zagreb,Croatia,10000000.0,in,summer,1 Bundesliga,2016,False,,josip brekalo
+VfL Wolfsburg,Jakub Blaszczykowski,30.0,Poland,Right Winger,RW,,Bor. Dortmund,Germany,5000000.0,in,summer,1 Bundesliga,2016,False,,jakub blaszczykowski
+VfL Wolfsburg,Josuha Guilavogui,25.0,France,Defensive Midfield,DM,2000000.0,Atlético Madrid,Spain,3000000.0,in,summer,1 Bundesliga,2016,False,,josuha guilavogui
+VfL Wolfsburg,Mario Gómez,31.0,Germany,Centre-Forward,CF,,Fiorentina,Italy,1050000.0,in,summer,1 Bundesliga,2016,False,,mario gomez
+VfL Wolfsburg,Yunus Mallı,24.0,Turkey,Attacking Midfield,AM,,1.FSV Mainz 05,Germany,12500000.0,in,winter,1 Bundesliga,2016,False,,yunus malli
+VfL Wolfsburg,Riechedly Bazoer,20.0,Netherlands,Defensive Midfield,DM,2800000.0,Ajax,Netherlands,12000000.0,in,winter,1 Bundesliga,2016,False,,riechedly bazoer
+VfL Wolfsburg,Paul-Georges Ntep,24.0,Cameroon,Left Winger,LW,,Stade Rennais,France,5000000.0,in,winter,1 Bundesliga,2016,False,,paul-georges ntep
+VfL Wolfsburg,Victor Osimhen,18.0,Nigeria,Centre-Forward,CF,120000000.0,Ult. Strikers,Nigeria,3500000.0,in,winter,1 Bundesliga,2016,False,,victor osimhen
+AIK Solna,Kristoffer Olsson,21.0,Sweden,Central Midfield,CM,2500000.0,FC Midtjylland,Denmark,1000000.0,in,winter,Allsvenskan,2016,False,,kristoffer olsson
+Rapid Vienna,Arnór Ingvi Traustason,23.0,Iceland,Central Midfield,CM,1200000.0,Norrköping,Sweden,2300000.0,in,summer,Bundesliga,2016,False,,arnor ingvi traustason
+Rapid Vienna,Ivan Mocinic,23.0,Croatia,Defensive Midfield,DM,,HNK Rijeka,Croatia,2000000.0,in,summer,Bundesliga,2016,False,,ivan mocinic
+Red Bull Salzburg,Munas Dabbur,24.0,Israel,Centre-Forward,CF,3000000.0,Grasshoppers,Switzerland,5000000.0,in,summer,Bundesliga,2016,False,,munas dabbur
+Red Bull Salzburg,Marc Rzatkowski,26.0,Germany,Central Midfield,CM,,FC St. Pauli,Germany,2000000.0,in,summer,Bundesliga,2016,False,,marc rzatkowski
+Red Bull Salzburg,Stefan Stangl,24.0,Austria,Left-Back,LB,,Rapid Vienna,Austria,1650000.0,in,summer,Bundesliga,2016,False,,stefan stangl
+AZ Alkmaar,Wout Weghorst,23.0,Netherlands,Centre-Forward,CF,9000000.0,Heracles Almelo,Netherlands,1500000.0,in,summer,Eredivisie,2016,False,,wout weghorst
+AZ Alkmaar,Fred Friday,21.0,Nigeria,Centre-Forward,CF,,Lillestrøm,Norway,1500000.0,in,summer,Eredivisie,2016,False,,fred friday
+AZ Alkmaar,Iliass Bel Hassani,23.0,Morocco,Attacking Midfield,AM,,Heracles Almelo,Netherlands,1350000.0,in,summer,Eredivisie,2016,False,,iliass bel hassani
+Ajax Amsterdam,Hakim Ziyech,23.0,Morocco,Right Winger,RW,15000000.0,Twente FC,Netherlands,11000000.0,in,summer,Eredivisie,2016,False,,hakim ziyech
+Ajax Amsterdam,Mateo Cassierra,19.0,Colombia,Centre-Forward,CF,6000000.0,Deportivo Cali,Colombia,5500000.0,in,summer,Eredivisie,2016,False,,mateo cassierra
+Ajax Amsterdam,Davinson Sánchez,20.0,Colombia,Centre-Back,CB,14000000.0,Atl. Nacional,Colombia,5500000.0,in,summer,Eredivisie,2016,False,,davinson sanchez
+Ajax Amsterdam,David Neres,19.0,Brazil,Right Winger,RW,25000000.0,São Paulo,Brazil,17400000.0,in,winter,Eredivisie,2016,False,,david neres
+Feyenoord Rotterdam,Nicolai Jörgensen,25.0,Denmark,Centre-Forward,CF,,FC Copenhagen,Denmark,3500000.0,in,summer,Eredivisie,2016,False,,nicolai jorgensen
+PSV Eindhoven,Bart Ramselaar,20.0,Netherlands,Attacking Midfield,AM,2300000.0,FC Utrecht,Netherlands,4750000.0,in,summer,Eredivisie,2016,False,,bart ramselaar
+Club Brugge KV,Tomás Pina,28.0,Spain,Central Midfield,CM,,Villarreal,Spain,3000000.0,in,summer,Jupiler Pro League,2016,False,,tomas pina
+Club Brugge KV,Anthony Limbombe,22.0,Belgium,Left Winger,LW,,NEC Nijmegen,Netherlands,2300000.0,in,summer,Jupiler Pro League,2016,False,,anthony limbombe
+Club Brugge KV,Ricardo van Rhijn,25.0,Netherlands,Right-Back,RB,,Ajax,Netherlands,1800000.0,in,summer,Jupiler Pro League,2016,False,,ricardo van rhijn
+Club Brugge KV,Dorin Rotariu,21.0,Romania,Right Winger,RW,,FC Dinamo,Romania,2200000.0,in,winter,Jupiler Pro League,2016,False,,dorin rotariu
+Club Brugge KV,Carlos Strandberg,20.0,Sweden,Right Winger,RW,2300000.0,CSKA Moscow,Russia,1500000.0,in,winter,Jupiler Pro League,2016,False,,carlos strandberg
+Club Brugge KV,Ethan Horvath,21.0,United States,Goalkeeper,GK,1500000.0,Molde FK,Norway,1000000.0,in,winter,Jupiler Pro League,2016,False,,ethan horvath
+KAA Gent,Stefan Mitrovic,26.0,Serbia,Centre-Back,CB,2000000.0,SC Freiburg,Germany,1500000.0,in,summer,Jupiler Pro League,2016,False,,stefan mitrovic
+KAA Gent,Anderson Esiti,22.0,Nigeria,Defensive Midfield,DM,1500000.0,Estoril Praia,Portugal,1500000.0,in,summer,Jupiler Pro League,2016,False,,anderson esiti
+KAA Gent,Ofir Davidzada,25.0,Israel,Left-Back,LB,,H. Beer Sheva,Israel,1000000.0,in,summer,Jupiler Pro League,2016,False,,ofir davidzada
+KAA Gent,Jérémy Perbet,31.0,France,Centre-Forward,CF,,Basaksehir,Turkey,1000000.0,in,summer,Jupiler Pro League,2016,False,,jeremy perbet
+KAA Gent,Yuya Kubo,23.0,Japan,Attacking Midfield,AM,,BSC Young Boys,Switzerland,3500000.0,in,winter,Jupiler Pro League,2016,False,,yuya kubo
+KAA Gent,Lovre Kalinic,26.0,Croatia,Goalkeeper,GK,1000000.0,Hajduk Split,Croatia,3100000.0,in,winter,Jupiler Pro League,2016,False,,lovre kalinic
+KAA Gent,Tesfaldet Tekie,19.0,Sweden,Central Midfield,CM,,Norrköping,Sweden,1600000.0,in,winter,Jupiler Pro League,2016,False,,tesfaldet tekie
+KAA Gent,Samuel Gigot,23.0,France,Centre-Back,CB,10000000.0,KV Kortrijk,Belgium,1300000.0,in,winter,Jupiler Pro League,2016,False,,samuel gigot
+KAA Gent,Samuel Kalu,19.0,Nigeria,Right Winger,RW,2500000.0,AS Trencin,Slovakia,1000000.0,in,winter,Jupiler Pro League,2016,False,,samuel kalu
+KRC Genk,Jakub Brabec,24.0,Czech Republic,Centre-Back,CB,2000000.0,Sparta Prague,Czech Republic,2500000.0,in,summer,Jupiler Pro League,2016,False,,jakub brabec
+KRC Genk,Tino-Sven Susic,24.0,Bosnia-Herzegovina,Central Midfield,CM,,Hajduk Split,Croatia,2000000.0,in,summer,Jupiler Pro League,2016,False,,tino-sven susic
+KRC Genk,Omar Colley,23.0,The Gambia,Centre-Back,CB,3800000.0,Djurgården,Sweden,1700000.0,in,summer,Jupiler Pro League,2016,False,,omar colley
+KRC Genk,Pierre Zebli,19.0,Cote d'Ivoire,Defensive Midfield,DM,,Perugia,Italy,4000000.0,in,winter,Jupiler Pro League,2016,False,,pierre zebli
+KRC Genk,Sander Berge,18.0,Norway,Defensive Midfield,DM,20000000.0,Vålerenga,Norway,2000000.0,in,winter,Jupiler Pro League,2016,False,,sander berge
+KRC Genk,José Naranjo,22.0,Spain,Left Winger,LW,,Celta de Vigo,Spain,1800000.0,in,winter,Jupiler Pro League,2016,False,,jose naranjo
+KV Oostende,Nicolas de Préville,25.0,France,Centre-Forward,CF,,Stade Reims,France,4500000.0,in,summer,Jupiler Pro League,2016,False,,nicolas de preville
+KV Oostende,Adam Marusic,23.0,Montenegro,Left-Back,LB,8000000.0,KV Kortrijk,Belgium,2000000.0,in,summer,Jupiler Pro League,2016,False,,adam marusic
+KV Oostende,Ibrahima Conté,25.0,Guinea,Attacking Midfield,AM,,RSC Anderlecht,Belgium,1000000.0,in,summer,Jupiler Pro League,2016,False,,ibrahima conte
+RSC Anderlecht,Nicolae Stanciu,23.0,Romania,Attacking Midfield,AM,5000000.0,Steaua Bucharest,Romania,9700000.0,in,summer,Jupiler Pro League,2016,False,,nicolae stanciu
+RSC Anderlecht,Sebastien De Maio,29.0,France,Centre-Back,CB,,Genoa,Italy,3300000.0,in,summer,Jupiler Pro League,2016,False,,sebastien de maio
+RSC Anderlecht,Dennis Appiah,24.0,France,Right-Back,RB,1000000.0,SM Caen,France,3000000.0,in,summer,Jupiler Pro League,2016,False,,dennis appiah
+RSC Anderlecht,Alexandru Chipciu,27.0,Romania,Right Winger,RW,,Steaua Bucharest,Romania,3000000.0,in,summer,Jupiler Pro League,2016,False,,alexandru chipciu
+RSC Anderlecht,Mahmoud Trezeguet,21.0,Egypt,Left Winger,LW,10000000.0,El Ahly,Egypt,2200000.0,in,summer,Jupiler Pro League,2016,False,,mahmoud trezeguet
+RSC Anderlecht,Sofiane Hanni,25.0,Algeria,Attacking Midfield,AM,,KV Mechelen,Belgium,1600000.0,in,summer,Jupiler Pro League,2016,False,,sofiane hanni
+RSC Anderlecht,Adrien Trébel,25.0,Madagascar,Central Midfield,CM,,Standard Liège,Belgium,3000000.0,in,winter,Jupiler Pro League,2016,False,,adrien trebel
+RSC Anderlecht,Silvere Ganvoula,20.0,Congo,Centre-Forward,CF,,KVC Westerlo,Belgium,1200000.0,in,winter,Jupiler Pro League,2016,False,,silvere ganvoula
+Standard Liège,Isaac Mbenza,20.0,Belgium,Right Winger,RW,2200000.0,Valenciennes FC,France,1500000.0,in,summer,Jupiler Pro League,2016,False,,isaac mbenza
+Standard Liège,Răzvan Marin,20.0,Romania,Central Midfield,CM,5000000.0,FC Viitorul,Romania,4800000.0,in,winter,Jupiler Pro League,2016,False,,razvan marin
+Standard Liège,Dieumerci Ndongala,25.0,DR Congo,Right Winger,RW,,KAA Gent,Belgium,1500000.0,in,winter,Jupiler Pro League,2016,False,,dieumerci ndongala
+Standard Liège,Filip Mladenovic,25.0,Serbia,Left-Back,LB,,1.FC Köln,Germany,1200000.0,in,winter,Jupiler Pro League,2016,False,,filip mladenovic
+Standard Liège,Valeriy Luchkevych,21.0,Ukraine,Right-Back,RB,,Dnipro,Ukraine,1200000.0,in,winter,Jupiler Pro League,2016,False,,valeriy luchkevych
+Atlético de Madrid,Kévin Gameiro,29.0,France,Centre-Forward,CF,1200000.0,Sevilla FC,Spain,32000000.0,in,summer,Laliga,2016,False,,kevin gameiro
+Atlético de Madrid,Nico Gaitán,28.0,Argentina,Attacking Midfield,AM,,Benfica,Portugal,25000000.0,in,summer,Laliga,2016,False,,nico gaitan
+Atlético de Madrid,Sime Vrsaljko,24.0,Croatia,Right-Back,RB,,Sassuolo,Italy,14000000.0,in,summer,Laliga,2016,False,,sime vrsaljko
+Atlético de Madrid,Diogo Jota,19.0,Portugal,Left Winger,LW,50000000.0,Paços Ferreira,Portugal,7000000.0,in,summer,Laliga,2016,False,,diogo jota
+CA Osasuna,Sergio León,27.0,Spain,Centre-Forward,CF,2000000.0,Elche CF,Spain,1700000.0,in,summer,Laliga,2016,False,,sergio leon
+CD Leganés,Gabriel Pires,22.0,Brazil,Central Midfield,CM,3500000.0,Juventus,Italy,2500000.0,in,summer,Laliga,2016,False,,gabriel pires
+CD Leganés,Mamadou Koné,24.0,Cote d'Ivoire,Centre-Forward,CF,,Racing,Spain,1200000.0,in,summer,Laliga,2016,False,,mamadou kone
+CD Leganés,Diego Rico,23.0,Spain,Left-Back,LB,3000000.0,Real Zaragoza,Spain,1000000.0,in,summer,Laliga,2016,False,,diego rico
+Celta de Vigo,Pione Sisto,21.0,Denmark,Left Winger,LW,2000000.0,FC Midtjylland,Denmark,6000000.0,in,summer,Laliga,2016,False,,pione sisto
+Celta de Vigo,José Naranjo,21.0,Spain,Left Winger,LW,,Gimnàstic,Spain,1000000.0,in,summer,Laliga,2016,False,,jose naranjo
+Celta de Vigo,Andrew Hjulsager,22.0,Denmark,Attacking Midfield,AM,2000000.0,Bröndby IF,Denmark,1200000.0,in,winter,Laliga,2016,False,,andrew hjulsager
+Deportivo Alavés,Dani Torres,26.0,Colombia,Defensive Midfield,DM,,Indep. Medellín,Colombia,3180000.0,in,summer,Laliga,2016,False,,dani torres
+Deportivo Alavés,Aleksandar Katai,25.0,Serbia,Left Winger,LW,4500000.0,Red Star,Serbia,2000000.0,in,summer,Laliga,2016,False,,aleksandar katai
+Deportivo de La Coruña,Florin Andone,23.0,Romania,Centre-Forward,CF,,Córdoba CF,Spain,5700000.0,in,summer,Laliga,2016,False,,florin andone
+FC Barcelona,André Gomes,22.0,Portugal,Central Midfield,CM,16000000.0,Valencia,Spain,37000000.0,in,summer,Laliga,2016,False,,andre gomes
+FC Barcelona,Paco Alcácer,23.0,Spain,Centre-Forward,CF,7000000.0,Valencia,Spain,30000000.0,in,summer,Laliga,2016,False,,paco alcacer
+FC Barcelona,Samuel Umtiti,22.0,France,Centre-Back,CB,4000000.0,Olympique Lyon,France,25000000.0,in,summer,Laliga,2016,False,,samuel umtiti
+FC Barcelona,Lucas Digne,22.0,France,Left-Back,LB,15000000.0,Paris SG,France,16500000.0,in,summer,Laliga,2016,False,,lucas digne
+FC Barcelona,Jasper Cillessen,27.0,Netherlands,Goalkeeper,GK,2500000.0,Ajax,Netherlands,13000000.0,in,summer,Laliga,2016,False,,jasper cillessen
+FC Barcelona,Denis Suárez,22.0,Spain,Attacking Midfield,AM,2500000.0,Villarreal,Spain,3250000.0,in,summer,Laliga,2016,False,,denis suarez
+Granada CF,José Angulo,21.0,Ecuador,Centre-Forward,CF,,Independiente,Ecuador,4030000.000000001,in,summer,Laliga,2016,False,,jose angulo
+Granada CF,Mehdi Carcela-González,27.0,Morocco,Right Winger,RW,,Benfica,Portugal,4000000.0,in,summer,Laliga,2016,False,,mehdi carcela-gonzalez
+Granada CF,Sverrir Ingi Ingason,23.0,Iceland,Centre-Back,CB,4000000.0,KSC Lokeren,Belgium,1800000.0,in,winter,Laliga,2016,False,,sverrir ingi ingason
+Granada CF,Rui Silva,22.0,Portugal,Goalkeeper,GK,15000000.0,Nacional,Portugal,1000000.0,in,winter,Laliga,2016,False,,rui silva
+Málaga CF,Keko Gontán,24.0,Spain,Right Winger,RW,,SD Eibar,Spain,5000000.0,in,summer,Laliga,2016,False,,keko gontan
+Málaga CF,Michael Santos,23.0,Uruguay,Centre-Forward,CF,2700000.0,River Plate,Uruguay,4500000.0,in,summer,Laliga,2016,False,,michael santos
+Málaga CF,Luis Hernández,27.0,Spain,Centre-Back,CB,1000000.0,Leicester,England,2000000.0,in,winter,Laliga,2016,False,,luis hernandez
+RCD Espanyol Barcelona,Léo Baptistão,23.0,Brazil,Centre-Forward,CF,1800000.0,Atlético Madrid,Spain,7000000.0,in,summer,Laliga,2016,False,,leo baptistao
+RCD Espanyol Barcelona,David López,26.0,Spain,Centre-Back,CB,3000000.0,SSC Napoli,Italy,4000000.0,in,summer,Laliga,2016,False,,david lopez
+RCD Espanyol Barcelona,Roberto,30.0,Spain,Goalkeeper,GK,,Olympiacos,Greece,3000000.0,in,summer,Laliga,2016,False,,roberto
+RCD Espanyol Barcelona,Álvaro Vázquez,25.0,Spain,Centre-Forward,CF,,Getafe,Spain,2000000.0,in,summer,Laliga,2016,False,,alvaro vazquez
+RCD Espanyol Barcelona,José Manuel Jurado,30.0,Spain,Attacking Midfield,AM,,Watford,England,1200000.0,in,summer,Laliga,2016,False,,jose manuel jurado
+RCD Espanyol Barcelona,Javi Fuego,32.0,Spain,Defensive Midfield,DM,,Valencia,Spain,1000000.0,in,summer,Laliga,2016,False,,javi fuego
+Real Betis Balompié,Antonio Sanabria,20.0,Paraguay,Centre-Forward,CF,10000000.0,AS Roma,Italy,7500000.0,in,summer,Laliga,2016,False,,antonio sanabria
+Real Betis Balompié,Felipe Gutiérrez,25.0,Chile,Central Midfield,CM,,Twente FC,Netherlands,3500000.0,in,summer,Laliga,2016,False,,felipe gutierrez
+Real Betis Balompié,Aïssa Mandi,24.0,Algeria,Centre-Back,CB,2500000.0,Stade Reims,France,2800000.0,in,summer,Laliga,2016,False,,aissa mandi
+Real Betis Balompié,Jonas Martin,26.0,France,Defensive Midfield,DM,1500000.0,Montpellier,France,2600000.0,in,summer,Laliga,2016,False,,jonas martin
+Real Betis Balompié,Riza Durmisi,22.0,Denmark,Left-Back,LB,,Bröndby IF,Denmark,2000000.0,in,summer,Laliga,2016,False,,riza durmisi
+Real Betis Balompié,Darko Brasanac,24.0,Serbia,Central Midfield,CM,2000000.0,Partizan,Serbia,1500000.0,in,summer,Laliga,2016,False,,darko brasanac
+Real Betis Balompié,Alin Toșca,24.0,Romania,Centre-Back,CB,,Steaua Bucharest,Romania,1000000.0,in,winter,Laliga,2016,False,,alin tosca
+Real Madrid,Álvaro Morata,23.0,Spain,Centre-Forward,CF,20000000.0,Juventus,Italy,30000000.0,in,summer,Laliga,2016,False,,alvaro morata
+Real Sociedad,Willian José,24.0,Brazil,Centre-Forward,CF,6000000.0,Maldonado,Uruguay,6000000.0,in,summer,Laliga,2016,False,,willian jose
+Real Sociedad,Juanmi,23.0,Spain,Left Winger,LW,10000000.0,Southampton,England,5000000.0,in,summer,Laliga,2016,False,,juanmi
+Real Sociedad,Gerónimo Rulli,24.0,Argentina,Goalkeeper,GK,10000000.0,Man City,England,7000000.0,in,winter,Laliga,2016,False,,geronimo rulli
+SD Eibar,Nano Mesa,21.0,Spain,Centre-Forward,CF,,CD Tenerife,Spain,3200000.0,in,summer,Laliga,2016,False,,nano mesa
+SD Eibar,Alejandro Gálvez,27.0,Spain,Centre-Back,CB,,Werder Bremen,Germany,1500000.0,in,summer,Laliga,2016,False,,alejandro galvez
+SD Eibar,Bebé,26.0,Cape Verde,Left Winger,LW,,Benfica,Portugal,1500000.0,in,summer,Laliga,2016,False,,bebe
+SD Eibar,Florian Lejeune,25.0,France,Centre-Back,CB,4000000.0,Man City,England,1500000.0,in,summer,Laliga,2016,False,,florian lejeune
+Sevilla FC,Joaquín Correa,21.0,Argentina,Second Striker,SS,12000000.0,Sampdoria,Italy,18200000.0,in,summer,Laliga,2016,False,,joaquin correa
+Sevilla FC,Franco Vázquez,27.0,Argentina,Attacking Midfield,AM,1500000.0,US Palermo,Italy,16800000.0,in,summer,Laliga,2016,False,,franco vazquez
+Sevilla FC,Wissam Ben Yedder,25.0,France,Centre-Forward,CF,12000000.0,Toulouse,France,9500000.0,in,summer,Laliga,2016,False,,wissam ben yedder
+Sevilla FC,Ganso,26.0,Brazil,Attacking Midfield,AM,,São Paulo,Brazil,9500000.0,in,summer,Laliga,2016,False,,ganso
+Sevilla FC,Hiroshi Kiyotake,26.0,Japan,Attacking Midfield,AM,,Hannover 96,Germany,6500000.0,in,summer,Laliga,2016,False,,hiroshi kiyotake
+Sevilla FC,Gabriel Mercado,29.0,Argentina,Centre-Back,CB,,River Plate,Argentina,2500000.0,in,summer,Laliga,2016,False,,gabriel mercado
+Sevilla FC,Giorgi Aburjania,21.0,Georgia,Central Midfield,CM,1000000.0,Gimnàstic,Spain,1800000.0,in,summer,Laliga,2016,False,,giorgi aburjania
+Sevilla FC,Pablo Sarabia,24.0,Spain,Right Winger,RW,14000000.0,Getafe,Spain,1000000.0,in,summer,Laliga,2016,False,,pablo sarabia
+Sevilla FC,Walter Montoya,23.0,Argentina,Right Winger,RW,,Rosario Central,Argentina,5500000.0,in,winter,Laliga,2016,False,,walter montoya
+Sevilla FC,Clément Lenglet,21.0,France,Centre-Back,CB,10000000.0,AS Nancy,France,5400000.0,in,winter,Laliga,2016,False,,clement lenglet
+UD Las Palmas,Mauricio Lemos,20.0,Uruguay,Centre-Back,CB,1500000.0,Rubin Kazan,Russia,2000000.0,in,summer,Laliga,2016,False,,mauricio lemos
+Valencia CF,Ezequiel Garay,29.0,Argentina,Centre-Back,CB,,Zenit S-Pb,Russia,24000000.0,in,summer,Laliga,2016,False,,ezequiel garay
+Valencia CF,Nani,29.0,Portugal,Left Winger,LW,,Fenerbahce,Turkey,8500000.0,in,summer,Laliga,2016,False,,nani
+Valencia CF,Álvaro Medrán,22.0,Spain,Central Midfield,CM,4000000.0,Real Madrid,Spain,1500000.0,in,summer,Laliga,2016,False,,alvaro medran
+Villarreal CF,Roberto Soriano,25.0,Italy,Attacking Midfield,AM,1800000.0,Sampdoria,Italy,13750000.0,in,summer,Laliga,2016,False,,roberto soriano
+Villarreal CF,Nicola Sansone,24.0,Italy,Left Winger,LW,1500000.0,Sassuolo,Italy,13000000.0,in,summer,Laliga,2016,False,,nicola sansone
+Villarreal CF,Alfred N'Diaye,26.0,Senegal,Defensive Midfield,DM,,Real Betis,Spain,8000000.0,in,summer,Laliga,2016,False,,alfred n'diaye
+Villarreal CF,Cristian Espinoza,21.0,Argentina,Right Winger,RW,4500000.0,Huracán,Argentina,7200000.0,in,summer,Laliga,2016,False,,cristian espinoza
+Villarreal CF,Denis Cheryshev,25.0,Russia,Left Winger,LW,1000000.0,Real Madrid,Spain,7000000.0,in,summer,Laliga,2016,False,,denis cheryshev
+Villarreal CF,Álvaro González,26.0,Spain,Centre-Back,CB,2200000.0,Espanyol,Spain,4000000.0,in,summer,Laliga,2016,False,,alvaro gonzalez
+Villarreal CF,Alexandre Pato,26.0,Brazil,Centre-Forward,CF,,Corinthians,Brazil,3000000.0,in,summer,Laliga,2016,False,,alexandre pato
+FC Porto,Felipe,27.0,Brazil,Centre-Back,CB,2000000.0,Corinthians,Brazil,8199999.999999999,in,summer,Liga Portugal,2016,False,,felipe
+FC Porto,Alex Telles,23.0,Brazil,Left-Back,LB,7000000.0,Galatasaray,Turkey,7350000.0,in,summer,Liga Portugal,2016,False,,alex telles
+FC Porto,Laurent Depoitre,27.0,Belgium,Centre-Forward,CF,,KAA Gent,Belgium,7000000.0,in,summer,Liga Portugal,2016,False,,laurent depoitre
+FC Porto,Willy Boly,25.0,Cote d'Ivoire,Centre-Back,CB,2500000.0,SC Braga,Portugal,6500000.0,in,summer,Liga Portugal,2016,False,,willy boly
+FC Porto,Miguel Layún,28.0,Mexico,Right-Back,RB,,Watford,England,6000000.0,in,summer,Liga Portugal,2016,False,,miguel layun
+FC Porto,Tiquinho Soares,26.0,Brazil,Centre-Forward,CF,4000000.0,Vit. Guimarães,Portugal,5600000.0,in,winter,Liga Portugal,2016,False,,tiquinho soares
+SC Braga,Rui Fonte,26.0,Portugal,Centre-Forward,CF,,Benfica,Portugal,3400000.0,in,summer,Liga Portugal,2016,False,,rui fonte
+SC Braga,Tomás Martínez,21.0,Argentina,Attacking Midfield,AM,,River Plate,Argentina,1300000.0,in,summer,Liga Portugal,2016,False,,tomas martinez
+SC Braga,Rafael Assis,26.0,Brazil,Defensive Midfield,DM,,Chaves,Portugal,1420000.0,in,winter,Liga Portugal,2016,False,,rafael assis
+SL Benfica,Rafa,23.0,Portugal,Left Winger,LW,22000000.0,SC Braga,Portugal,16000000.0,in,summer,Liga Portugal,2016,False,,rafa
+SL Benfica,Konstantinos Mitroglou,28.0,Greece,Centre-Forward,CF,,Fulham,England,7000000.0,in,summer,Liga Portugal,2016,False,,konstantinos mitroglou
+SL Benfica,Oscar Benítez,23.0,Argentina,Left Winger,LW,,Lanús,Argentina,4400000.0,in,summer,Liga Portugal,2016,False,,oscar benitez
+SL Benfica,Guillermo Celis,23.0,Colombia,Defensive Midfield,DM,,Junior FC,Colombia,2300000.0,in,summer,Liga Portugal,2016,False,,guillermo celis
+SL Benfica,Marcelo Hermes,21.0,Brazil,Left-Back,LB,,Grêmio,Brazil,2910000.0,in,winter,Liga Portugal,2016,False,,marcelo hermes
+SL Benfica,Pedro Pereira,19.0,Portugal,Right-Back,RB,2000000.0,Sampdoria,Italy,2660000.0,in,winter,Liga Portugal,2016,False,,pedro pereira
+SL Benfica,Filipe Augusto,23.0,Brazil,Defensive Midfield,DM,,Rio Ave,Portugal,2000000.0,in,winter,Liga Portugal,2016,False,,filipe augusto
+Sporting CP,Bas Dost,27.0,Netherlands,Centre-Forward,CF,1300000.0,VfL Wolfsburg,Germany,11850000.0,in,summer,Liga Portugal,2016,False,,bas dost
+Sporting CP,Alan Ruiz,22.0,Argentina,Attacking Midfield,AM,,San Lorenzo,Argentina,4840000.0,in,summer,Liga Portugal,2016,False,,alan ruiz
+Sporting CP,Bruno Paulista,20.0,Brazil,Defensive Midfield,DM,,EC Bahia,Brazil,3500000.0,in,summer,Liga Portugal,2016,False,,bruno paulista
+Sporting CP,Elias,31.0,Brazil,Central Midfield,CM,,Corinthians,Brazil,2500000.0,in,summer,Liga Portugal,2016,False,,elias
+Sporting CP,Luc Castaignos,23.0,Netherlands,Centre-Forward,CF,,E. Frankfurt,Germany,2500000.0,in,summer,Liga Portugal,2016,False,,luc castaignos
+Sporting CP,Lukas Spalvis,21.0,Lithuania,Centre-Forward,CF,,Aalborg BK,Denmark,1610000.0,in,summer,Liga Portugal,2016,False,,lukas spalvis
+Sporting CP,André Felipe,25.0,Brazil,Centre-Forward,CF,,Corinthians,Brazil,1000000.0,in,summer,Liga Portugal,2016,False,,andre felipe
+Sporting CP,Douglas,28.0,Netherlands,Centre-Back,CB,,Trabzonspor,Turkey,1000000.0,in,summer,Liga Portugal,2016,False,,douglas
+Sporting CP,Radosav Petrovic,27.0,Serbia,Defensive Midfield,DM,,Dynamo Kyiv,Ukraine,1000000.0,in,summer,Liga Portugal,2016,False,,radosav petrovic
+Sporting CP,Sebastián Coates,26.0,Uruguay,Centre-Back,CB,5000000.0,Sunderland,England,4720000.0,in,winter,Liga Portugal,2016,False,,sebastian coates
+AS Monaco,Djibril Sidibé,23.0,France,Right-Back,RB,2000000.0,LOSC Lille,France,15000000.0,in,summer,Ligue 1,2016,False,,djibril sidibe
+AS Monaco,Benjamin Mendy,21.0,France,Left-Back,LB,3000000.0,Marseille,France,13000000.0,in,summer,Ligue 1,2016,False,,benjamin mendy
+AS Monaco,Kamil Glik,28.0,Poland,Centre-Back,CB,,Torino,Italy,11000000.0,in,summer,Ligue 1,2016,False,,kamil glik
+AS Monaco,Youssef Aït Bennasser,19.0,Morocco,Defensive Midfield,DM,,AS Nancy,France,3000000.0,in,summer,Ligue 1,2016,False,,youssef ait bennasser
+AS Monaco,Jorge,20.0,Brazil,Left-Back,LB,1100000.0,Flamengo,Brazil,8500000.0,in,winter,Ligue 1,2016,False,,jorge
+AS Nancy-Lorraine,Vincent Marchetti,19.0,France,Central Midfield,CM,2000000.0,AC Ajaccio,France,1500000.0,in,summer,Ligue 1,2016,False,,vincent marchetti
+AS Saint-Étienne,Bryan Dabo,24.0,Burkina Faso,Central Midfield,CM,,Montpellier,France,4000000.0,in,summer,Ligue 1,2016,False,,bryan dabo
+AS Saint-Étienne,Léo Lacroix,24.0,Switzerland,Centre-Back,CB,,FC Sion,Switzerland,3000000.0,in,summer,Ligue 1,2016,False,,leo lacroix
+Angers SCO,Famara Diédhiou,23.0,Senegal,Centre-Forward,CF,,Clermont Foot,France,1600000.0,in,summer,Ligue 1,2016,False,,famara diedhiou
+Angers SCO,Karl Toko Ekambi,23.0,Cameroon,Centre-Forward,CF,5000000.0,FC Sochaux,France,1000000.0,in,summer,Ligue 1,2016,False,,karl toko ekambi
+Angers SCO,Mathieu Michel,24.0,France,Goalkeeper,GK,,Nîmes Olympique,France,1000000.0,in,summer,Ligue 1,2016,False,,mathieu michel
+Dijon FCO,Ádám Lang,23.0,Hungary,Centre-Back,CB,,Videoton FC,Hungary,1000000.0,in,summer,Ligue 1,2016,False,,adam lang
+Dijon FCO,Chang-hoon Kwon,22.0,"Korea, South",Right Winger,RW,,Suwon Bluewings,"Korea, South",1500000.0,in,winter,Ligue 1,2016,False,,chang-hoon kwon
+FC Girondins Bordeaux,Jérémy Ménez,29.0,France,Centre-Forward,CF,,AC Milan,Italy,2850000.0,in,summer,Ligue 1,2016,False,,jeremy menez
+FC Girondins Bordeaux,Paul Bernardoni,19.0,France,Goalkeeper,GK,2300000.0,Troyes,France,2500000.0,in,summer,Ligue 1,2016,False,,paul bernardoni
+FC Girondins Bordeaux,François Kamano,20.0,Guinea,Left Winger,LW,4000000.0,SC Bastia,France,2500000.0,in,summer,Ligue 1,2016,False,,francois kamano
+FC Girondins Bordeaux,Igor Lewczuk,31.0,Poland,Centre-Back,CB,,Legia Warszawa,Poland,1000000.0,in,summer,Ligue 1,2016,False,,igor lewczuk
+FC Girondins Bordeaux,Younousse Sankharé,27.0,Senegal,Central Midfield,CM,,LOSC Lille,France,3000000.0,in,winter,Ligue 1,2016,False,,younousse sankhare
+FC Lorient,Cafú,23.0,Portugal,Central Midfield,CM,,Vit. Guimarães,Portugal,2000000.0,in,summer,Ligue 1,2016,False,,cafu
+FC Lorient,Lindsay Rose,24.0,Mauritius,Centre-Back,CB,,Olympique Lyon,France,1500000.0,in,summer,Ligue 1,2016,False,,lindsay rose
+FC Lorient,Steven Moreira,22.0,Cape Verde,Right-Back,RB,1500000.0,Stade Rennais,France,1200000.0,in,summer,Ligue 1,2016,False,,steven moreira
+FC Lorient,Mathieu Peybernes,26.0,France,Centre-Back,CB,,SC Bastia,France,2000000.0,in,winter,Ligue 1,2016,False,,mathieu peybernes
+FC Lorient,Alhassan Wakaso,25.0,Ghana,Defensive Midfield,DM,,Rio Ave,Portugal,1000000.0,in,winter,Ligue 1,2016,False,,alhassan wakaso
+FC Nantes,Mariusz Stepinski,21.0,Poland,Centre-Forward,CF,1500000.0,Ruch Chorzow,Poland,2000000.0,in,summer,Ligue 1,2016,False,,mariusz stepinski
+FC Nantes,Diego Carlos,23.0,Brazil,Centre-Back,CB,18000000.0,Estoril Praia,Portugal,1300000.0,in,summer,Ligue 1,2016,False,,diego carlos
+FC Nantes,Lucas Lima,24.0,Brazil,Left-Back,LB,1500000.0,Arouca,Portugal,1100000.0,in,summer,Ligue 1,2016,False,,lucas lima
+FC Toulouse,Christopher Jullien,23.0,France,Centre-Back,CB,3500000.0,SC Freiburg,Germany,2800000.0,in,summer,Ligue 1,2016,False,,christopher jullien
+FC Toulouse,Jimmy Durmaz,27.0,Sweden,Central Midfield,CM,,Olympiacos,Greece,2000000.0,in,summer,Ligue 1,2016,False,,jimmy durmaz
+FC Toulouse,Ola Toivonen,30.0,Sweden,Centre-Forward,CF,,Stade Rennais,France,1500000.0,in,summer,Ligue 1,2016,False,,ola toivonen
+FC Toulouse,Andy Delort,25.0,Algeria,Centre-Forward,CF,6000000.0,Tigres UANL,Mexico,6000000.0,in,winter,Ligue 1,2016,False,,andy delort
+LOSC Lille,Éder,28.0,Portugal,Centre-Forward,CF,,Swansea,England,4500000.0,in,summer,Ligue 1,2016,False,,eder
+LOSC Lille,Anwar El Ghazi,21.0,Netherlands,Right Winger,RW,3000000.0,Ajax,Netherlands,7000000.0,in,winter,Ligue 1,2016,False,,anwar el ghazi
+LOSC Lille,Farès Bahlouli,21.0,France,Attacking Midfield,AM,,Monaco,France,3500000.0,in,winter,Ligue 1,2016,False,,fares bahlouli
+LOSC Lille,Gabriel Magalhães,19.0,Brazil,Centre-Back,CB,55000000.0,Avaí FC,Brazil,3000000.0,in,winter,Ligue 1,2016,False,,gabriel magalhaes
+LOSC Lille,Júnior Alonso,23.0,Paraguay,Centre-Back,CB,7000000.0,Cerro Porteño,Paraguay,2500000.0,in,winter,Ligue 1,2016,False,,junior alonso
+Montpellier HSC,Keagan Dolly,24.0,South Africa,Left Winger,LW,1400000.0,Sundowns,South Africa,1700000.0,in,winter,Ligue 1,2016,False,,keagan dolly
+Montpellier HSC,Isaac Mbenza,20.0,Belgium,Right Winger,RW,2200000.0,Standard Liège,Belgium,1700000.0,in,winter,Ligue 1,2016,False,,isaac mbenza
+Montpellier HSC,Nordi Mukiele,19.0,France,Right-Back,RB,14000000.0,Stade Lavallois,France,1500000.0,in,winter,Ligue 1,2016,False,,nordi mukiele
+Montpellier HSC,Lukas Pokorny,23.0,Czech Republic,Centre-Back,CB,,Slovan Liberec,Czech Republic,1500000.0,in,winter,Ligue 1,2016,False,,lukas pokorny
+OGC Nice,Wylan Cyprien,21.0,France,Central Midfield,CM,1100000.0,Lens,France,5000000.0,in,summer,Ligue 1,2016,False,,wylan cyprien
+OGC Nice,Dante,32.0,Brazil,Centre-Back,CB,,VfL Wolfsburg,Germany,2500000.0,in,summer,Ligue 1,2016,False,,dante
+OGC Nice,Arnaud Lusamba,19.0,DR Congo,Central Midfield,CM,1800000.0,AS Nancy,France,2500000.0,in,summer,Ligue 1,2016,False,,arnaud lusamba
+OGC Nice,Dalbert,22.0,Brazil,Left-Back,LB,1000000.0,Vit. Guimarães,Portugal,2000000.0,in,summer,Ligue 1,2016,False,,dalbert
+OGC Nice,Arnaud Souquet,24.0,France,Right-Back,RB,1500000.0,Dijon,France,1250000.0,in,summer,Ligue 1,2016,False,,arnaud souquet
+OGC Nice,Bassem Srarfi,19.0,Tunisia,Right Winger,RW,,Club Africain,Tunisia,1500000.0,in,winter,Ligue 1,2016,False,,bassem srarfi
+Olympique Lyon,Emanuel Mammana,20.0,Argentina,Centre-Back,CB,4000000.0,River Plate,Argentina,8500000.0,in,summer,Ligue 1,2016,False,,emanuel mammana
+Olympique Lyon,Jean-Philippe Mateta,19.0,France,Centre-Forward,CF,7000000.0,LB Châteauroux,France,4100000.0,in,summer,Ligue 1,2016,False,,jean-philippe mateta
+Olympique Lyon,Memphis Depay,22.0,Netherlands,Centre-Forward,CF,14000000.0,Man Utd,England,16000000.0,in,winter,Ligue 1,2016,False,,memphis depay
+Olympique Marseille,Rémy Cabella,26.0,France,Attacking Midfield,AM,5000000.0,Newcastle,England,8000000.0,in,summer,Ligue 1,2016,False,,remy cabella
+Olympique Marseille,Tomas Hubocan,30.0,Slovakia,Centre-Back,CB,,Dinamo Moscow,Russia,1200000.0,in,summer,Ligue 1,2016,False,,tomas hubocan
+Olympique Marseille,Saîf-Eddine Khaoui,21.0,Tunisia,Attacking Midfield,AM,2000000.0,Tours FC,France,1000000.0,in,summer,Ligue 1,2016,False,,saif-eddine khaoui
+Olympique Marseille,Dimitri Payet,29.0,France,Attacking Midfield,AM,1800000.0,West Ham,England,29300000.0,in,winter,Ligue 1,2016,False,,dimitri payet
+Olympique Marseille,Morgan Sanson,22.0,France,Central Midfield,CM,7000000.0,Montpellier,France,12000000.0,in,winter,Ligue 1,2016,False,,morgan sanson
+Olympique Marseille,Grégory Sertic,27.0,France,Defensive Midfield,DM,,G. Bordeaux,France,1500000.0,in,winter,Ligue 1,2016,False,,gregory sertic
+Paris Saint-Germain,Grzegorz Krychowiak,26.0,Poland,Defensive Midfield,DM,5000000.0,Sevilla FC,Spain,27500000.0,in,summer,Ligue 1,2016,False,,grzegorz krychowiak
+Paris Saint-Germain,Jesé,23.0,Spain,Left Winger,LW,1000000.0,Real Madrid,Spain,25000000.0,in,summer,Ligue 1,2016,False,,jese
+Paris Saint-Germain,Giovani Lo Celso,20.0,Argentina,Attacking Midfield,AM,14000000.0,Rosario Central,Argentina,10000000.0,in,summer,Ligue 1,2016,False,,giovani lo celso
+Paris Saint-Germain,Thomas Meunier,24.0,Belgium,Right-Back,RB,3000000.0,Club Brugge,Belgium,6000000.0,in,summer,Ligue 1,2016,False,,thomas meunier
+Paris Saint-Germain,Julian Draxler,23.0,Germany,Left Winger,LW,5000000.0,VfL Wolfsburg,Germany,36000000.0,in,winter,Ligue 1,2016,False,,julian draxler
+Paris Saint-Germain,Gonçalo Guedes,20.0,Portugal,Left Winger,LW,23000000.0,Benfica,Portugal,30000000.0,in,winter,Ligue 1,2016,False,,goncalo guedes
+SM Caen,Ivan Santini,27.0,Croatia,Centre-Forward,CF,,Standard Liège,Belgium,2500000.0,in,summer,Ligue 1,2016,False,,ivan santini
+SM Caen,Ronny Rodelin,26.0,France,Right Winger,RW,,LOSC Lille,France,1000000.0,in,summer,Ligue 1,2016,False,,ronny rodelin
+Stade Rennais FC,Ramy Bensebaini,21.0,Algeria,Left-Back,LB,20000000.0,Paradou AC,Algeria,2000000.0,in,summer,Ligue 1,2016,False,,ramy bensebaini
+Legia Warszawa,Dominik Nagy,21.0,Hungary,Left Winger,LW,,Ferencváros,Hungary,1000000.0,in,winter,Pko Bp Ekstraklasa,2016,False,,dominik nagy
+AFC Bournemouth,Jordon Ibe,20.0,England,Right Winger,RW,,Liverpool,England,18000000.0,in,summer,Premier League,2016,False,,jordon ibe
+AFC Bournemouth,Lewis Cook,19.0,England,Central Midfield,CM,10000000.0,Leeds,England,7000000.0,in,summer,Premier League,2016,False,,lewis cook
+AFC Bournemouth,Lys Mousset,20.0,France,Centre-Forward,CF,,Le Havre AC,France,6500000.0,in,summer,Premier League,2016,False,,lys mousset
+AFC Bournemouth,Brad Smith,22.0,Australia,Left-Back,LB,,Liverpool,England,3600000.0,in,summer,Premier League,2016,False,,brad smith
+AFC Bournemouth,Marc Wilson,28.0,Ireland,Centre-Back,CB,,Stoke City,England,2300000.0,in,summer,Premier League,2016,False,,marc wilson
+Arsenal FC,Granit Xhaka,23.0,Switzerland,Defensive Midfield,DM,20000000.0,Bor. M'gladbach,Germany,45000000.0,in,summer,Premier League,2016,False,,granit xhaka
+Arsenal FC,Shkodran Mustafi,24.0,Germany,Centre-Back,CB,,Valencia,Spain,41000000.0,in,summer,Premier League,2016,False,,shkodran mustafi
+Arsenal FC,Lucas Pérez,27.0,Spain,Centre-Forward,CF,,Dep. La Coruña,Spain,20000000.0,in,summer,Premier League,2016,False,,lucas perez
+Arsenal FC,Takuma Asano,21.0,Japan,Centre-Forward,CF,4000000.0,Sanf. Hiroshima,Japan,4000000.0,in,summer,Premier League,2016,False,,takuma asano
+Arsenal FC,Rob Holding,20.0,England,Centre-Back,CB,8000000.0,Bolton,England,3000000.0,in,summer,Premier League,2016,False,,rob holding
+Burnley FC,Jeff Hendrick,24.0,Ireland,Central Midfield,CM,1200000.0,Derby,England,11800000.0,in,summer,Premier League,2016,False,,jeff hendrick
+Burnley FC,Steven Defour,28.0,Belgium,Defensive Midfield,DM,,RSC Anderlecht,Belgium,8600000.0,in,summer,Premier League,2016,False,,steven defour
+Burnley FC,Jóhann Berg Gudmundsson,25.0,Iceland,Right Winger,RW,1200000.0,Charlton,England,3000000.0,in,summer,Premier League,2016,False,,johann berg gudmundsson
+Burnley FC,Nick Pope,24.0,England,Goalkeeper,GK,20000000.0,Charlton,England,1300000.0,in,summer,Premier League,2016,False,,nick pope
+Burnley FC,Robbie Brady,25.0,Ireland,Left Midfield,LM,,Norwich,England,15100000.0,in,winter,Premier League,2016,False,,robbie brady
+Burnley FC,Ashley Westwood,26.0,England,Defensive Midfield,DM,,Aston Villa,England,5800000.0,in,winter,Premier League,2016,False,,ashley westwood
+Chelsea FC,Michy Batshuayi,22.0,Belgium,Centre-Forward,CF,9000000.0,Marseille,France,39000000.0,in,summer,Premier League,2016,False,,michy batshuayi
+Chelsea FC,N'Golo Kanté,25.0,France,Defensive Midfield,DM,12000000.0,Leicester,England,35800000.0,in,summer,Premier League,2016,False,,n'golo kante
+Chelsea FC,David Luiz,29.0,Brazil,Centre-Back,CB,,Paris SG,France,35000000.0,in,summer,Premier League,2016,False,,david luiz
+Chelsea FC,Marcos Alonso,25.0,Spain,Left-Back,LB,3000000.0,Fiorentina,Italy,23000000.0,in,summer,Premier League,2016,False,,marcos alonso
+Crystal Palace,Christian Benteke,25.0,Belgium,Centre-Forward,CF,2500000.0,Liverpool,England,31200000.0,in,summer,Premier League,2016,False,,christian benteke
+Crystal Palace,Andros Townsend,24.0,England,Right Winger,RW,1500000.0,Newcastle,England,15600000.0,in,summer,Premier League,2016,False,,andros townsend
+Crystal Palace,James Tomkins,27.0,England,Centre-Back,CB,,West Ham,England,11700000.0,in,summer,Premier League,2016,False,,james tomkins
+Crystal Palace,Luka Milivojevic,25.0,Serbia,Defensive Midfield,DM,2000000.0,Olympiacos,Greece,15100000.0,in,winter,Premier League,2016,False,,luka milivojevic
+Crystal Palace,Jeffrey Schlupp,24.0,Ghana,Left Midfield,LM,7000000.0,Leicester,England,13800000.0,in,winter,Premier League,2016,False,,jeffrey schlupp
+Crystal Palace,Patrick van Aanholt,26.0,Netherlands,Left-Back,LB,3000000.0,Sunderland,England,10500000.0,in,winter,Premier League,2016,False,,patrick van aanholt
+Everton FC,Yannick Bolasie,27.0,DR Congo,Left Winger,LW,,Crystal Palace,England,28900000.0,in,summer,Premier League,2016,False,,yannick bolasie
+Everton FC,Ashley Williams,31.0,Wales,Centre-Back,CB,,Swansea,England,14000000.0,in,summer,Premier League,2016,False,,ashley williams
+Everton FC,Idrissa Gueye,26.0,Senegal,Central Midfield,CM,5000000.0,Aston Villa,England,8500000.0,in,summer,Premier League,2016,False,,idrissa gueye
+Everton FC,Dominic Calvert-Lewin,19.0,England,Centre-Forward,CF,25000000.0,Sheff Utd,England,1800000.0,in,summer,Premier League,2016,False,,dominic calvert-lewin
+Everton FC,Maarten Stekelenburg,33.0,Netherlands,Goalkeeper,GK,,Fulham,England,1000000.0,in,summer,Premier League,2016,False,,maarten stekelenburg
+Everton FC,Morgan Schneiderlin,27.0,France,Defensive Midfield,DM,1500000.0,Man Utd,England,23000000.0,in,winter,Premier League,2016,False,,morgan schneiderlin
+Everton FC,Ademola Lookman,19.0,Nigeria,Second Striker,SS,30000000.0,Charlton,England,8800000.0,in,winter,Premier League,2016,False,,ademola lookman
+Hull City,Ryan Mason,25.0,England,Central Midfield,CM,,Tottenham,England,15400000.0,in,summer,Premier League,2016,False,,ryan mason
+Hull City,David Marshall,31.0,Scotland,Goalkeeper,GK,,Cardiff,England,4100000.0,in,summer,Premier League,2016,False,,david marshall
+Hull City,Will Keane,23.0,Ireland,Centre-Forward,CF,1000000.0,Man Utd,England,1200000.0,in,summer,Premier League,2016,False,,will keane
+Hull City,Kamil Grosicki,28.0,Poland,Left Winger,LW,,Stade Rennais,France,9000000.0,in,winter,Premier League,2016,False,,kamil grosicki
+Hull City,Markus Henriksen,24.0,Norway,Centre-Back,CB,,AZ Alkmaar,Netherlands,5300000.0,in,winter,Premier League,2016,False,,markus henriksen
+Hull City,Evandro,30.0,Brazil,Attacking Midfield,AM,,FC Porto,Portugal,2500000.0,in,winter,Premier League,2016,False,,evandro
+Leicester City,Islam Slimani,28.0,Algeria,Centre-Forward,CF,1500000.0,Sporting CP,Portugal,31000000.0,in,summer,Premier League,2016,False,,islam slimani
+Leicester City,Ahmed Musa,23.0,Nigeria,Left Winger,LW,1300000.0,CSKA Moscow,Russia,19500000.0,in,summer,Premier League,2016,False,,ahmed musa
+Leicester City,Nampalys Mendy,24.0,Senegal,Defensive Midfield,DM,2500000.0,OGC Nice,France,15500000.0,in,summer,Premier League,2016,False,,nampalys mendy
+Leicester City,Bartosz Kapustka,19.0,Poland,Defensive Midfield,DM,1500000.0,Cracovia,Poland,5000000.0,in,summer,Premier League,2016,False,,bartosz kapustka
+Leicester City,Ron-Robert Zieler,27.0,Germany,Goalkeeper,GK,,Hannover 96,Germany,3500000.0,in,summer,Premier League,2016,False,,ron-robert zieler
+Leicester City,Wilfred Ndidi,20.0,Nigeria,Defensive Midfield,DM,18000000.0,KRC Genk,Belgium,17600000.0,in,winter,Premier League,2016,False,,wilfred ndidi
+Liverpool FC,Sadio Mané,24.0,Senegal,Left Winger,LW,25000000.0,Southampton,England,41200000.0,in,summer,Premier League,2016,False,,sadio mane
+Liverpool FC,Georginio Wijnaldum,25.0,Netherlands,Central Midfield,CM,6000000.0,Newcastle,England,27500000.0,in,summer,Premier League,2016,False,,georginio wijnaldum
+Liverpool FC,Loris Karius,23.0,Germany,Goalkeeper,GK,1200000.0,1.FSV Mainz 05,Germany,6200000.0,in,summer,Premier League,2016,False,,loris karius
+Liverpool FC,Ragnar Klavan,30.0,Estonia,Centre-Back,CB,,FC Augsburg,Germany,5000000.0,in,summer,Premier League,2016,False,,ragnar klavan
+Manchester City,John Stones,22.0,England,Centre-Back,CB,40000000.0,Everton,England,55600000.0,in,summer,Premier League,2016,False,,john stones
+Manchester City,Leroy Sané,20.0,Germany,Right Winger,RW,75000000.0,FC Schalke 04,Germany,52000000.0,in,summer,Premier League,2016,False,,leroy sane
+Manchester City,İlkay Gündoğan,25.0,Germany,Central Midfield,CM,20000000.0,Bor. Dortmund,Germany,27000000.0,in,summer,Premier League,2016,False,,ilkay gundogan
+Manchester City,Nolito,29.0,Spain,Left Winger,LW,,Celta de Vigo,Spain,18000000.0,in,summer,Premier League,2016,False,,nolito
+Manchester City,Claudio Bravo,33.0,Chile,Goalkeeper,GK,1000000.0,Barcelona,Spain,18000000.0,in,summer,Premier League,2016,False,,claudio bravo
+Manchester City,Marlos Moreno,19.0,Colombia,Left Winger,LW,,Atl. Nacional,Colombia,5500000.0,in,summer,Premier League,2016,False,,marlos moreno
+Manchester City,Gerónimo Rulli,24.0,Argentina,Goalkeeper,GK,10000000.0,Maldonado,Uruguay,4700000.0,in,summer,Premier League,2016,False,,geronimo rulli
+Manchester City,Oleksandr Zinchenko,19.0,Ukraine,Left-Back,LB,42000000.0,Ufa,Russia,2250000.0,in,summer,Premier League,2016,False,,oleksandr zinchenko
+Manchester City,Gabriel Jesus,19.0,Brazil,Centre-Forward,CF,75000000.0,Palmeiras,Brazil,32000000.0,in,winter,Premier League,2016,False,,gabriel jesus
+Manchester City,Yangel Herrera,19.0,Venezuela,Central Midfield,CM,10000000.0,Atl. Venezuela,Venezuela,1000000.0,in,winter,Premier League,2016,False,,yangel herrera
+Manchester United,Paul Pogba,23.0,France,Central Midfield,CM,,Juventus,Italy,105000000.0,in,summer,Premier League,2016,False,,paul pogba
+Manchester United,Henrikh Mkhitaryan,27.0,Armenia,Central Midfield,CM,6000000.0,Bor. Dortmund,Germany,42000000.0,in,summer,Premier League,2016,False,,henrikh mkhitaryan
+Manchester United,Eric Bailly,22.0,Cote d'Ivoire,Centre-Back,CB,4000000.0,Villarreal,Spain,38000000.0,in,summer,Premier League,2016,False,,eric bailly
+Middlesbrough FC,Marten de Roon,25.0,Netherlands,Defensive Midfield,DM,10000000.0,Atalanta BC,Italy,10500000.0,in,summer,Premier League,2016,False,,marten de roon
+Middlesbrough FC,Adama Traoré,20.0,Spain,Right Winger,RW,10000000.0,Aston Villa,England,8250000.0,in,summer,Premier League,2016,False,,adama traore
+Middlesbrough FC,Viktor Fischer,22.0,Denmark,Left Winger,LW,,Ajax,Netherlands,5000000.0,in,summer,Premier League,2016,False,,viktor fischer
+Middlesbrough FC,Antonio Barragán,29.0,Spain,Right-Back,RB,,Valencia,Spain,2700000.0,in,summer,Premier League,2016,False,,antonio barragan
+Middlesbrough FC,Fábio,26.0,Brazil,Right-Back,RB,1000000.0,Cardiff,England,2300000.0,in,summer,Premier League,2016,False,,fabio
+Middlesbrough FC,Rudy Gestede,28.0,Benin,Centre-Forward,CF,,Aston Villa,England,7100000.0,in,winter,Premier League,2016,False,,rudy gestede
+Middlesbrough FC,Patrick Bamford,23.0,England,Centre-Forward,CF,7000000.0,Chelsea,England,6900000.0,in,winter,Premier League,2016,False,,patrick bamford
+Middlesbrough FC,Adlène Guédioura,31.0,Algeria,Defensive Midfield,DM,,Watford,England,5200000.0,in,winter,Premier League,2016,False,,adlene guedioura
+Southampton FC,Sofiane Boufal,22.0,Morocco,Left Winger,LW,7000000.0,LOSC Lille,France,18700000.0,in,summer,Premier League,2016,False,,sofiane boufal
+Southampton FC,Pierre-Emile Højbjerg,20.0,Denmark,Defensive Midfield,DM,32000000.0,Bayern Munich,Germany,15000000.0,in,summer,Premier League,2016,False,,pierre-emile hojbjerg
+Southampton FC,Nathan Redmond,22.0,England,Right Winger,RW,10000000.0,Norwich,England,13500000.0,in,summer,Premier League,2016,False,,nathan redmond
+Southampton FC,Alex McCarthy,26.0,England,Goalkeeper,GK,,Crystal Palace,England,4700000.0,in,summer,Premier League,2016,False,,alex mccarthy
+Southampton FC,Manolo Gabbiadini,25.0,Italy,Centre-Forward,CF,2000000.0,SSC Napoli,Italy,17000000.0,in,winter,Premier League,2016,False,,manolo gabbiadini
+Stoke City,Joe Allen,26.0,Wales,Central Midfield,CM,,Liverpool,England,15500000.0,in,summer,Premier League,2016,False,,joe allen
+Stoke City,Ramadan Sobhi,19.0,Egypt,Left Winger,LW,3000000.0,El Ahly,Egypt,5000000.0,in,summer,Premier League,2016,False,,ramadan sobhi
+Stoke City,Harry Souttar,17.0,Australia,Centre-Back,CB,12000000.0,Dundee United,Scotland,3620000.0,in,summer,Premier League,2016,False,,harry souttar
+Stoke City,Saido Berahino,23.0,Burundi,Centre-Forward,CF,,West Brom,England,13900000.0,in,winter,Premier League,2016,False,,saido berahino
+Stoke City,Lee Grant,33.0,England,Goalkeeper,GK,,Derby,England,1500000.0,in,winter,Premier League,2016,False,,lee grant
+Sunderland AFC,Didier Ndong,22.0,Gabon,Central Midfield,CM,1200000.0,FC Lorient,France,20000000.0,in,summer,Premier League,2016,False,,didier ndong
+Sunderland AFC,Papy Djilobodji,27.0,Senegal,Centre-Back,CB,,Chelsea,England,9500000.0,in,summer,Premier League,2016,False,,papy djilobodji
+Sunderland AFC,Paddy McNair,21.0,Northern Ireland,Centre-Back,CB,4500000.0,Man Utd,England,5250000.0,in,summer,Premier League,2016,False,,paddy mcnair
+Sunderland AFC,Mika,25.0,Portugal,Goalkeeper,GK,,Boavista,Portugal,1500000.0,in,summer,Premier League,2016,False,,mika
+Sunderland AFC,Donald Love,21.0,Scotland,Right-Back,RB,,Man Utd U23,England,1150000.0,in,summer,Premier League,2016,False,,donald love
+Sunderland AFC,Darron Gibson,29.0,Ireland,Central Midfield,CM,,Everton,England,2500000.0,in,winter,Premier League,2016,False,,darron gibson
+Sunderland AFC,Bryan Oviedo,26.0,Costa Rica,Left-Back,LB,,Everton,England,2000000.0,in,winter,Premier League,2016,False,,bryan oviedo
+Swansea City,Borja Bastón,23.0,Spain,Centre-Forward,CF,3500000.0,Atlético Madrid,Spain,18000000.0,in,summer,Premier League,2016,False,,borja baston
+Swansea City,Fernando Llorente,31.0,Spain,Centre-Forward,CF,,Sevilla FC,Spain,5900000.0,in,summer,Premier League,2016,False,,fernando llorente
+Swansea City,Alfie Mawson,22.0,England,Centre-Back,CB,,Barnsley FC,England,5900000.0,in,summer,Premier League,2016,False,,alfie mawson
+Swansea City,Leroy Fer,26.0,Netherlands,Defensive Midfield,DM,,QPR,England,5600000.0,in,summer,Premier League,2016,False,,leroy fer
+Swansea City,Mike van der Hoorn,23.0,Netherlands,Centre-Back,CB,1000000.0,Ajax,Netherlands,2500000.0,in,summer,Premier League,2016,False,,mike van der hoorn
+Swansea City,Jordan Ayew,25.0,Ghana,Centre-Forward,CF,5000000.0,Aston Villa,England,5800000.0,in,winter,Premier League,2016,False,,jordan ayew
+Swansea City,Tom Carroll,24.0,England,Central Midfield,CM,1000000.0,Tottenham,England,5200000.0,in,winter,Premier League,2016,False,,tom carroll
+Swansea City,Luciano Narsingh,26.0,Netherlands,Attacking Midfield,AM,,PSV Eindhoven,Netherlands,4600000.0,in,winter,Premier League,2016,False,,luciano narsingh
+Swansea City,Martin Olsson,28.0,Sweden,Left-Back,LB,,Norwich,England,4600000.0,in,winter,Premier League,2016,False,,martin olsson
+Tottenham Hotspur,Moussa Sissoko,27.0,France,Central Midfield,CM,1500000.0,Newcastle,England,35000000.0,in,summer,Premier League,2016,False,,moussa sissoko
+Tottenham Hotspur,Vincent Janssen,22.0,Netherlands,Centre-Forward,CF,9000000.0,AZ Alkmaar,Netherlands,22000000.0,in,summer,Premier League,2016,False,,vincent janssen
+Tottenham Hotspur,Victor Wanyama,25.0,Kenya,Defensive Midfield,DM,2500000.0,Southampton,England,14400000.0,in,summer,Premier League,2016,False,,victor wanyama
+Tottenham Hotspur,Georges-Kevin N'Koudou,21.0,Cameroon,Left Winger,LW,3300000.0,Marseille,France,11000000.0,in,summer,Premier League,2016,False,,georges-kevin n'koudou
+Watford FC,Isaac Success,20.0,Nigeria,Centre-Forward,CF,4000000.0,Granada CF,Spain,15000000.0,in,summer,Premier League,2016,False,,isaac success
+Watford FC,Roberto Pereyra,25.0,Argentina,Central Midfield,CM,3500000.0,Juventus,Italy,13500000.0,in,summer,Premier League,2016,False,,roberto pereyra
+Watford FC,Sven Kums,28.0,Belgium,Central Midfield,CM,,KAA Gent,Belgium,9000000.0,in,summer,Premier League,2016,False,,sven kums
+Watford FC,Daryl Janmaat,27.0,Netherlands,Right-Back,RB,,Newcastle,England,8900000.0,in,summer,Premier League,2016,False,,daryl janmaat
+Watford FC,Christian Kabasele,25.0,Belgium,Centre-Back,CB,1000000.0,KRC Genk,Belgium,6950000.0,in,summer,Premier League,2016,False,,christian kabasele
+Watford FC,Stefano Okaka,27.0,Italy,Centre-Forward,CF,1000000.0,RSC Anderlecht,Belgium,6000000.0,in,summer,Premier League,2016,False,,stefano okaka
+Watford FC,Younès Kaboul,30.0,France,Centre-Back,CB,,Sunderland,England,4000000.0,in,summer,Premier League,2016,False,,younes kaboul
+Watford FC,Brice Dja Djedje,25.0,Cote d'Ivoire,Defensive Midfield,DM,,Marseille,France,3600000.0,in,summer,Premier League,2016,False,,brice dja djedje
+Watford FC,Mauro Zárate,29.0,Argentina,Centre-Forward,CF,,Fiorentina,Italy,2750000.0,in,winter,Premier League,2016,False,,mauro zarate
+West Bromwich Albion,Nacer Chadli,27.0,Belgium,Left Winger,LW,1000000.0,Tottenham,England,15200000.0,in,summer,Premier League,2016,False,,nacer chadli
+West Bromwich Albion,Matt Phillips,25.0,Scotland,Right Winger,RW,,QPR,England,6500000.0,in,summer,Premier League,2016,False,,matt phillips
+West Bromwich Albion,Allan Nyom,28.0,Cameroon,Right-Back,RB,1000000.0,Watford,England,4700000.0,in,summer,Premier League,2016,False,,allan nyom
+West Bromwich Albion,Jake Livermore,27.0,England,Defensive Midfield,DM,,Hull City,England,11500000.0,in,winter,Premier League,2016,False,,jake livermore
+West Ham United,André Ayew,26.0,Ghana,Left Winger,LW,1200000.0,Swansea,England,24100000.0,in,summer,Premier League,2016,False,,andre ayew
+West Ham United,Manuel Lanzini,23.0,Argentina,Attacking Midfield,AM,5000000.0,Al-Jazira,United Arab Emirates,12000000.0,in,summer,Premier League,2016,False,,manuel lanzini
+West Ham United,Arthur Masuaku,22.0,DR Congo,Left-Back,LB,6000000.0,Olympiacos,Greece,7100000.0,in,summer,Premier League,2016,False,,arthur masuaku
+West Ham United,Edimilson Fernandes,20.0,Switzerland,Centre-Back,CB,5500000.0,FC Sion,Switzerland,6400000.0,in,summer,Premier League,2016,False,,edimilson fernandes
+West Ham United,Robert Snodgrass,29.0,Scotland,Right Winger,RW,,Hull City,England,12000000.0,in,winter,Premier League,2016,False,,robert snodgrass
+West Ham United,José Fonte,33.0,Portugal,Centre-Back,CB,,Southampton,England,9200000.0,in,winter,Premier League,2016,False,,jose fonte
+Dynamo Kyiv,Tamás Kádár,26.0,Hungary,Centre-Back,CB,,Lech Poznan,Poland,2500000.0,in,winter,Premier Liga Ukr,2016,False,,tamas kadar
+FK Krasnodar,Naldo,28.0,Brazil,Centre-Back,CB,,Sporting CP,Portugal,4500000.0,in,summer,Premier Liga,2016,False,,naldo
+FK Krasnodar,Stanislav Kritsyuk,25.0,Russia,Goalkeeper,GK,1200000.0,SC Braga,Portugal,4000000.0,in,summer,Premier Liga,2016,False,,stanislav kritsyuk
+FK Krasnodar,Viktor Claesson,25.0,Sweden,Central Midfield,CM,6000000.0,Elfsborg,Sweden,2000000.0,in,winter,Premier Liga,2016,False,,viktor claesson
+FK Krasnodar,Cristian Ramírez,22.0,Ecuador,Left-Back,LB,5000000.0,Ferencváros,Hungary,1500000.0,in,winter,Premier Liga,2016,False,,cristian ramirez
+FK Rostov,Sardar Azmoun,21.0,Iran,Centre-Forward,CF,12000000.0,Rubin Kazan,Russia,2300000.0,in,summer,Premier Liga,2016,False,,sardar azmoun
+FK Ufa,Kehinde Fatai,26.0,Nigeria,Centre-Forward,CF,,Sparta Prague,Czech Republic,1300000.0,in,summer,Premier Liga,2016,False,,kehinde fatai
+Lokomotiv Moskau,Igor Portnyagin,27.0,Russia,Centre-Forward,CF,,Rubin Kazan,Russia,3000000.0,in,summer,Premier Liga,2016,False,,igor portnyagin
+Lokomotiv Moskau,Delvin N'Dinga,28.0,Congo,Defensive Midfield,DM,,Monaco,France,2500000.0,in,summer,Premier Liga,2016,False,,delvin n'dinga
+Rubin Kazan,Maxime Lestienne,24.0,Belgium,Left Winger,LW,1000000.0,Al-Arabi SC,Qatar,10000000.0,in,summer,Premier Liga,2016,False,,maxime lestienne
+Rubin Kazan,Rubén Rochina,25.0,Spain,Right Winger,RW,,Granada CF,Spain,10000000.0,in,summer,Premier Liga,2016,False,,ruben rochina
+Rubin Kazan,Jonathas,27.0,Brazil,Centre-Forward,CF,,Real Sociedad,Spain,7000000.0,in,summer,Premier Liga,2016,False,,jonathas
+Rubin Kazan,Samu García,25.0,Spain,Right Winger,RW,,Villarreal,Spain,5000000.0,in,summer,Premier Liga,2016,False,,samu garcia
+Rubin Kazan,Moritz Bauer,24.0,Austria,Right-Back,RB,,Grasshoppers,Switzerland,4000000.0,in,summer,Premier Liga,2016,False,,moritz bauer
+Rubin Kazan,Carlos Zambrano,26.0,Peru,Centre-Back,CB,,E. Frankfurt,Germany,3500000.0,in,summer,Premier Liga,2016,False,,carlos zambrano
+Spartak Moscow,Fernando,24.0,Brazil,Defensive Midfield,DM,2000000.0,Sampdoria,Italy,12500000.0,in,summer,Premier Liga,2016,False,,fernando
+Spartak Moscow,Roman Zobnin,22.0,Russia,Central Midfield,CM,6000000.0,Dinamo Moscow,Russia,3000000.0,in,summer,Premier Liga,2016,False,,roman zobnin
+Spartak Moscow,Aleksandr Selikhov,22.0,Russia,Goalkeeper,GK,3000000.0,Amkar Perm,Russia,3500000.0,in,winter,Premier Liga,2016,False,,aleksandr selikhov
+Spartak Moscow,Aleksandr Samedov,32.0,Russia,Right Winger,RW,,Loko Moskau,Russia,3500000.0,in,winter,Premier Liga,2016,False,,aleksandr samedov
+Spartak Moscow,Georgiy Dzhikiya,23.0,Russia,Centre-Back,CB,6500000.0,Amkar Perm,Russia,2350000.0,in,winter,Premier Liga,2016,False,,georgiy dzhikiya
+Terek Grozny,Bekim Balaj,25.0,Albania,Centre-Forward,CF,,HNK Rijeka,Croatia,2000000.0,in,summer,Premier Liga,2016,False,,bekim balaj
+Terek Grozny,Gabriel Torje,26.0,Romania,Right Winger,RW,,Udinese Calcio,Italy,1000000.0,in,summer,Premier Liga,2016,False,,gabriel torje
+Terek Grozny,Bernard Berisha,25.0,Kosovo,Left Winger,LW,1200000.0,Anzhi,Russia,2500000.0,in,winter,Premier Liga,2016,False,,bernard berisha
+Zenit St. Petersburg,Giuliano,26.0,Brazil,Central Midfield,CM,1200000.0,Grêmio,Brazil,7000000.0,in,summer,Premier Liga,2016,False,,giuliano
+Zenit St. Petersburg,Robert Mak,25.0,Slovakia,Left Winger,LW,,PAOK Salonika,Greece,3500000.0,in,summer,Premier Liga,2016,False,,robert mak
+Zenit St. Petersburg,Ivan Novoseltsev,25.0,Russia,Centre-Back,CB,,Rostov,Russia,1000000.0,in,summer,Premier Liga,2016,False,,ivan novoseltsev
+Zenit St. Petersburg,Hernani,22.0,Brazil,Central Midfield,CM,2000000.0,Atlético-PR,Brazil,8000000.0,in,winter,Premier Liga,2016,False,,hernani
+Zenit St. Petersburg,Andrey Lunev,25.0,Russia,Goalkeeper,GK,1200000.0,Ufa,Russia,3500000.0,in,winter,Premier Liga,2016,False,,andrey lunev
+Zenit St. Petersburg,Yohan Mollo,27.0,France,Right Winger,RW,,KS Samara,Russia,3000000.0,in,winter,Premier Liga,2016,False,,yohan mollo
+Celtic FC,Scott Sinclair,27.0,England,Left Winger,LW,,Aston Villa,England,4100000.0,in,summer,Scottish Premiership,2016,False,,scott sinclair
+Celtic FC,Cristian Gamboa,26.0,Costa Rica,Right-Back,RB,,West Brom,England,1200000.0,in,summer,Scottish Premiership,2016,False,,cristian gamboa
+Celtic FC,Eboue Kouassi,19.0,Cote d'Ivoire,Defensive Midfield,DM,,Krasnodar,Russia,3500000.0,in,winter,Scottish Premiership,2016,False,,eboue kouassi
+Rangers FC,Joe Garner,28.0,England,Centre-Forward,CF,,Preston,England,1730000.0,in,summer,Scottish Premiership,2016,False,,joe garner
+AC Milan,Gustavo Gómez,23.0,Paraguay,Centre-Back,CB,8500000.0,Lanús,Argentina,9560000.0,in,summer,Serie A,2016,False,,gustavo gomez
+AC Milan,Gianluca Lapadula,26.0,Peru,Centre-Forward,CF,2700000.0,Pescara,Italy,9500000.0,in,summer,Serie A,2016,False,,gianluca lapadula
+AC Milan,José Sosa,31.0,Argentina,Central Midfield,CM,,Besiktas,Turkey,7500000.0,in,summer,Serie A,2016,False,,jose sosa
+ACF Fiorentina,Davide Astori,29.0,Italy,Centre-Back,CB,,Cagliari Calcio,Italy,3500000.0,in,summer,Serie A,2016,False,,davide astori
+ACF Fiorentina,Kevin Diks,19.0,Netherlands,Centre-Back,CB,3000000.0,Vitesse,Netherlands,2900000.0,in,summer,Serie A,2016,False,,kevin diks
+ACF Fiorentina,Bartlomiej Dragowski,18.0,Poland,Goalkeeper,GK,3200000.0,Jagiellonia,Poland,2500000.0,in,summer,Serie A,2016,False,,bartlomiej dragowski
+ACF Fiorentina,Ianis Hagi,17.0,Romania,Attacking Midfield,AM,4000000.0,FC Viitorul,Romania,2000000.0,in,summer,Serie A,2016,False,,ianis hagi
+ACF Fiorentina,Hrvoje Milic,27.0,Croatia,Left-Back,LB,,Hajduk Split,Croatia,1000000.0,in,summer,Serie A,2016,False,,hrvoje milic
+AS Roma,Gerson,19.0,Brazil,Central Midfield,CM,15000000.0,Fluminense,Brazil,18500000.0,in,summer,Serie A,2016,False,,gerson
+AS Roma,Mohamed Salah,24.0,Egypt,Right Winger,RW,65000000.0,Chelsea,England,15000000.0,in,summer,Serie A,2016,False,,mohamed salah
+AS Roma,Stephan El Shaarawy,23.0,Italy,Left Winger,LW,5000000.0,AC Milan,Italy,13000000.0,in,summer,Serie A,2016,False,,stephan el shaarawy
+AS Roma,Edin Dzeko,30.0,Bosnia-Herzegovina,Centre-Forward,CF,4000000.0,Man City,England,11000000.0,in,summer,Serie A,2016,False,,edin dzeko
+AS Roma,Diego Perotti,27.0,Argentina,Left Winger,LW,,Genoa,Italy,9000000.0,in,summer,Serie A,2016,False,,diego perotti
+AS Roma,Antonio Rüdiger,23.0,Germany,Centre-Back,CB,32000000.0,VfB Stuttgart,Germany,9000000.0,in,summer,Serie A,2016,False,,antonio rudiger
+AS Roma,Alisson,23.0,Brazil,Goalkeeper,GK,35000000.0,Internacional,Brazil,8000000.0,in,summer,Serie A,2016,False,,alisson
+AS Roma,Ervin Zukanovic,29.0,Bosnia-Herzegovina,Centre-Back,CB,,Sampdoria,Italy,2800000.0,in,summer,Serie A,2016,False,,ervin zukanovic
+AS Roma,Abdullahi Nura,18.0,Nigeria,Right-Back,RB,,Spezia U19,Italy,2500000.0,in,summer,Serie A,2016,False,,abdullahi nura
+AS Roma,Umar Sadiq,19.0,Nigeria,Centre-Forward,CF,16000000.0,Spezia Calcio,Italy,2500000.0,in,summer,Serie A,2016,False,,umar sadiq
+AS Roma,Norbert Gyomber,23.0,Slovakia,Centre-Back,CB,1500000.0,Catania,Italy,1500000.0,in,summer,Serie A,2016,False,,norbert gyomber
+AS Roma,Emerson Palmieri,22.0,Italy,Left-Back,LB,12000000.0,Santos,Brazil,2000000.0,in,winter,Serie A,2016,False,,emerson palmieri
+Atalanta BC,Alberto Paloschi,26.0,Italy,Centre-Forward,CF,,Swansea,England,6700000.0,in,summer,Serie A,2016,False,,alberto paloschi
+Atalanta BC,Bryan Cabezas,19.0,Ecuador,Left Winger,LW,,Independiente,Ecuador,2500000.0,in,summer,Serie A,2016,False,,bryan cabezas
+Atalanta BC,Gianluca Mancini,20.0,Italy,Centre-Back,CB,18000000.0,Perugia,Italy,1900000.0,in,winter,Serie A,2016,False,,gianluca mancini
+Atalanta BC,Hans Hateboer,23.0,Netherlands,Right Midfield,RM,6000000.0,FC Groningen,Netherlands,1040000.0,in,winter,Serie A,2016,False,,hans hateboer
+Atalanta BC,Alessandro Santopadre,18.0,Italy,Goalkeeper,GK,,Perugia,Italy,1000000.0,in,winter,Serie A,2016,False,,alessandro santopadre
+Bologna FC 1909,Simone Verdi,23.0,Italy,Attacking Midfield,AM,2700000.0,AC Milan,Italy,6400000.0,in,summer,Serie A,2016,False,,simone verdi
+Bologna FC 1909,Luca Rizzo,24.0,Italy,Central Midfield,CM,,Sampdoria,Italy,6000000.0,in,summer,Serie A,2016,False,,luca rizzo
+Bologna FC 1909,Godfred Donsah,20.0,Ghana,Central Midfield,CM,,Cagliari Calcio,Italy,5000000.0,in,summer,Serie A,2016,False,,godfred donsah
+Bologna FC 1909,Ladislav Krejci,24.0,Czech Republic,Left Midfield,LM,,Sparta Prague,Czech Republic,3800000.0,in,summer,Serie A,2016,False,,ladislav krejci
+Bologna FC 1909,Lorenzo Crisetig,23.0,Italy,Defensive Midfield,DM,,Inter,Italy,2700000.0,in,summer,Serie A,2016,False,,lorenzo crisetig
+Bologna FC 1909,Ádám Nagy,21.0,Hungary,Defensive Midfield,DM,1200000.0,Ferencváros,Hungary,1800000.0,in,summer,Serie A,2016,False,,adam nagy
+Bologna FC 1909,Federico Di Francesco,22.0,Italy,Left Winger,LW,1400000.0,Virtus Lanciano,Italy,1400000.0,in,summer,Serie A,2016,False,,federico di francesco
+Bologna FC 1909,Blerim Dzemaili,30.0,Switzerland,Central Midfield,CM,,Galatasaray,Turkey,1300000.0,in,summer,Serie A,2016,False,,blerim dzemaili
+Bologna FC 1909,Juan Valencia,18.0,Colombia,Central Midfield,CM,,Cortuluá,Colombia,1400000.0,in,winter,Serie A,2016,False,,juan valencia
+Bologna FC 1909,Bruno Petkovic,22.0,Croatia,Centre-Forward,CF,5000000.0,Trapani,Italy,1300000.0,in,winter,Serie A,2016,False,,bruno petkovic
+Cagliari Calcio,Artur Ionita,25.0,Moldova,Central Midfield,CM,,Hellas Verona,Italy,4500000.0,in,summer,Serie A,2016,False,,artur ionita
+Cagliari Calcio,Mauricio Isla,28.0,Chile,Right-Back,RB,,Juventus,Italy,4000000.0,in,summer,Serie A,2016,False,,mauricio isla
+Chievo Verona,Mattia Bani,22.0,Italy,Centre-Back,CB,2000000.0,Pro Vercelli,Italy,6150000.0,in,summer,Serie A,2016,False,,mattia bani
+Chievo Verona,Paul-José Mpoku,24.0,DR Congo,Attacking Midfield,AM,,Standard Liège,Belgium,4000000.0,in,summer,Serie A,2016,False,,paul-jose mpoku
+Chievo Verona,Samuel Bastien,19.0,DR Congo,Central Midfield,CM,1800000.0,RSC Anderlecht,Belgium,1300000.0,in,summer,Serie A,2016,False,,samuel bastien
+Delfino Pescara 1936,Cristiano Biraghi,23.0,Italy,Left-Back,LB,5000000.0,Inter,Italy,5000000.0,in,summer,Serie A,2016,False,,cristiano biraghi
+Delfino Pescara 1936,Valerio Verre,22.0,Italy,Attacking Midfield,AM,1400000.0,Udinese Calcio,Italy,4000000.0,in,summer,Serie A,2016,False,,valerio verre
+Delfino Pescara 1936,Vincenzo Fiorillo,26.0,Italy,Goalkeeper,GK,,Juventus,Italy,2000000.0,in,summer,Serie A,2016,False,,vincenzo fiorillo
+Delfino Pescara 1936,Ahmad Benali,24.0,Libya,Central Midfield,CM,,US Palermo,Italy,1000000.0,in,summer,Serie A,2016,False,,ahmad benali
+FC Crotone,Ante Budimir,24.0,Croatia,Centre-Forward,CF,5000000.0,FC St. Pauli,Germany,1000000.0,in,summer,Serie A,2016,False,,ante budimir
+FC Empoli,Matheus Pereira,18.0,Brazil,Central Midfield,CM,1200000.0,Corinthians,Brazil,2000000.0,in,summer,Serie A,2016,False,,matheus pereira
+FC Empoli,Marcel Büchel,25.0,Liechtenstein,Central Midfield,CM,,Juventus,Italy,1500000.0,in,summer,Serie A,2016,False,,marcel buchel
+FC Empoli,Miha Zajc,22.0,Slovenia,Central Midfield,CM,5000000.0,NK Olimpija,Slovenia,2300000.0,in,winter,Serie A,2016,False,,miha zajc
+FC Empoli,Omar El Kaddouri,26.0,Morocco,Attacking Midfield,AM,,SSC Napoli,Italy,1200000.0,in,winter,Serie A,2016,False,,omar el kaddouri
+Genoa CFC,Diego Laxalt,23.0,Uruguay,Left-Back,LB,2800000.0,Inter,Italy,5800000.0,in,summer,Serie A,2016,False,,diego laxalt
+Genoa CFC,Giovanni Simeone,21.0,Argentina,Centre-Forward,CF,15000000.0,River Plate,Argentina,5100000.0,in,summer,Serie A,2016,False,,giovanni simeone
+Genoa CFC,Davide Brivio,28.0,Italy,Left-Back,LB,,Atalanta BC,Italy,4000000.0,in,summer,Serie A,2016,False,,davide brivio
+Genoa CFC,Cristian Ansaldi,29.0,Argentina,Left-Back,LB,,Zenit S-Pb,Russia,4000000.0,in,summer,Serie A,2016,False,,cristian ansaldi
+Genoa CFC,Davide Biraschi,22.0,Italy,Right-Back,RB,1300000.0,Avellino,Italy,1600000.0,in,summer,Serie A,2016,False,,davide biraschi
+Genoa CFC,Nikola Ninkovic,21.0,Serbia,Attacking Midfield,AM,,Chievo Verona,Italy,1500000.0,in,summer,Serie A,2016,False,,nikola ninkovic
+Genoa CFC,Francesco Renzetti,28.0,Italy,Left-Back,LB,,Cesena,Italy,1200000.0,in,summer,Serie A,2016,False,,francesco renzetti
+Genoa CFC,Leonardo Morosini,21.0,Italy,Second Striker,SS,,Brescia,Italy,2500000.0,in,winter,Serie A,2016,False,,leonardo morosini
+Inter Milan,João Mário,23.0,Portugal,Central Midfield,CM,14000000.0,Sporting CP,Portugal,44780000.0,in,summer,Serie A,2016,False,,joao mario
+Inter Milan,Gabriel Barbosa,20.0,Brazil,Centre-Forward,CF,20000000.0,Santos,Brazil,29500000.0,in,summer,Serie A,2016,False,,gabriel barbosa
+Inter Milan,Antonio Candreva,29.0,Italy,Right Midfield,RM,1500000.0,Lazio,Italy,22000000.0,in,summer,Serie A,2016,False,,antonio candreva
+Inter Milan,Miranda,31.0,Brazil,Centre-Back,CB,,Atlético Madrid,Spain,11000000.0,in,summer,Serie A,2016,False,,miranda
+Inter Milan,Cristian Ansaldi,29.0,Argentina,Left-Back,LB,,Genoa,Italy,10500000.0,in,summer,Serie A,2016,False,,cristian ansaldi
+Inter Milan,Éder,29.0,Italy,Centre-Forward,CF,,Sampdoria,Italy,9800000.0,in,summer,Serie A,2016,False,,eder
+Inter Milan,Gianluca Caprari,22.0,Italy,Second Striker,SS,8000000.0,Pescara,Italy,8250000.0,in,summer,Serie A,2016,False,,gianluca caprari
+Inter Milan,Dodô,24.0,Brazil,Left-Back,LB,,AS Roma,Italy,7800000.0,in,summer,Serie A,2016,False,,dodo
+Inter Milan,Marcelo Brozovic,23.0,Croatia,Defensive Midfield,DM,20000000.0,Dinamo Zagreb,Croatia,5000000.0,in,summer,Serie A,2016,False,,marcelo brozovic
+Inter Milan,Stevan Jovetic,27.0,Montenegro,Centre-Forward,CF,1500000.0,Man City,England,13500000.0,in,winter,Serie A,2016,False,,stevan jovetic
+Juventus FC,Gonzalo Higuaín,28.0,Argentina,Centre-Forward,CF,,SSC Napoli,Italy,90000000.0,in,summer,Serie A,2016,False,,gonzalo higuain
+Juventus FC,Miralem Pjanic,26.0,Bosnia-Herzegovina,Central Midfield,CM,5000000.0,AS Roma,Italy,32000000.0,in,summer,Serie A,2016,False,,miralem pjanic
+Juventus FC,Marko Pjaca,21.0,Croatia,Left Winger,LW,1700000.0,Dinamo Zagreb,Croatia,29400000.0,in,summer,Serie A,2016,False,,marko pjaca
+Juventus FC,Mario Lemina,22.0,Gabon,Defensive Midfield,DM,10000000.0,Marseille,France,9800000.0,in,summer,Serie A,2016,False,,mario lemina
+Juventus FC,Mattia Caldara,22.0,Italy,Centre-Back,CB,2000000.0,Atalanta BC,Italy,19000000.0,in,winter,Serie A,2016,False,,mattia caldara
+Juventus FC,Tomás Rincón,28.0,Venezuela,Defensive Midfield,DM,,Genoa,Italy,8000000.0,in,winter,Serie A,2016,False,,tomas rincon
+Juventus FC,Riccardo Orsolini,20.0,Italy,Right Winger,RW,12000000.0,Ascoli,Italy,6000000.0,in,winter,Serie A,2016,False,,riccardo orsolini
+SS Lazio,Ciro Immobile,26.0,Italy,Centre-Forward,CF,15000000.0,Sevilla FC,Spain,9450000.0,in,summer,Serie A,2016,False,,ciro immobile
+SS Lazio,Wallace,21.0,Brazil,Centre-Back,CB,1500000.0,SC Braga,Portugal,8000000.0,in,summer,Serie A,2016,False,,wallace
+SS Lazio,Bastos,25.0,Angola,Centre-Back,CB,1200000.0,Rostov,Russia,5000000.0,in,summer,Serie A,2016,False,,bastos
+SS Lazio,Luis Alberto,23.0,Spain,Central Midfield,CM,18000000.0,Liverpool,England,4000000.0,in,summer,Serie A,2016,False,,luis alberto
+SS Lazio,Jordan Lukaku,21.0,Belgium,Left-Back,LB,,KV Oostende,Belgium,4000000.0,in,summer,Serie A,2016,False,,jordan lukaku
+SS Lazio,Moritz Leitner,23.0,Germany,Central Midfield,CM,,Bor. Dortmund,Germany,1500000.0,in,summer,Serie A,2016,False,,moritz leitner
+SSC Napoli,Arkadiusz Milik,22.0,Poland,Centre-Forward,CF,8000000.0,Ajax,Netherlands,32000000.0,in,summer,Serie A,2016,False,,arkadiusz milik
+SSC Napoli,Piotr Zielinski,22.0,Poland,Central Midfield,CM,35000000.0,Udinese Calcio,Italy,16000000.0,in,summer,Serie A,2016,False,,piotr zielinski
+SSC Napoli,Amadou Diawara,19.0,Guinea,Defensive Midfield,DM,2200000.0,Bologna,Italy,14500000.0,in,summer,Serie A,2016,False,,amadou diawara
+SSC Napoli,Lorenzo Tonelli,26.0,Italy,Centre-Back,CB,,FC Empoli,Italy,10000000.0,in,summer,Serie A,2016,False,,lorenzo tonelli
+SSC Napoli,Emanuele Giaccherini,31.0,Italy,Left Midfield,LM,,Sunderland,England,1500000.0,in,summer,Serie A,2016,False,,emanuele giaccherini
+SSC Napoli,Leonardo Pavoletti,28.0,Italy,Centre-Forward,CF,1000000.0,Genoa,Italy,18000000.0,in,winter,Serie A,2016,False,,leonardo pavoletti
+Torino FC,Adem Ljajic,24.0,Serbia,Attacking Midfield,AM,,AS Roma,Italy,9000000.0,in,summer,Serie A,2016,False,,adem ljajic
+Torino FC,Lorenzo De Silvestri,28.0,Italy,Right-Back,RB,,Sampdoria,Italy,3500000.0,in,summer,Serie A,2016,False,,lorenzo de silvestri
+Torino FC,Mirko Valdifiori,30.0,Italy,Defensive Midfield,DM,,SSC Napoli,Italy,3400000.0,in,summer,Serie A,2016,False,,mirko valdifiori
+Torino FC,Luca Rossettini,31.0,Italy,Centre-Back,CB,,Bologna,Italy,1980000.0,in,summer,Serie A,2016,False,,luca rossettini
+Torino FC,Sasa Lukic,19.0,Serbia,Central Midfield,CM,12000000.0,Partizan,Serbia,1700000.0,in,summer,Serie A,2016,False,,sasa lukic
+Torino FC,Panagiotis Tachtsidis,25.0,Greece,Defensive Midfield,DM,,Genoa,Italy,1300000.0,in,summer,Serie A,2016,False,,panagiotis tachtsidis
+Torino FC,Iago Falque,27.0,Spain,Right Winger,RW,,AS Roma,Italy,6000000.0,in,winter,Serie A,2016,False,,iago falque
+UC Sampdoria,Dennis Praet,22.0,Belgium,Central Midfield,CM,7000000.0,RSC Anderlecht,Belgium,8000000.0,in,summer,Serie A,2016,False,,dennis praet
+UC Sampdoria,Patrik Schick,20.0,Czech Republic,Centre-Forward,CF,25000000.0,Sparta Prague,Czech Republic,4000000.0,in,summer,Serie A,2016,False,,patrik schick
+UC Sampdoria,Luca Cigarini,30.0,Italy,Defensive Midfield,DM,,Atalanta BC,Italy,3500000.0,in,summer,Serie A,2016,False,,luca cigarini
+UC Sampdoria,Karol Linetty,21.0,Poland,Central Midfield,CM,3500000.0,Lech Poznan,Poland,3100000.0,in,summer,Serie A,2016,False,,karol linetty
+UC Sampdoria,Fabio Quagliarella,33.0,Italy,Centre-Forward,CF,,Torino,Italy,2750000.0,in,summer,Serie A,2016,False,,fabio quagliarella
+UC Sampdoria,Jacopo Sala,24.0,Italy,Central Midfield,CM,,Hellas Verona,Italy,2600000.0,in,summer,Serie A,2016,False,,jacopo sala
+UC Sampdoria,Emiliano Viviano,30.0,Italy,Goalkeeper,GK,,US Palermo,Italy,2300000.0,in,summer,Serie A,2016,False,,emiliano viviano
+UC Sampdoria,Ante Budimir,24.0,Croatia,Centre-Forward,CF,5000000.0,Crotone,Italy,1800000.0,in,summer,Serie A,2016,False,,ante budimir
+UC Sampdoria,Salvatore Lancia,19.0,Italy,Centre-Forward,CF,,Verona U19,Italy,1000000.0,in,summer,Serie A,2016,False,,salvatore lancia
+UC Sampdoria,Leonardo Capezzi,21.0,Italy,Central Midfield,CM,,Crotone,Italy,1000000.0,in,summer,Serie A,2016,False,,leonardo capezzi
+UC Sampdoria,Valerio Verre,23.0,Italy,Attacking Midfield,AM,1400000.0,Pescara,Italy,4100000.0,in,winter,Serie A,2016,False,,valerio verre
+UC Sampdoria,Bartosz Bereszynski,24.0,Poland,Right-Back,RB,1600000.0,Legia Warszawa,Poland,1800000.0,in,winter,Serie A,2016,False,,bartosz bereszynski
+UC Sampdoria,Lorenco Simic,20.0,Croatia,Centre-Back,CB,,Hajduk Split,Croatia,1500000.0,in,winter,Serie A,2016,False,,lorenco simic
+US Palermo,Bruno Henrique,26.0,Brazil,Central Midfield,CM,,Corinthians,Brazil,3300000.0,in,summer,Serie A,2016,False,,bruno henrique
+US Palermo,Slobodan Rajković,27.0,Serbia,Centre-Back,CB,,Darmstadt 98,Germany,1500000.0,in,summer,Serie A,2016,False,,slobodan rajkovic
+US Palermo,Haitam Aleesami,25.0,Norway,Left-Back,LB,,IFK Göteborg,Sweden,1380000.0,in,summer,Serie A,2016,False,,haitam aleesami
+US Sassuolo,Matteo Politano,22.0,Italy,Right Winger,RW,15000000.0,AS Roma,Italy,8100000.0,in,summer,Serie A,2016,False,,matteo politano
+US Sassuolo,Alfred Duncan,23.0,Ghana,Central Midfield,CM,4000000.0,Sampdoria,Italy,6000000.0,in,summer,Serie A,2016,False,,alfred duncan
+US Sassuolo,Gian Marco Ferrari,24.0,Italy,Centre-Back,CB,2000000.0,Crotone,Italy,4000000.0,in,summer,Serie A,2016,False,,gian marco ferrari
+US Sassuolo,Timo Letschert,23.0,Netherlands,Centre-Back,CB,,FC Utrecht,Netherlands,3500000.0,in,summer,Serie A,2016,False,,timo letschert
+US Sassuolo,Pietro Iemmello,24.0,Italy,Centre-Forward,CF,,Spezia Calcio,Italy,2300000.0,in,summer,Serie A,2016,False,,pietro iemmello
+US Sassuolo,Alessandro Matri,31.0,Italy,Centre-Forward,CF,,AC Milan,Italy,1800000.0,in,summer,Serie A,2016,False,,alessandro matri
+US Sassuolo,Antonino Ragusa,26.0,Italy,Left Winger,LW,,Cesena,Italy,1790000.0,in,summer,Serie A,2016,False,,antonino ragusa
+Udinese Calcio,Rodrigo de Paul,22.0,Argentina,Central Midfield,CM,40000000.0,Valencia,Spain,10000000.0,in,summer,Serie A,2016,False,,rodrigo de paul
+Udinese Calcio,Stipe Perica,20.0,Croatia,Centre-Forward,CF,,Chelsea,England,4500000.0,in,summer,Serie A,2016,False,,stipe perica
+Udinese Calcio,Seko Fofana,21.0,Cote d'Ivoire,Central Midfield,CM,24000000.0,Man City U23,England,3500000.0,in,summer,Serie A,2016,False,,seko fofana
+Udinese Calcio,Ewandro Costa,20.0,Brazil,Left Winger,LW,,São Paulo,Brazil,3000000.0,in,summer,Serie A,2016,False,,ewandro costa
+Udinese Calcio,Kevin Lasagna,24.0,Italy,Centre-Forward,CF,1600000.0,Carpi,Italy,5000000.0,in,winter,Serie A,2016,False,,kevin lasagna
+Olympiacos Piraeus,Marko Marin,27.0,Germany,Attacking Midfield,AM,,Chelsea,England,3000000.0,in,summer,Super League 1,2016,False,,marko marin
+Olympiacos Piraeus,Óscar Cardozo,33.0,Paraguay,Centre-Forward,CF,,Trabzonspor,Turkey,2400000.0,in,summer,Super League 1,2016,False,,oscar cardozo
+Olympiacos Piraeus,Bruno Viana,21.0,Brazil,Centre-Back,CB,1600000.0,Cruzeiro,Brazil,2000000.0,in,summer,Super League 1,2016,False,,bruno viana
+Olympiacos Piraeus,Felipe Pardo,25.0,Colombia,Right Winger,RW,,SC Braga,Portugal,1500000.0,in,summer,Super League 1,2016,False,,felipe pardo
+Olympiacos Piraeus,Diogo Figueiras,25.0,Portugal,Right-Back,RB,,Sevilla FC,Spain,1500000.0,in,summer,Super League 1,2016,False,,diogo figueiras
+Olympiacos Piraeus,Tarik Elyounoussi,28.0,Norway,Centre-Forward,CF,,TSG Hoffenheim,Germany,1000000.0,in,summer,Super League 1,2016,False,,tarik elyounoussi
+PAOK Thessaloniki,Fernando Varela,28.0,Cape Verde,Centre-Back,CB,,Steaua Bucharest,Romania,1400000.0,in,summer,Super League 1,2016,False,,fernando varela
+PAOK Thessaloniki,Aleksandar Prijovic,26.0,Serbia,Centre-Forward,CF,,Legia Warszawa,Poland,2900000.0,in,winter,Super League 1,2016,False,,aleksandar prijovic
+PAOK Thessaloniki,Pedro Henrique,26.0,Brazil,Left Winger,LW,1700000.0,Stade Rennais,France,1600000.0,in,winter,Super League 1,2016,False,,pedro henrique
+FC Basel 1893,Éder Balanta,23.0,Colombia,Defensive Midfield,DM,2000000.0,River Plate,Argentina,3500000.0,in,summer,Super League,2016,False,,eder balanta
+FC Basel 1893,Mohamed Elyounoussi,21.0,Norway,Left Winger,LW,7000000.0,Molde FK,Norway,3200000.0,in,summer,Super League,2016,False,,mohamed elyounoussi
+FC Basel 1893,Blas Riveros,18.0,Paraguay,Left-Back,LB,1500000.0,Olimpia,Paraguay,1700000.0,in,summer,Super League,2016,False,,blas riveros
+FC Basel 1893,Omar Gaber,24.0,Egypt,Right-Back,RB,,Zamalek,Egypt,1650000.0,in,summer,Super League,2016,False,,omar gaber
+FC Basel 1893,Kevin Bua,22.0,Switzerland,Left Winger,LW,,FC Zürich,Switzerland,1500000.0,in,summer,Super League,2016,False,,kevin bua
+FC Basel 1893,Geoffroy Serey Dié,31.0,Cote d'Ivoire,Defensive Midfield,DM,,VfB Stuttgart,Germany,1200000.0,in,summer,Super League,2016,False,,geoffroy serey die
+FC St. Gallen 1879,Roman Buess,23.0,Switzerland,Centre-Forward,CF,,FC Thun,Switzerland,1300000.0,in,summer,Super League,2016,False,,roman buess
+Grasshopper Club Zurich,Rúnar Már Sigurjónsson,26.0,Iceland,Central Midfield,CM,,GIF Sundsvall,Sweden,1100000.0,in,summer,Super League,2016,False,,runar mar sigurjonsson
+Basaksehir FK,Cengiz Ünder,18.0,Turkey,Right Winger,RW,20000000.0,Altinordu,Turkey,4800000.0,in,summer,Super Lig,2016,False,,cengiz under
+Basaksehir FK,Júnior Caiçara,27.0,Brazil,Right-Back,RB,,FC Schalke 04,Germany,3000000.0,in,winter,Super Lig,2016,False,,junior caicara
+Basaksehir FK,İrfan Can Kahveci,21.0,Turkey,Right Winger,RW,7500000.0,Genclerbirligi,Turkey,1610000.0,in,winter,Super Lig,2016,False,,irfan can kahveci
+Besiktas JK,Adriano,31.0,Brazil,Left-Back,LB,,Barcelona,Spain,2300000.0,in,summer,Super Lig,2016,False,,adriano
+Besiktas JK,Marcelo,29.0,Brazil,Centre-Back,CB,,Hannover 96,Germany,2000000.0,in,summer,Super Lig,2016,False,,marcelo
+Besiktas JK,Matej Mitrovic,23.0,Croatia,Centre-Back,CB,,HNK Rijeka,Croatia,4200000.0,in,winter,Super Lig,2016,False,,matej mitrovic
+Caykur Rizespor,Oğulcan Çağlayan,20.0,Turkey,Centre-Forward,CF,,K. Erciyesspor,Turkey,1200000.0,in,summer,Super Lig,2016,False,,ogulcan caglayan
+Caykur Rizespor,Bright Edomwonyi,22.0,Nigeria,Centre-Forward,CF,,Sturm Graz,Austria,1200000.0,in,winter,Super Lig,2016,False,,bright edomwonyi
+Fenerbahce,Martin Skrtel,31.0,Slovakia,Centre-Back,CB,,Liverpool,England,6000000.0,in,summer,Super Lig,2016,False,,martin skrtel
+Galatasaray,Serdar Aziz,25.0,Turkey,Centre-Back,CB,1700000.0,Bursaspor,Turkey,4500000.0,in,summer,Super Lig,2016,False,,serdar aziz
+Galatasaray,Eren Derdiyok,28.0,Switzerland,Centre-Forward,CF,,Kasimpasa,Turkey,4000000.0,in,summer,Super Lig,2016,False,,eren derdiyok
+Galatasaray,Tolga Ciğerci,24.0,Turkey,Defensive Midfield,DM,,Hertha BSC,Germany,3000000.0,in,summer,Super Lig,2016,False,,tolga cigerci
+Galatasaray,Luis Pedro Cavanda,25.0,Belgium,Right-Back,RB,,Trabzonspor,Turkey,1800000.0,in,summer,Super Lig,2016,False,,luis pedro cavanda
+Galatasaray,Garry Rodrigues,26.0,Cape Verde,Left Winger,LW,1800000.0,PAOK Salonika,Greece,5300000.0,in,winter,Super Lig,2016,False,,garry rodrigues
+Galatasaray,Ahmet Çalık,22.0,Turkey,Centre-Back,CB,,Genclerbirligi,Turkey,2500000.0,in,winter,Super Lig,2016,False,,ahmet calik
+Gaziantepspor,Nabil Ghilas,26.0,Algeria,Centre-Forward,CF,,FC Porto,Portugal,2000000.0,in,summer,Super Lig,2016,False,,nabil ghilas
+Trabzonspor,Ogenyi Onazi,23.0,Nigeria,Defensive Midfield,DM,,Lazio,Italy,3500000.0,in,summer,Super Lig,2016,False,,ogenyi onazi
+Trabzonspor,Matus Bero,20.0,Slovakia,Central Midfield,CM,3500000.0,AS Trencin,Slovakia,2500000.0,in,summer,Super Lig,2016,False,,matus bero
+Trabzonspor,Luis Ibáñez,28.0,Argentina,Left-Back,LB,,Red Star,Serbia,1400000.0,in,summer,Super Lig,2016,False,,luis ibanez
+Trabzonspor,Hugo Rodallega,31.0,Colombia,Centre-Forward,CF,,Akhisar Belediye,Turkey,1600000.0,in,winter,Super Lig,2016,False,,hugo rodallega
+Trabzonspor,Emmanuel Más,27.0,Argentina,Left-Back,LB,,San Lorenzo,Argentina,1500000.0,in,winter,Super Lig,2016,False,,emmanuel mas
+Aalborg BK,Edison Flores,22.0,Peru,Left Winger,LW,1100000.0,Universitario,Peru,1250000.0,in,summer,Superliga,2016,False,,edison flores
+FC Copenhagen,Robin Olsen,26.0,Sweden,Goalkeeper,GK,1500000.0,PAOK Salonika,Greece,2400000.0,in,summer,Superliga,2016,False,,robin olsen
+FC Copenhagen,Andrija Pavlovic,22.0,Serbia,Centre-Forward,CF,,FK Cukaricki,Serbia,2000000.0,in,summer,Superliga,2016,False,,andrija pavlovic
+FC Copenhagen,Peter Ankersen,25.0,Denmark,Right-Back,RB,,RB Salzburg,Austria,1500000.0,in,summer,Superliga,2016,False,,peter ankersen
+FC Copenhagen,Ján Gregus,25.0,Slovakia,Central Midfield,CM,1200000.0,Jablonec,Czech Republic,1100000.0,in,summer,Superliga,2016,False,,jan gregus
+FC Copenhagen,Uros Matic,26.0,Serbia,Central Midfield,CM,,Sturm Graz,Austria,3000000.0,in,winter,Superliga,2016,False,,uros matic
+GNK Dinamo Zagreb,Amir Rrahmani,22.0,Kosovo,Centre-Back,CB,25000000.0,RNK Split,Croatia,1600000.0,in,summer,Supersport Hnl,2016,False,,amir rrahmani
+GNK Dinamo Zagreb,Marko Leskovic,25.0,Croatia,Centre-Back,CB,,HNK Rijeka,Croatia,1500000.0,in,summer,Supersport Hnl,2016,False,,marko leskovic

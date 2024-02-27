@@ -1,0 +1,160 @@
+import cloudscraper
+from bs4 import BeautifulSoup
+import re
+import pandas as pd
+
+def crawl_all_players_data(year):
+    base_url = f"https://sofifa.com/players?r={year}&set=true"
+    scraper = cloudscraper.create_scraper()
+    response = scraper.get(base_url)
+    #print(response.text)
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.text, 'html.parser')
+        player_data_list = []
+        # Tìm tất cả các thẻ 'a' chứa thông tin cầu thủ
+        player_links = soup.find_all('a', href=lambda href: href and "/player/" in href)
+
+        # Lặp qua từng liên kết cầu thủ và gọi hàm để lấy thông tin chi tiết
+        for player_link in player_links:
+            player_url = f"https://sofifa.com{player_link['href']}"
+            if "/player/" in player_url and "/random" not in player_url:
+                #print(player_url)
+                #crawl_player_details(player_url)
+                player_data = crawl_player_details(player_url)
+                player_data_list.append(player_data)
+        return pd.concat(player_data_list, ignore_index=True)
+    else:
+        print(f"Yêu cầu thất bại, mã lỗi: {response.status_code}")
+
+def crawl_player_details(player_url):
+    scraper = cloudscraper.create_scraper(
+        browser={
+        'browser': 'chrome',
+        'platform': 'windows',
+        'desktop': True,
+        'mobile': False,
+        'custom':"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 Edg/117.0.2045.60"
+    }, delay = 5)
+    response = scraper.get(player_url)
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.text, 'html.parser')
+        short_name = soup.find('h1', class_='ellipsis').text.strip()
+        player_info = soup.find('div', class_='info')
+        player_name = player_info.find('h1').text.strip()
+        nationality = player_info.find('a', title=True)['title'] or "Không xác định"
+        #Lấy thông tin chuỗi thông tin cơ bản
+        meta_info = player_info.find('div', class_='meta ellipsis').text.strip()
+        # Sử dụng biểu thức chính quy để trích xuất thông tin
+        match = re.match(r'(.+?) (\d+)y\.o\. \((\w+ \d+, \d+)\) (\d+)cm / (\S+) (\d+)kg', meta_info)
+        position = match.group(1)
+        age = match.group(2)
+        birthday = match.group(3)
+        height = match.group(4)
+        weight_unit = match.group(5)
+        weight = match.group(6)
+        player_info2 = soup.find('section', class_='card spacing')
+        overall_rating = player_info2.find('div', string='Overall rating').find_previous('span').text.strip()
+        potential = player_info2.find('div', string='Potential').find_previous('span').text.strip()
+        value = player_info2.find('div', string='Value').previous_sibling.strip()
+        wage = player_info2.find('div', string='Wage').previous_sibling.strip()
+        preferred_foot = soup.select_one('li.ellipsis label:-soup-contains("Preferred foot")').next_sibling.strip()
+        skill_moves = soup.select_one('li.ellipsis:-soup-contains("Skill moves") svg').previous_sibling.strip()
+        weak_foot = soup.select_one('li.ellipsis:-soup-contains("Weak foot") svg').previous_sibling.strip()
+        international_reputation = soup.select_one('li.ellipsis:-soup-contains("International reputation") svg').previous_sibling.strip()
+        work_rate = soup.select_one('li.ellipsis label:-soup-contains("Work rate") + span').text.strip()
+        body_type = soup.select_one('li.ellipsis label:-soup-contains("Body type") + span').text.strip()
+        real_face = soup.select_one('li.ellipsis label:-soup-contains("Real face") + span').text.strip()
+        release_clause = soup.select_one('li.ellipsis label:-soup-contains("Release clause") + span').text.strip()
+        club_name = soup.select_one('h5 a').text.strip()
+        team_position = soup.select_one('li:-soup-contains("Position") span').text.strip()
+        joined = soup.select_one('li:-soup-contains("Joined")').text.split('Joined')[-1].strip()
+        contract_valid_until = soup.select_one('li:-soup-contains("Contract valid until")').text.split('Contract valid until')[-1].strip()
+        player_data = {
+        'Player URL': player_url,
+        'Short Name': short_name,
+        'Player Name': player_name,
+        'Nationality': nationality,
+        'Age': age,
+        'Birthday': birthday,
+        'Height': height,
+        'Weight': weight,
+        'Overall Rating': overall_rating,
+        'Potential': potential,
+        'Value': value,
+        'Wage': wage,
+        'Preferred Foot': preferred_foot,
+        'Skill Moves': skill_moves,
+        'Weak Foot': weak_foot,
+        'International Reputation': international_reputation,
+        'Work Rate': work_rate,
+        'Body Type': body_type,
+        'Real Face': real_face,
+        'Release Clause': release_clause,
+        'Position': position,
+        'Joined': joined,
+        'Contract Valid Until': contract_valid_until,
+        'Team Position': team_position,
+        'Club Name': club_name,
+        }
+        # print(f'Short name: {short_name}')
+        # print(f'Player name:{player_name}')
+        # print(f'Quốc tịch: {nationality}')
+        # print(f'Tuổi: {age}')
+        # print(f'Ngày tháng năm sinh: {birthday}')
+        # print(f'Chiều cao: {height}')
+        # print(f'Cân nặng: {weight}')
+        # print(f'Overall:{overall_rating}')
+        # print(f'Potential: {potential}')
+        # print(f'Giá trị: {value}')
+        # print(f'Lương: {wage}')
+        # print(f'Chân thuận: {preferred_foot}')
+        # print(f'Skill moves: {skill_moves}')
+        # print(f'Weak_foot: {weak_foot}')
+        # print(f'International reputation: {international_reputation}')
+        # print(f'Work rate: {work_rate}')
+        # print(f'Body type: {body_type}')
+        # print(f'Real face: {real_face}')
+        # print(f'Release clause: {release_clause}')
+        # print(f'Position: {position}')
+        # print(f'Ngày gia nhập: {joined}')
+        # print(f'Hợp đồng hết hạn: {contract_valid_until}')
+        # print(f'Team Position: {team_position}')
+        # print(f'Tên Club: {club_name}')
+        card_divs = soup.find_all('div', class_='card')
+        # Lặp qua từng thẻ div
+        for card_div in card_divs:
+            # Tìm thẻ <ul class="pl">
+            ul_element = card_div.find('ul', class_='pl')
+
+            # Kiểm tra xem thẻ <ul class="pl"> có tồn tại không
+            if ul_element:
+                # Tìm tất cả các phần tử <li> trong thẻ <ul class="pl">
+                li_elements = ul_element.find_all('li')
+                
+                # Trích xuất dữ liệu và in ra màn hình
+                for li in li_elements:
+                    span_tag = li.find('span', class_='bp3-tag')
+                    attribute_name_span = li.find('span', role='tooltip')
+
+                    # Kiểm tra xem cả hai thẻ có tồn tại không trước khi truy xuất text
+                    if span_tag and attribute_name_span:
+                        attribute_value = span_tag.text.strip()
+                        attribute_name = attribute_name_span.text.strip()
+                        #print(f"{attribute_name} {attribute_value}")
+                        player_data[attribute_name] = attribute_value
+                    else:
+                        # Nếu một số phần tử bị thiếu, bỏ qua và không in gì cả
+                        pass      
+            else:
+                # Nếu không tìm thấy thẻ <ul class='pl'> trong thẻ div với class='card', bỏ qua và không in gì cả
+                pass
+        return pd.DataFrame([player_data])  
+        
+    else:
+        print(f"Yêu cầu thất bại, mã lỗi: {response.status_code}")
+final_df = pd.DataFrame()
+
+# Gọi hàm để crawl thông tin cầu thủ và thêm vào DataFrame chung
+final_df = pd.concat([final_df, crawl_all_players_data(220069)], ignore_index=True)
+
+print(final_df)
